@@ -1,525 +1,525 @@
 2024 RANK,2023 RANK,Institution Name,Country Code,Country,SIZE,FOCUS,RES.,AGE,STATUS,Academic Reputation Score,Academic Reputation Rank,Employer Reputation Score,Employer Reputation Rank,Faculty Student Score,Faculty Student Rank,Citations per Faculty Score,Citations per Faculty Rank,International Faculty Score,International Faculty Rank,International Students Score,International Students Rank,International Research Network Score,International Research Network Rank,Employment Outcomes Score,Employment Outcomes Rank,Sustainability Score,Sustainability Rank,Overall SCORE
-336,330,Aalborg University,DK,Denmark,L,FC,VH,3,A,20.0,442,22.0,424,32.0,500,42.0,317,76.0,244,18.0,570,79.0,151,15.0,569,36.0,393,32.0
-109,116,Aalto University,FI,Finland,L,FO,VH,2,A,45.0,187,42.0,223,40.0,391,79.0,112,96.0,147,38.0,363,56.0,277,89.0,39,95.0,53,59.0
-143,161,Aarhus University,DK,Denmark,L,FC,VH,4,A,56.0,140,25.0,387,33.0,490,54.0,238,90.0,181,13.0,661,95.0,56,45.0,156,98.0,18,52.0
-345,369,Airlangga University,ID,Indonesia,L,FC,HI,4,A,34.0,254,73.0,95,52.0,301,1.0,701+,45.0,379,6.0,701+,1.0,701+,14.0,582,31.0,444,32.0
-387,490,Aix-Marseille University,FR,France,XL,FC,VH,5,A,36.0,241,5.0,601+,8.0,701+,27.0,468,19.0,609,20.0,549,99.0,13,11.0,701+,65.0,228,28.0
-230,150,Al-Farabi Kazakh National University,KZ,Kazakhstan,L,FC,HI,4,A,51.0,155,75.0,85,99.0,38,1.0,701+,29.0,497,34.0,386,12.0,634,12.0,701+,5.0,701+,42.0
-192,189,Albert-Ludwigs-Universitaet Freiburg,DE,Germany,L,FC,VH,5,A,46.0,179,20.0,460,29.0,531,63.0,187,69.0,281,36.0,371,83.0,131,25.0,328,68.0,213,47.0
-154,167,Alma Mater Studiorum - University of Bologna,IT,Italy,XL,FC,VH,5,A,80.0,73,40.0,237,3.0,701+,50.0,267,8.0,701+,11.0,695,91.0,75,35.0,219,57.0,268,51.0
-226,252,American University of Beirut (AUB),LB,Lebanon,M,FC,VH,5,B,28.0,316,42.0,225,57.0,254,24.0,499,68.0,288,47.0,310,36.0,415,89.0,40,93.0,70,42.0
-364,369,American University of Sharjah,AE,United Arab Emirates,S,CO,VH,3,B,20.0,438,39.0,243,21.0,653,20.0,559,100.0,2,100.0,6,6.0,701+,37.0,202,3.0,701+,30.0
-375,443,Amirkabir University of Technology,IR,"Iran, Islamic Republic of",M,FO,VH,4,A,4.0,601+,33.0,295,5.0,701+,100.0,13,16.0,652,3.0,701+,10.0,681,10.0,701+,17.0,586,30.0
-179,219,Arizona State University,US,United States,XL,CO,VH,5,A,47.0,174,37.0,265,7.0,701+,62.0,199,65.0,299,30.0,422,88.0,97,27.0,307,97.0,33,48.0
-1401+,1401+,Ataturk University,TR,Turkey,XL,CO,HI,4,A,5.0,601+,2.0,601+,3.0,701+,4.0,701+,3.0,701+,4.0,701+,2.0,701+,9.0,701+,4.0,701+,0.0
-407,486,Auckland University of Technology (AUT),NZ,New Zealand,L,CO,VH,2,A,19.0,464,12.0,601+,10.0,701+,19.0,575,100.0,59,99.0,48,12.0,635,19.0,433,72.0,196,27.0
-281,235,Bandung Institute of Technology (ITB),ID,Indonesia,L,CO,VH,5,A,41.0,203,66.0,122,66.0,208,3.0,701+,84.0,213,2.0,701+,1.0,701+,36.0,209,21.0,533,37.0
-319,230,Bauman Moscow State Technical University,RU,Russia,L,CO,VH,5,A,31.0,279,44.0,202,100.0,18,1.0,701+,54.0,343,59.0,256,1.0,701+,12.0,701+,11.0,663,33.0
-473,443,Beihang University (former BUAA),CN,China (Mainland),L,CO,VH,2,A,13.0,601+,6.0,601+,36.0,440,69.0,150,8.0,701+,5.0,701+,7.0,701+,13.0,656,15.0,608,24.0
-340,355,Beijing Institute of Technology,CN,China (Mainland),L,FO,VH,4,A,23.0,385,18.0,484,41.0,381,76.0,125,3.0,701+,4.0,701+,17.0,572,14.0,599,24.0,506,32.0
-272,262,Beijing Normal University,CN,China (Mainland),L,CO,VH,5,A,38.0,227,7.0,601+,26.0,576,86.0,87,7.0,701+,23.0,496,23.0,520,12.0,701+,31.0,444,37.0
-387,288,Belarusian State University,BY,Belarus,L,FO,VH,5,A,27.0,327,43.0,219,95.0,61,1.0,701+,4.0,701+,50.0,294,3.0,701+,25.0,341,1.0,701+,28.0
-469,490,Ben-Gurion University of The Negev,IL,Israel,L,FC,VH,4,A,15.0,592,14.0,577,12.0,701+,53.0,245,65.0,294,16.0,607,20.0,544,11.0,701+,18.0,564,25.0
-374,343,"Birkbeck, University of London",UK,United Kingdom,M,FO,VH,5,A,11.0,601+,4.0,601+,14.0,701+,65.0,172,98.0,123,98.0,62,9.0,692,12.0,701+,12.0,642,30.0
-567,481,Bond University,AU,Australia,S,FO,VH,3,B,5.0,601+,5.0,601+,44.0,356,23.0,518,88.0,195,94.0,96,1.0,701+,12.0,701+,1.0,701+,21.0
-93,108,Boston University,US,United States,L,FC,VH,5,B,62.0,113,68.0,109,33.0,485,60.0,204,22.0,576,88.0,132,73.0,187,69.0,76,86.0,113,61.0
-73,63,Brown University,US,United States,M,FC,VH,5,B,58.0,131,42.0,221,78.0,145,86.0,89,85.0,212,52.0,279,58.0,258,75.0,59,70.0,201,66.0
-343,412,Brunel University London,UK,United Kingdom,L,CO,VH,4,A,11.0,601+,13.0,601+,8.0,701+,44.0,303,100.0,84,100.0,39,57.0,269,19.0,450,63.0,235,32.0
-15,6,California Institute of Technology (Caltech),US,United States,S,CO,VH,5,B,96.0,30,94.0,41,100.0,5,100.0,3,100.0,63,81.0,159,23.0,521,34.0,225,41.0,357,88.0
-1401+,1401+,California State University Long Beach,US,United States,XL,CO,VH,4,A,4.0,601+,3.0,601+,8.0,701+,0.0,,0.0,,0.0,,0.0,,10.0,701+,0.0,,0.0
-154,166,Cardiff University,UK,United Kingdom,L,FC,VH,5,A,47.0,176,48.0,181,34.0,474,40.0,347,84.0,217,71.0,206,82.0,138,19.0,442,98.0,25,51.0
-52,52,Carnegie Mellon University,US,United States,L,FC,VH,5,B,71.0,87,75.0,83,49.0,319,100.0,10,47.0,371,98.0,59,57.0,264,60.0,100,47.0,323,74.0
-255,176,Case Western Reserve University,US,United States,M,FC,VH,4,B,18.0,486,17.0,507,83.0,118,64.0,185,38.0,420,68.0,216,21.0,537,27.0,301,35.0,403,39.0
-452,499,Central South University,CN,China (Mainland),XL,FC,VH,2,A,9.0,601+,3.0,601+,6.0,701+,98.0,28,7.0,701+,4.0,701+,14.0,616,10.0,701+,9.0,689,26.0
-129,125,Chalmers University of Technology,SE,Sweden,M,FO,VH,5,B,27.0,326,52.0,158,51.0,306,81.0,107,100.0,49,67.0,220,52.0,299,29.0,278,83.0,132,54.0
-248,288,Charles University,CZ,Czech Republic,XL,FC,VH,5,A,46.0,183,44.0,210,35.0,456,9.0,701+,25.0,539,51.0,283,91.0,77,28.0,294,84.0,125,40.0
-211,224,Chulalongkorn University,TH,Thailand,XL,FC,VH,5,A,67.0,101,50.0,170,32.0,498,7.0,701+,15.0,668,3.0,701+,49.0,318,87.0,44,86.0,113,44.0
-494,392,Chung-Ang University (CAU),KR,South Korea,L,FC,VH,4,B,20.0,445,36.0,271,70.0,186,9.0,701+,14.0,690,36.0,373,2.0,701+,13.0,672,3.0,701+,23.0
-70,54,City University of Hong Kong,HK,Hong Kong SAR,M,CO,VH,3,A,60.0,122,27.0,356,87.0,99,100.0,9,100.0,17,100.0,2,17.0,570,30.0,269,82.0,136,68.0
-328,355,"City, University of London",UK,United Kingdom,L,CO,VH,5,A,21.0,405,18.0,483,7.0,701+,42.0,321,95.0,151,99.0,46,22.0,527,28.0,284,42.0,356,33.0
-409,408,Colorado State University,US,United States,L,CO,VH,5,A,19.0,475,18.0,482,57.0,258,20.0,553,12.0,701+,4.0,701+,55.0,285,15.0,559,98.0,29,27.0
-23,22,Columbia University,US,United States,XL,FC,VH,5,B,100.0,12,98.0,16,100.0,15,41.0,339,56.0,332,97.0,76,98.0,25,100.0,10,94.0,64,86.0
-171,226,Complutense University of Madrid,ES,Spain,XL,FC,VH,4,A,68.0,96,69.0,105,26.0,573,7.0,701+,9.0,701+,26.0,469,83.0,127,58.0,106,96.0,41,49.0
-13,20,Cornell University,US,United States,L,FC,VH,5,B,98.0,26,91.0,47,53.0,297,99.0,18,69.0,283,64.0,234,80.0,144,98.0,18,95.0,58,89.0
-1401+,1401+,Cukurova University,TR,Turkey,XL,FC,HI,4,A,4.0,601+,3.0,601+,5.0,701+,3.0,701+,2.0,701+,5.0,701+,4.0,701+,7.0,701+,14.0,625,0.0
-183,193,Curtin University,AU,Australia,L,CO,VH,3,A,32.0,271,32.0,309,14.0,701+,86.0,88,100.0,43,26.0,459,85.0,119,26.0,320,51.0,305,48.0
-454,378,Czech Technical University in Prague,CZ,Czech Republic,L,SP,,5,A,22.0,403,38.0,259,76.0,161,4.0,701+,26.0,526,39.0,349,15.0,592,14.0,618,2.0,701+,25.0
-307,,Daegu Gyeongbuk Institute of Science and Technology (DGIST),KR,South Korea,S,FO,VH,2,A,10.0,601+,8.0,601+,89.0,90,100.0,7,5.0,701+,4.0,701+,1.0,701+,5.0,701+,0.0,,34.0
-298,308,Dalhousie University,CA,Canada,L,FC,VH,5,A,19.0,465,18.0,488,16.0,701+,42.0,323,99.0,97,75.0,187,37.0,399,22.0,385,94.0,61,35.0
-237,205,Dartmouth College,US,United States,M,FC,VH,5,B,21.0,415,24.0,398,58.0,248,79.0,121,5.0,701+,34.0,388,7.0,701+,72.0,65,67.0,217,41.0
-233,266,Deakin University,AU,Australia,XL,FC,VH,3,A,30.0,291,26.0,373,5.0,701+,67.0,160,97.0,130,60.0,249,51.0,303,26.0,312,54.0,283,41.0
-47,61,Delft University of Technology,NL,Netherlands,L,CO,VH,5,A,73.0,84,79.0,73,37.0,428,85.0,95,100.0,66,89.0,121,91.0,72,42.0,170,98.0,18,76.0
-436,471,Dublin City University,IE,Ireland,L,FC,HI,3,A,20.0,452,27.0,360,26.0,575,12.0,690,76.0,248,19.0,557,19.0,548,25.0,334,82.0,137,26.0
-57,50,Duke University,US,United States,L,FC,VH,5,B,86.0,53,69.0,106,100.0,7,40.0,344,17.0,634,52.0,278,90.0,82,89.0,37,95.0,53,72.0
-78,92,Durham University,UK,United Kingdom,L,FC,VH,5,A,60.0,124,89.0,50,28.0,548,53.0,241,98.0,125,87.0,135,86.0,108,29.0,274,98.0,30,65.0
-213,169,Eberhard Karls Universität Tübingen,DE,Germany,L,FC,VH,5,A,46.0,180,30.0,325,93.0,71,20.0,560,68.0,289,27.0,454,90.0,84,21.0,393,42.0,351,44.0
-192,174,Ecole des Ponts ParisTech,FR,France,S,FO,VH,5,A,8.0,601+,58.0,142,98.0,45,81.0,109,35.0,458,97.0,75,6.0,701+,30.0,261,19.0,549,47.0
-124,138,Eindhoven University of Technology,NL,Netherlands,M,FO,VH,4,A,29.0,295,76.0,78,40.0,390,90.0,75,100.0,30,71.0,205,40.0,377,20.0,426,18.0,567,55.0
-199,155,Emory University,US,United States,L,FC,VH,5,B,26.0,342,16.0,522,98.0,50,70.0,149,37.0,431,31.0,409,57.0,268,24.0,357,86.0,115,46.0
-36,16,EPFL,CH,Switzerland,M,FO,VH,5,A,85.0,57,60.0,133,92.0,73,98.0,34,100.0,25,100.0,12,66.0,213,19.0,431,42.0,351,80.0
-176,208,Erasmus University Rotterdam,NL,Netherlands,XL,FO,VH,5,A,37.0,232,51.0,165,23.0,624,53.0,240,83.0,221,60.0,247,72.0,190,64.0,91,49.0,312,49.0
-459,465,"Essex, University of",UK,United Kingdom,L,CO,VH,4,A,16.0,535,5.0,601+,13.0,701+,26.0,475,100.0,82,99.0,53,40.0,380,13.0,638,10.0,678,25.0
-7,9,ETH Zurich - Swiss Federal Institute of Technology,CH,Switzerland,L,FO,VH,5,A,99.0,19,84.0,62,72.0,177,99.0,21,100.0,22,99.0,56,96.0,42,79.0,52,88.0,103,93.0
-498,346,Ewha Womans University,KR,South Korea,L,FC,HI,4,B,27.0,325,23.0,413,77.0,150,8.0,701+,8.0,701+,20.0,551,2.0,701+,15.0,552,7.0,701+,23.0
-380,425,Flinders University,AU,Australia,L,FC,VH,4,A,13.0,601+,7.0,601+,7.0,701+,43.0,313,97.0,127,90.0,119,39.0,385,11.0,701+,65.0,226,29.0
-98,118,Freie Universitaet Berlin,DE,Germany,L,FC,VH,4,A,81.0,70,51.0,163,4.0,701+,71.0,141,63.0,308,44.0,332,85.0,118,22.0,378,60.0,251,61.0
-229,340,Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,Germany,L,FC,VH,5,A,25.0,347,21.0,446,3.0,701+,96.0,48,27.0,511,40.0,342,75.0,172,16.0,541,70.0,207,42.0
-50,34,Fudan University,CN,China (Mainland),XL,FC,VH,4,A,85.0,55,90.0,49,85.0,108,72.0,136,88.0,193,33.0,393,23.0,522,50.0,134,44.0,341,74.0
-263,231,Gadjah Mada University,ID,Indonesia,XL,FC,HI,4,A,52.0,152,67.0,118,54.0,282,2.0,701+,39.0,419,2.0,701+,2.0,701+,43.0,169,47.0,323,38.0
-340,362,George Washington University,US,United States,L,FC,VH,5,B,27.0,323,25.0,393,28.0,541,29.0,439,32.0,478,28.0,444,61.0,239,50.0,135,63.0,235,32.0
-297,281,Georgetown University,US,United States,L,FC,VH,5,B,30.0,288,34.0,285,59.0,242,19.0,574,17.0,629,40.0,344,14.0,606,88.0,43,67.0,217,35.0
-97,88,Georgia Institute of Technology,US,United States,L,CO,VH,5,A,67.0,100,85.0,59,15.0,701+,67.0,163,39.0,417,65.0,230,33.0,432,42.0,175,70.0,201,61.0
-1401+,,Georgian Technical University,GE,Georgia,,FO,,5,A,6.0,601+,4.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-159,143,Ghent University,BE,Belgium,XL,FC,VH,5,A,53.0,146,25.0,379,79.0,141,25.0,486,80.0,231,21.0,528,100.0,8,52.0,124,91.0,84,50.0
-302,328,Goethe-University Frankfurt am Main,DE,Germany,XL,FC,VH,5,A,44.0,189,29.0,335,21.0,638,21.0,539,41.0,402,26.0,468,82.0,134,12.0,701+,47.0,327,35.0
-421,284,Graz University of Technology,AT,Austria,M,FO,VH,5,A,15.0,595,11.0,601+,100.0,31,14.0,664,75.0,255,59.0,258,10.0,664,14.0,629,4.0,701+,27.0
-243,300,Griffith University,AU,Australia,XL,FC,VH,4,A,27.0,332,16.0,526,8.0,701+,66.0,166,100.0,70,32.0,403,73.0,185,16.0,539,93.0,69,40.0
-1401+,,Guru Gobind Singh Indraprastha University,IN,India,,CO,,3,A,3.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-328,288,Gwangju Institute of Science and Technology (GIST),KR,South Korea,S,FO,VH,3,A,17.0,513,9.0,601+,38.0,411,100.0,5,22.0,577,10.0,701+,1.0,701+,8.0,701+,2.0,701+,33.0
-310,,Hamad Bin Khalifa University,QA,Qatar,S,FO,VH,3,A,12.0,601+,4.0,601+,100.0,4,89.0,79,0.0,,0.0,,28.0,469,10.0,701+,0.0,,34.0
-164,157,Hanyang University,KR,South Korea,L,FC,VH,4,B,49.0,167,81.0,70,84.0,117,23.0,510,17.0,632,54.0,269,16.0,587,25.0,336,78.0,163,50.0
-256,217,Harbin Institute of Technology,CN,China (Mainland),L,FO,VH,4,A,29.0,306,15.0,552,42.0,378,99.0,24,9.0,701+,8.0,701+,23.0,517,20.0,412,15.0,603,39.0
-4,5,Harvard University,US,United States,L,FC,VH,5,B,100.0,1,100.0,1,98.0,44,100.0,1,85.0,210,67.0,223,100.0,5,100.0,1,97.0,39,98.0
-551,449,Hasselt University,BE,Belgium,M,FO,VH,4,A,6.0,601+,3.0,601+,79.0,143,18.0,579,76.0,247,24.0,488,27.0,478,10.0,701+,16.0,596,21.0
-235,281,Heriot-Watt University,UK,United Kingdom,M,CO,VH,4,A,16.0,537,21.0,438,19.0,701+,79.0,113,100.0,67,98.0,66,40.0,375,21.0,392,44.0,342,41.0
-472,338,Hiroshima University,JP,Japan,L,FC,VH,4,A,24.0,366,14.0,581,81.0,136,10.0,701+,17.0,624,13.0,663,30.0,457,10.0,701+,38.0,382,25.0
-196,141,Hokkaido University,JP,Japan,L,FC,VH,5,A,57.0,134,66.0,119,76.0,162,28.0,451,18.0,621,14.0,633,38.0,392,13.0,665,31.0,438,46.0
-295,281,Hong Kong Baptist University,HK,Hong Kong SAR,M,CO,VH,3,A,19.0,458,13.0,601+,56.0,265,52.0,249,98.0,118,100.0,20,3.0,701+,15.0,557,17.0,574,35.0
-399,308,HSE University,RU,Russia,XL,FO,VH,3,A,27.0,318,32.0,308,91.0,82,2.0,701+,6.0,701+,16.0,597,71.0,191,13.0,639,5.0,701+,28.0
-275,306,Huazhong University of Science and Technology,CN,China (Mainland),XL,FC,VH,4,A,23.0,384,29.0,332,10.0,701+,99.0,16,6.0,701+,3.0,701+,45.0,340,17.0,504,27.0,480,37.0
-575,410,HUFS - Hankuk (Korea) University of Foreign Studies,KR,South Korea,L,CO,HI,3,B,13.0,601+,24.0,404,85.0,104,2.0,701+,32.0,471,45.0,320,1.0,701+,6.0,701+,1.0,701+,21.0
-120,131,Humboldt-Universität zu Berlin,DE,Germany,XL,FC,VH,5,A,90.0,43,66.0,120,8.0,701+,31.0,425,68.0,286,32.0,406,86.0,110,14.0,586,38.0,382,56.0
-428,347,IE University,ES,Spain,M,FO,HI,2,C,7.0,601+,41.0,230,56.0,262,3.0,701+,95.0,154,100.0,4,1.0,701+,39.0,183,6.0,701+,26.0
-469,443,Illinois Institute of Technology,US,United States,M,CO,VH,5,B,14.0,601+,16.0,532,13.0,701+,49.0,280,30.0,490,94.0,93,2.0,701+,14.0,632,3.0,701+,25.0
-595,477,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),SA,Saudi Arabia,L,FC,HI,3,A,8.0,601+,7.0,601+,86.0,101,2.0,701+,99.0,105,17.0,589,12.0,640,8.0,701+,19.0,552,20.0
-6,6,Imperial College London,UK,United Kingdom,L,FC,VH,5,A,98.0,23,99.0,12,99.0,42,94.0,58,100.0,61,100.0,14,97.0,35,83.0,45,94.0,61,98.0
-225,155,Indian Institute of Science,IN,India,S,SP,,5,A,42.0,202,20.0,454,46.0,340,100.0,6,5.0,701+,2.0,701+,4.0,701+,14.0,621,11.0,660,42.0
-149,172,Indian Institute of Technology Bombay (IITB),IN,India,L,CO,VH,4,A,56.0,141,82.0,69,19.0,697,73.0,133,5.0,701+,1.0,701+,9.0,701+,47.0,146,55.0,277,52.0
-197,174,Indian Institute of Technology Delhi (IITD),IN,India,M,CO,VH,4,A,51.0,158,76.0,80,22.0,630,64.0,182,2.0,701+,1.0,701+,7.0,701+,33.0,234,38.0,382,46.0
-364,384,Indian Institute of Technology Guwahati (IITG),IN,India,M,CO,VH,3,A,17.0,523,25.0,381,8.0,701+,98.0,32,3.0,701+,1.0,701+,6.0,701+,6.0,701+,4.0,701+,30.0
-454,396,Indian Institute of Technology Indore (IIT Indore),IN,India,S,FO,VH,2,A,6.0,601+,4.0,601+,33.0,478,94.0,57,2.0,701+,1.0,701+,1.0,701+,8.0,701+,2.0,701+,25.0
-278,264,Indian Institute of Technology Kanpur (IITK),IN,India,M,CO,VH,4,A,35.0,247,49.0,175,14.0,701+,76.0,126,2.0,701+,1.0,701+,3.0,701+,21.0,404,22.0,524,37.0
-271,270,Indian Institute of Technology Kharagpur (IIT-KGP),IN,India,L,FO,VH,4,A,32.0,272,44.0,211,12.0,701+,86.0,90,3.0,701+,1.0,701+,11.0,659,22.0,388,18.0,567,37.0
-285,250,Indian Institute of Technology Madras (IITM),IN,India,M,CO,VH,4,A,40.0,212,56.0,147,27.0,563,55.0,235,3.0,701+,1.0,701+,3.0,701+,26.0,317,7.0,701+,36.0
-369,369,Indian Institute of Technology Roorkee (IITR),IN,India,M,FO,VH,5,A,18.0,500,23.0,421,8.0,701+,91.0,72,1.0,701+,2.0,701+,4.0,701+,11.0,701+,28.0,471,30.0
-1401+,,Indian Statistical Institute,IN,India,,FO,,4,,8.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
-313,339,Indiana University Bloomington,US,United States,XL,FC,VH,5,A,35.0,246,24.0,397,31.0,514,22.0,533,41.0,409,13.0,667,69.0,205,52.0,122,63.0,239,34.0
-392,457,Institut National des Sciences Appliquées de Lyon (INSA),FR,France,M,FO,VH,4,A,8.0,601+,29.0,331,37.0,425,51.0,258,29.0,492,69.0,213,19.0,553,13.0,674,21.0,540,28.0
-38,48,Institut Polytechnique de Paris,FR,France,M,CO,VH,1,A,45.0,185,100.0,10,97.0,51,94.0,59,99.0,106,98.0,58,77.0,163,90.0,35,73.0,189,80.0
-rank display,rank display2,institution,location code,location,size,focus,research,age band,status,0.0,ar rank,0.0,er rank,0.0,fsr rank,0.0,cpf rank,0.0,ifr rank,0.0,isr rank,0.0,irn rank,0.0,ger rank,0.0,SUS RANK,0.0
-1401+,,"International University of Business, Agriculture and Technology (IUBAT)",BD,Bangladesh,,CO,,3,,6.0,601+,4.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-556,,INTI International University,MY,Malaysia,S,FO,HI,2,C,5.0,601+,15.0,556,84.0,112,2.0,701+,75.0,252,88.0,126,1.0,701+,9.0,701+,1.0,701+,21.0
-400,481,Iowa State University,US,United States,L,CO,VH,5,A,20.0,440,14.0,597,8.0,701+,59.0,217,5.0,701+,11.0,690,51.0,307,27.0,300,52.0,295,28.0
-489,449,IPB University (a.k.a. Bogor Agricultural University),ID,Indonesia,L,CO,VH,4,A,22.0,399,39.0,244,66.0,203,2.0,701+,55.0,339,4.0,701+,1.0,701+,24.0,347,3.0,701+,24.0
-542,359,ITMO University,RU,Russia,M,FO,VH,5,A,12.0,601+,12.0,601+,96.0,55,7.0,701+,21.0,579,39.0,354,27.0,476,7.0,701+,15.0,612,22.0
-304,293,Jagiellonian University,PL,Poland,XL,FC,VH,5,A,37.0,233,47.0,188,65.0,210,6.0,701+,5.0,701+,13.0,655,59.0,248,28.0,289,58.0,259,34.0
-415,461,James Cook University,AU,Australia,M,FC,VH,4,A,15.0,567,9.0,601+,14.0,701+,51.0,255,42.0,393,14.0,650,43.0,359,9.0,701+,83.0,131,27.0
-502,497,Jilin University,CN,China (Mainland),XL,FC,VH,4,A,14.0,601+,47.0,189,39.0,405,24.0,506,12.0,701+,2.0,701+,18.0,563,18.0,458,14.0,627,23.0
-464,420,Johannes Gutenberg Universität Mainz,DE,Germany,XL,FC,VH,5,A,23.0,389,13.0,601+,55.0,281,15.0,641,39.0,418,16.0,594,70.0,193,10.0,701+,19.0,552,25.0
-446,350,Johannes Kepler University Linz,AT,Austria,M,CO,VH,4,A,13.0,601+,14.0,598,83.0,122,16.0,617,86.0,201,27.0,447,27.0,487,11.0,701+,18.0,560,26.0
-28,24,Johns Hopkins University,US,United States,L,FC,VH,5,B,87.0,51,60.0,134,100.0,8,89.0,77,64.0,300,91.0,111,98.0,21,75.0,60,85.0,122,85.0
-440,410,Julius-Maximilians-Universität Würzburg,DE,Germany,L,FC,VH,5,A,17.0,511,6.0,601+,5.0,701+,68.0,154,36.0,449,16.0,591,42.0,363,10.0,701+,12.0,647,26.0
-396,490,Justus-Liebig-University Giessen,DE,Germany,L,FC,VH,5,A,14.0,601+,6.0,601+,2.0,701+,86.0,92,12.0,701+,19.0,561,64.0,221,10.0,701+,11.0,655,28.0
-56,42,KAIST - Korea Advanced Institute of Science & Technology,KR,South Korea,M,CO,VH,4,A,90.0,44,89.0,53,66.0,202,98.0,35,22.0,570,12.0,682,11.0,662,42.0,174,14.0,621,72.0
-396,322,Kazan (Volga region) Federal University,RU,Russia,L,FC,VH,5,A,23.0,387,8.0,601+,94.0,68,3.0,701+,11.0,701+,96.0,82,62.0,234,11.0,701+,24.0,497,28.0
-214,197,Keio University,JP,Japan,XL,FC,VH,5,B,51.0,156,94.0,42,58.0,246,6.0,701+,10.0,701+,9.0,701+,9.0,689,80.0,50,39.0,366,44.0
-230,181,Khalifa University of Science and Technology,AE,United Arab Emirates,S,SP,,2,A,20.0,448,20.0,451,87.0,98,48.0,281,100.0,10,75.0,184,30.0,459,9.0,701+,67.0,220,42.0
-1401+,,Khulna University,BD,Bangladesh,,SP,,3,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-143,106,King Abdulaziz University (KAU),SA,Saudi Arabia,XL,FC,VH,4,A,55.0,143,62.0,127,53.0,300,38.0,374,98.0,124,23.0,500,84.0,121,17.0,483,44.0,342,52.0
-180,160,King Fahd University of Petroleum & Minerals,SA,Saudi Arabia,M,FC,VH,4,A,33.0,267,37.0,268,83.0,124,66.0,165,100.0,24,32.0,402,26.0,492,39.0,185,21.0,536,48.0
-203,237,King Saud University,SA,Saudi Arabia,XL,FC,VH,4,A,37.0,236,21.0,435,64.0,218,32.0,419,100.0,83,21.0,525,89.0,92,72.0,67,76.0,171,45.0
-40,37,King's College London,UK,United Kingdom,XL,FC,VH,5,A,90.0,46,82.0,68,65.0,215,61.0,201,99.0,99,100.0,23,99.0,14,34.0,223,81.0,142,79.0
-119,141,"KIT, Karlsruhe Institute of Technology",DE,Germany,L,CO,VH,4,A,46.0,182,77.0,76,36.0,443,72.0,139,70.0,275,47.0,312,76.0,166,39.0,187,24.0,504,56.0
-476,363,Kobe University,JP,Japan,L,FC,VH,4,A,29.0,308,39.0,248,53.0,292,12.0,701+,7.0,701+,8.0,701+,9.0,701+,12.0,701+,11.0,658,24.0
-79,74,Korea University,KR,South Korea,L,FC,VH,4,B,82.0,64,94.0,40,81.0,137,37.0,382,14.0,694,36.0,370,20.0,546,71.0,71,59.0,255,65.0
-431,477,Koç University,TR,Turkey,M,FC,HI,3,B,22.0,393,47.0,187,24.0,591,29.0,448,27.0,504,11.0,687,6.0,701+,11.0,701+,30.0,449,26.0
-73,89,KTH Royal Institute of Technology,SE,Sweden,L,CO,VH,5,A,46.0,181,51.0,162,66.0,201,90.0,74,93.0,162,68.0,217,81.0,142,57.0,108,96.0,44,66.0
-61,76,KU Leuven,BE,Belgium,XL,FC,VH,5,A,85.0,56,42.0,220,7.0,701+,93.0,66,93.0,163,46.0,318,100.0,6,56.0,111,76.0,173,70.0
-1401+,,Kwame Nkrumah University of Science and Technology,GH,Ghana,,CO,,,,6.0,601+,8.0,601+,0.0,,0.0,,0.0,,0.0,,11.0,656,0.0,,0.0,,0.0
-46,36,Kyoto University,JP,Japan,L,FC,VH,5,A,99.0,20,99.0,14,95.0,63,49.0,270,15.0,670,21.0,538,57.0,266,53.0,118,88.0,103,76.0
-332,270,Kyung Hee University,KR,South Korea,L,FC,VH,4,B,28.0,312,42.0,224,85.0,106,14.0,657,14.0,684,54.0,272,17.0,577,12.0,701+,34.0,413,33.0
-164,135,Kyushu University,JP,Japan,L,FC,VH,5,A,57.0,132,70.0,104,86.0,103,24.0,503,15.0,671,26.0,467,33.0,436,15.0,547,78.0,163,50.0
-355,277,L.N. Gumilyov Eurasian National University (ENU),KZ,Kazakhstan,L,FO,VH,3,A,30.0,293,52.0,157,97.0,53,1.0,701+,59.0,319,6.0,701+,1.0,701+,11.0,701+,10.0,678,31.0
-242,316,La Trobe University,AU,Australia,L,CO,VH,4,A,23.0,388,20.0,453,7.0,701+,78.0,124,94.0,156,98.0,57,46.0,337,14.0,591,29.0,460,40.0
-122,146,Lancaster University,UK,United Kingdom,L,FC,VH,4,A,40.0,215,40.0,236,25.0,581,79.0,115,94.0,157,91.0,116,75.0,171,21.0,400,98.0,24,56.0
-351,388,Lappeenranta-Lahti University of Technology LUT,FI,Finland,S,SP,,4,A,7.0,601+,13.0,601+,11.0,701+,98.0,36,45.0,378,18.0,573,15.0,599,11.0,701+,39.0,367,31.0
-126,131,Leiden University,NL,Netherlands,XL,FC,VH,5,A,69.0,95,27.0,362,20.0,659,63.0,190,86.0,204,50.0,292,94.0,61,27.0,303,46.0,331,55.0
-362,368,Lincoln University,NZ,New Zealand,S,CO,VH,3,A,8.0,601+,5.0,601+,40.0,393,52.0,253,100.0,62,91.0,113,1.0,701+,32.0,241,38.0,379,31.0
-268,320,Linköping University,SE,Sweden,L,CO,VH,3,A,19.0,470,27.0,363,35.0,457,49.0,277,78.0,239,30.0,420,58.0,260,35.0,221,87.0,108,38.0
-87,75,Lomonosov Moscow State University,RU,Russia,XL,FC,VH,5,A,81.0,69,78.0,74,100.0,26,5.0,701+,20.0,587,92.0,105,85.0,115,82.0,48,13.0,631,62.0
-212,256,Loughborough University,UK,United Kingdom,L,CO,VH,4,A,31.0,283,67.0,116,24.0,604,35.0,392,87.0,198,64.0,237,77.0,162,19.0,446,63.0,231,44.0
-54,59,Ludwig-Maximilians-Universität München,DE,Germany,XL,FC,VH,5,A,93.0,40,84.0,63,47.0,335,51.0,254,73.0,260,38.0,362,94.0,57,49.0,140,77.0,167,73.0
-85,95,Lund University,SE,Sweden,L,FC,VH,5,A,69.0,93,48.0,185,50.0,310,38.0,373,99.0,102,77.0,173,95.0,52,66.0,83,99.0,14,63.0
-256,278,Maastricht University,NL,Netherlands,L,FO,VH,3,A,23.0,369,22.0,422,13.0,701+,63.0,193,100.0,90,100.0,17,47.0,333,27.0,302,14.0,627,39.0
-130,195,Macquarie University,AU,Australia,L,FC,VH,4,A,32.0,276,41.0,228,10.0,701+,81.0,105,99.0,104,94.0,94,81.0,139,43.0,167,92.0,80,54.0
-382,256,Mahidol University,TH,Thailand,L,FC,VH,4,A,42.0,200,30.0,322,78.0,147,5.0,701+,6.0,701+,5.0,701+,10.0,666,11.0,701+,28.0,471,29.0
-1,1,Massachusetts Institute of Technology (MIT),US,United States,M,CO,VH,5,B,100.0,4,100.0,2,100.0,16,100.0,4,100.0,56,88.0,128,94.0,58,100.0,4,95.0,51,100.0
-239,292,Massey University,NZ,New Zealand,M,CO,VH,4,A,30.0,286,16.0,528,43.0,364,23.0,520,98.0,111,98.0,64,65.0,215,45.0,157,95.0,58,41.0
-30,31,McGill University,CA,Canada,XL,FC,VH,5,A,94.0,34,88.0,58,64.0,219,62.0,195,89.0,188,93.0,98,86.0,107,93.0,33,94.0,64,84.0
-189,152,McMaster University,CA,Canada,L,FC,VH,5,A,41.0,210,38.0,255,75.0,166,29.0,444,99.0,93,60.0,250,40.0,376,37.0,197,70.0,204,47.0
-526,345,MGIMO University,RU,Russia,M,SP,,4,A,12.0,601+,21.0,436,100.0,17,1.0,701+,13.0,701+,46.0,315,1.0,701+,48.0,144,1.0,701+,22.0
-136,159,Michigan State University,US,United States,XL,FC,VH,5,A,60.0,120,49.0,174,11.0,701+,58.0,221,59.0,320,13.0,665,96.0,45,46.0,153,71.0,199,53.0
-42,57,Monash University,AU,Australia,XL,FC,VH,4,A,88.0,49,75.0,84,10.0,701+,88.0,81,100.0,50,100.0,19,87.0,102,61.0,95,72.0,194,78.0
-415,267,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),RU,Russia,M,FO,VH,4,A,20.0,446,20.0,455,96.0,57,16.0,620,31.0,480,53.0,273,5.0,701+,16.0,534,1.0,701+,27.0
-176,112,Nagoya University,JP,Japan,L,FC,VH,4,A,62.0,114,65.0,123,88.0,96,33.0,412,15.0,661,19.0,558,18.0,565,17.0,509,24.0,502,49.0
-141,133,Nanjing University,CN,China (Mainland),XL,FC,VH,5,A,60.0,123,25.0,378,31.0,504,97.0,42,55.0,334,7.0,701+,26.0,488,24.0,356,39.0,367,52.0
-384,378,Nankai University,CN,China (Mainland),XL,FC,VH,4,A,21.0,414,9.0,601+,30.0,526,74.0,132,11.0,701+,4.0,701+,8.0,701+,19.0,440,23.0,521,29.0
-26,19,"Nanyang Technological University, Singapore (NTU)",SG,Singapore,L,FC,VH,3,A,91.0,42,67.0,115,78.0,149,94.0,56,100.0,35,80.0,161,66.0,212,68.0,79,78.0,160,85.0
-1401+,,Nara Institute of Science and Technology,JP,Japan,,FO,,3,,6.0,601+,2.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
-228,224,National Cheng Kung University (NCKU),TW,Taiwan,L,FC,VH,4,A,49.0,164,76.0,82,33.0,482,21.0,544,24.0,557,16.0,605,11.0,653,30.0,257,78.0,160,42.0
-461,308,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),RU,Russia,S,FO,VH,2,A,10.0,601+,10.0,601+,99.0,36,11.0,701+,54.0,341,91.0,115,2.0,701+,18.0,466,1.0,701+,25.0
-586,398,National Research Tomsk Polytechnic University,RU,Russia,M,FO,VH,5,A,10.0,601+,8.0,601+,94.0,66,4.0,701+,8.0,701+,77.0,177,21.0,535,8.0,701+,8.0,701+,20.0
-505,428,National Sun Yat-sen University,TW,Taiwan,M,CO,VH,3,A,27.0,330,24.0,395,30.0,527,25.0,483,24.0,552,10.0,701+,3.0,701+,12.0,701+,21.0,536,23.0
-431,436,National Taipei University of Technology,TW,Taiwan,M,FO,VH,3,A,15.0,584,58.0,144,27.0,560,34.0,398,21.0,582,18.0,571,1.0,701+,17.0,485,13.0,638,26.0
-431,332,National Taiwan Normal University,TW,Taiwan,M,CO,VH,4,A,35.0,248,21.0,448,65.0,209,6.0,701+,15.0,674,27.0,452,2.0,701+,15.0,571,43.0,344,26.0
-69,77,National Taiwan University (NTU),TW,Taiwan,XL,FC,VH,4,A,93.0,39,91.0,46,31.0,508,47.0,288,18.0,619,20.0,547,33.0,431,100.0,12,96.0,49,68.0
-387,327,National Taiwan University of Science and Technology (Taiwan Tech),TW,Taiwan,M,FO,VH,3,A,27.0,321,38.0,256,44.0,360,27.0,463,18.0,622,31.0,410,2.0,701+,19.0,451,27.0,481,28.0
-347,422,National Technical University of Athens,GR,Greece,L,FO,VH,5,A,21.0,425,43.0,215,5.0,701+,72.0,137,1.0,701+,4.0,701+,32.0,447,32.0,240,8.0,701+,31.0
-233,177,National Tsing Hua University,TW,Taiwan,L,CO,VH,4,A,53.0,147,68.0,111,28.0,542,38.0,363,17.0,635,20.0,546,7.0,701+,16.0,525,31.0,444,41.0
-367,334,National University of Sciences And Technology (NUST) Islamabad,PK,Pakistan,M,CO,VH,3,A,19.0,472,73.0,93,77.0,151,12.0,701+,3.0,701+,4.0,701+,24.0,512,9.0,701+,31.0,438,30.0
-8,11,National University of Singapore (NUS),SG,Singapore,XL,FC,VH,3,A,99.0,15,89.0,54,77.0,157,93.0,64,100.0,33,82.0,154,76.0,165,100.0,7,88.0,106,93.0
-217,202,National Yang Ming Chiao Tung University,TW,Taiwan,L,FC,VH,1,A,33.0,262,68.0,110,54.0,286,52.0,247,19.0,601,19.0,566,4.0,701+,45.0,160,54.0,283,43.0
-38,39,New York University (NYU),US,United States,XL,FC,VH,5,B,96.0,32,99.0,15,96.0,60,27.0,465,26.0,518,95.0,87,85.0,114,100.0,13,98.0,20,80.0
-110,122,Newcastle University,UK,United Kingdom,L,FC,VH,4,A,48.0,170,75.0,87,36.0,445,50.0,264,90.0,182,71.0,203,96.0,39,24.0,349,99.0,17,59.0
-274,312,North Carolina State University,US,United States,XL,CO,VH,5,A,28.0,315,25.0,384,9.0,701+,67.0,162,63.0,306,15.0,613,50.0,317,21.0,398,65.0,228,37.0
-375,388,Northeastern University,US,United States,L,CO,VH,5,B,19.0,463,10.0,601+,19.0,691,24.0,497,60.0,316,94.0,90,33.0,433,35.0,211,87.0,112,30.0
-47,32,Northwestern University,US,United States,L,FC,VH,5,B,84.0,60,60.0,132,99.0,39,70.0,147,48.0,364,44.0,327,79.0,152,98.0,19,78.0,162,76.0
-292,352,Norwegian University of Science And Technology,NO,Norway,XL,FC,VH,5,A,34.0,253,19.0,465,24.0,609,28.0,456,76.0,246,10.0,701+,89.0,91,51.0,129,66.0,223,36.0
-421,260,Novosibirsk State University,RU,Russia,M,CO,VH,4,A,28.0,317,14.0,572,94.0,69,13.0,685,7.0,701+,56.0,264,5.0,701+,13.0,667,7.0,701+,27.0
-80,68,Osaka University,JP,Japan,L,FC,VH,4,A,81.0,67,89.0,51,55.0,272,63.0,191,29.0,498,13.0,658,27.0,486,23.0,361,59.0,255,64.0
-413,438,Oxford Brookes University,UK,United Kingdom,L,CO,HI,3,A,29.0,301,30.0,329,14.0,701+,8.0,701+,69.0,282,70.0,209,27.0,481,18.0,454,34.0,409,27.0
-17,12,Peking University,CN,China (Mainland),XL,FC,VH,5,A,99.0,14,95.0,37,90.0,85,98.0,38,51.0,354,24.0,492,43.0,353,83.0,46,69.0,212,87.0
-83,93,Pennsylvania State University,US,United States,XL,FC,VH,5,A,78.0,76,63.0,126,28.0,540,63.0,189,23.0,560,27.0,449,97.0,36,48.0,145,95.0,52,63.0
-534,382,Peter the Great St. Petersburg Polytechnic University,RU,Russia,L,FO,VH,5,A,17.0,529,9.0,601+,78.0,148,3.0,701+,15.0,669,88.0,131,22.0,528,4.0,701+,18.0,564,22.0
-100,71,Pohang University of Science And Technology (POSTECH),KR,South Korea,S,FO,VH,3,B,52.0,153,76.0,79,100.0,21,98.0,29,34.0,464,3.0,701+,1.0,701+,13.0,637,17.0,581,60.0
-123,139,Politecnico di Milano,IT,Italy,XL,FO,VH,5,A,69.0,94,71.0,99,5.0,701+,48.0,282,64.0,302,57.0,262,75.0,173,37.0,201,29.0,453,55.0
-252,325,Politecnico di Torino,IT,Italy,XL,FO,VH,5,A,39.0,225,45.0,194,2.0,701+,58.0,222,4.0,701+,47.0,313,50.0,313,21.0,391,57.0,263,39.0
-514,323,Pontificia Universidad Católica Argentina,AR,Argentina,L,FC,MD,4,B,20.0,431,32.0,303,100.0,22,1.0,701+,2.0,701+,9.0,701+,1.0,701+,20.0,420,1.0,701+,23.0
-103,121,Pontificia Universidad Católica de Chile (UC),CL,Chile,L,FC,VH,5,B,93.0,38,100.0,11,21.0,654,12.0,701+,16.0,645,4.0,701+,57.0,270,76.0,56,91.0,84,60.0
-336,363,Pontificia Universidad Católica del Perú,PE,Peru,L,FO,VH,5,B,46.0,177,77.0,75,26.0,572,2.0,701+,4.0,701+,1.0,701+,3.0,701+,35.0,214,31.0,428,32.0
-347,382,Pontificia Universidad Javeriana,CO,Colombia,L,FC,HI,5,B,43.0,198,73.0,94,23.0,619,2.0,701+,4.0,701+,3.0,701+,4.0,701+,57.0,107,29.0,456,31.0
-1401+,1401+,Pontificia Universidade Católica do Minas Gerais - PUC Minas,BR,Brazil,XL,FO,HI,4,C,5.0,601+,4.0,601+,2.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,6.0,701+,1.0,701+,0.0
-17,16,Princeton University,US,United States,M,CO,VH,5,B,100.0,10,98.0,23,65.0,216,100.0,2,17.0,640,58.0,261,53.0,298,95.0,27,79.0,155,87.0
-99,129,Purdue University,US,United States,XL,FC,VH,5,A,64.0,108,81.0,71,10.0,701+,68.0,155,42.0,398,46.0,317,75.0,170,53.0,117,67.0,215,61.0
-173,208,Qatar University,QA,Qatar,M,FC,VH,3,A,27.0,320,44.0,206,65.0,213,39.0,356,100.0,20,97.0,74,60.0,244,96.0,24,36.0,397,49.0
-315,363,Quaid-i-Azam University,PK,Pakistan,M,CO,VH,4,A,16.0,552,40.0,234,3.0,701+,97.0,40,3.0,701+,1.0,701+,23.0,519,6.0,701+,23.0,514,33.0
-145,125,Queen Mary University of London,UK,United Kingdom,L,FC,VH,5,A,49.0,168,33.0,300,39.0,409,51.0,260,100.0,85,99.0,43,73.0,184,17.0,506,70.0,207,52.0
-209,246,Queen's University at Kingston,CA,Canada,L,FC,VH,5,A,41.0,209,57.0,146,5.0,701+,45.0,300,70.0,278,31.0,417,23.0,523,72.0,68,85.0,117,45.0
-202,233,Queen's University Belfast,UK,United Kingdom,L,FC,VH,5,A,34.0,258,30.0,321,28.0,554,44.0,307,100.0,75,99.0,54,84.0,124,14.0,589,91.0,87,46.0
-189,222,Queensland University of Technology (QUT),AU,Australia,XL,CO,VH,3,A,41.0,205,38.0,261,7.0,701+,65.0,176,96.0,141,26.0,458,69.0,202,17.0,502,91.0,89,47.0
-222,232,Radboud University,NL,Netherlands,L,FC,VH,5,A,29.0,302,14.0,585,28.0,551,75.0,129,78.0,236,20.0,544,79.0,155,16.0,533,83.0,133,43.0
-1401+,,Rajshahi University,BD,Bangladesh,,CO,,4,,9.0,601+,10.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-494,461,Rensselaer Polytechnic Institute,US,United States,M,CO,VH,5,B,8.0,601+,7.0,601+,20.0,682,71.0,144,4.0,701+,44.0,326,2.0,701+,24.0,350,3.0,701+,23.0
-239,201,Rheinische Friedrich-Wilhelms-Universität Bonn,DE,Germany,L,FC,VH,5,A,52.0,151,20.0,458,58.0,247,22.0,526,42.0,397,38.0,365,91.0,79,26.0,319,35.0,399,41.0
-145,100,Rice University,US,United States,M,FC,VH,5,B,39.0,222,23.0,415,66.0,205,83.0,101,91.0,176,95.0,89,10.0,671,30.0,262,43.0,345,52.0
-140,190,RMIT University,AU,Australia,XL,CO,VH,3,A,39.0,223,50.0,173,5.0,701+,69.0,151,100.0,37,93.0,102,57.0,267,29.0,277,96.0,43,52.0
-413,402,Royal Holloway University of London,UK,United Kingdom,M,CO,VH,5,A,16.0,546,6.0,601+,14.0,701+,36.0,384,94.0,155,89.0,125,24.0,511,11.0,701+,38.0,377,27.0
-342,295,RUDN University,RU,Russia,L,FC,VH,4,A,22.0,395,45.0,192,92.0,74,2.0,701+,8.0,701+,93.0,103,60.0,242,12.0,701+,4.0,701+,32.0
-375,416,Ruhr-Universität Bochum,DE,Germany,XL,FC,VH,4,A,21.0,411,11.0,601+,2.0,701+,60.0,208,61.0,314,30.0,425,62.0,231,15.0,570,18.0,567,30.0
-87,65,Ruprecht-Karls-Universität Heidelberg,DE,Germany,L,FO,VH,5,A,78.0,75,52.0,156,100.0,29,38.0,365,53.0,349,50.0,290,90.0,88,20.0,423,43.0,345,62.0
-299,267,Rutgers University–New Brunswick,US,United States,XL,CO,VH,5,A,37.0,234,25.0,386,49.0,324,18.0,583,19.0,602,33.0,395,60.0,245,21.0,403,96.0,47,35.0
-106,147,RWTH Aachen University,DE,Germany,XL,FC,VH,5,A,50.0,163,93.0,44,6.0,701+,79.0,120,49.0,362,83.0,151,64.0,223,24.0,354,53.0,288,59.0
-315,270,Saint Petersburg State University,RU,Russia,L,FC,VH,5,A,41.0,207,24.0,403,62.0,228,5.0,701+,5.0,701+,42.0,335,70.0,198,53.0,120,36.0,391,33.0
-1401+,1401+,Sakarya University,TR,Turkey,XL,FC,MD,3,A,4.0,601+,3.0,601+,3.0,701+,3.0,701+,2.0,701+,13.0,669,1.0,701+,8.0,701+,1.0,701+,0.0
-134,171,Sapienza University of Rome,IT,Italy,XL,FC,VH,5,A,79.0,74,41.0,229,5.0,701+,45.0,301,3.0,701+,11.0,697,97.0,33,60.0,101,92.0,79,53.0
-481,405,Satbayev University,KZ,Kazakhstan,M,FO,VH,4,A,23.0,370,36.0,272,84.0,111,1.0,701+,41.0,407,4.0,701+,1.0,701+,11.0,701+,1.0,701+,24.0
-319,259,Sciences Po,FR,France,L,SP,,5,A,18.0,502,28.0,353,88.0,94,3.0,701+,55.0,337,97.0,73,1.0,701+,76.0,55,55.0,279,33.0
-41,29,Seoul National University,KR,South Korea,L,FC,VH,4,A,99.0,18,98.0,17,85.0,105,65.0,175,12.0,701+,15.0,631,37.0,401,100.0,8,74.0,181,79.0
-1401+,,Shahjalal University of Science and Technology,BD,Bangladesh,,FO,,3,,7.0,601+,9.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-360,396,Shandong University,CN,China (Mainland),XL,FC,VH,4,A,16.0,558,32.0,310,18.0,701+,79.0,118,9.0,701+,3.0,701+,16.0,580,17.0,480,28.0,463,31.0
-51,46,Shanghai Jiao Tong University,CN,China (Mainland),XL,FC,VH,4,A,84.0,61,83.0,64,55.0,279,99.0,15,39.0,415,36.0,377,38.0,390,56.0,113,44.0,339,74.0
-514,422,Shanghai University,CN,China (Mainland),XL,CO,VH,3,A,22.0,397,9.0,601+,53.0,291,25.0,476,44.0,383,6.0,701+,12.0,643,11.0,701+,16.0,598,23.0
-334,380,Sharif University of Technology,IR,"Iran, Islamic Republic of",M,FO,VH,4,A,10.0,601+,44.0,207,6.0,701+,99.0,19,7.0,701+,1.0,701+,10.0,675,26.0,321,2.0,701+,32.0
-355,406,Sichuan University,CN,China (Mainland),XL,FC,VH,3,A,20.0,436,8.0,601+,11.0,701+,95.0,55,7.0,701+,5.0,701+,26.0,490,15.0,564,19.0,555,31.0
-318,328,Simon Fraser University,CA,Canada,L,CO,VH,4,A,26.0,343,14.0,600,6.0,701+,43.0,315,97.0,128,86.0,139,35.0,423,18.0,474,54.0,283,33.0
-429,,Singapore University of Technology and Design,SG,Singapore,S,SP,,2,,7.0,601+,6.0,601+,99.0,34,65.0,180,0.0,,0.0,,3.0,701+,8.0,701+,0.0,,26.0
-511,443,SOAS University of London,UK,United Kingdom,M,SP,,5,A,18.0,494,10.0,601+,18.0,701+,15.0,629,100.0,51,99.0,51,1.0,701+,20.0,427,4.0,701+,23.0
-509,457,Sogang University,KR,South Korea,M,CO,VH,4,B,22.0,401,49.0,178,56.0,269,6.0,701+,7.0,701+,24.0,483,1.0,701+,17.0,513,1.0,701+,23.0
-59,60,Sorbonne University,FR,France,XL,FC,VH,1,A,89.0,48,53.0,151,43.0,361,85.0,93,35.0,451,50.0,297,100.0,4,40.0,182,76.0,171,72.0
-392,406,South China University of Technology,CN,China (Mainland),XL,CO,VH,3,A,13.0,601+,4.0,601+,19.0,694,95.0,50,10.0,701+,5.0,701+,10.0,674,22.0,380,10.0,667,28.0
-454,461,Southeast University,CN,China (Mainland),XL,FC,VH,3,A,13.0,601+,7.0,601+,24.0,593,73.0,134,15.0,664,4.0,701+,21.0,536,9.0,701+,17.0,581,25.0
-301,226,Southern University of Science and Technology,CN,China (Mainland),M,FO,VH,2,A,9.0,601+,2.0,601+,95.0,64,95.0,53,37.0,434,2.0,701+,7.0,701+,7.0,701+,7.0,701+,35.0
-1401+,,Stamford University Bangladesh,BD,Bangladesh,,FO,,2,,10.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
-5,3,Stanford University,US,United States,L,FC,VH,5,B,100.0,5,100.0,3,100.0,11,100.0,8,100.0,78,51.0,284,96.0,44,100.0,2,94.0,63,98.0
-1401+,,State University of Malang,ID,Indonesia,L,FO,VH,4,A,5.0,601+,2.0,601+,8.0,701+,2.0,701+,10.0,701+,1.0,701+,1.0,701+,8.0,701+,1.0,701+,0.0
-283,454,Stellenbosch University,ZA,South Africa,L,FC,VH,5,A,25.0,351,39.0,240,3.0,701+,60.0,206,20.0,591,8.0,701+,92.0,69,50.0,132,44.0,339,37.0
-118,153,Stockholm University,SE,Sweden,L,CO,VH,4,A,54.0,145,15.0,543,28.0,543,72.0,138,82.0,223,84.0,147,95.0,51,76.0,57,75.0,175,57.0
-396,416,"Stony Brook University, State University of New York",US,United States,L,FC,VH,4,A,19.0,473,8.0,601+,30.0,517,32.0,424,45.0,376,51.0,285,34.0,424,19.0,449,89.0,97,28.0
-1401+,1401+,Sudan University of Science and Technology,SD,Sudan,XL,CO,MD,3,A,4.0,601+,3.0,601+,3.0,701+,1.0,701+,2.0,701+,2.0,701+,1.0,701+,9.0,701+,1.0,701+,0.0
-454,384,Sultan Qaboos University,OM,Oman,M,FC,VH,3,A,17.0,528,14.0,593,57.0,259,18.0,577,100.0,58,3.0,701+,48.0,325,17.0,478,8.0,701+,25.0
-323,267,Sun Yat-sen University,CN,China (Mainland),XL,FC,VH,4,A,36.0,238,22.0,423,49.0,321,44.0,304,2.0,701+,4.0,701+,33.0,429,17.0,508,38.0,373,33.0
-145,99,Sungkyunkwan University(SKKU),KR,South Korea,L,FC,VH,5,B,64.0,106,72.0,98,82.0,129,38.0,369,18.0,618,34.0,387,10.0,672,27.0,304,28.0,471,52.0
-307,425,Swansea University,UK,United Kingdom,L,FC,HI,5,A,21.0,418,45.0,193,24.0,608,27.0,460,73.0,261,54.0,271,59.0,254,11.0,701+,61.0,248,34.0
-285,296,Swinburne University of Technology,AU,Australia,L,CO,VH,3,A,13.0,601+,12.0,601+,11.0,701+,90.0,76,98.0,114,66.0,229,24.0,507,11.0,701+,26.0,487,36.0
-577,384,Taipei Medical University (TMU),TW,Taiwan,M,SP,,2,B,10.0,601+,15.0,536,91.0,81,18.0,585,15.0,667,16.0,609,1.0,701+,10.0,701+,9.0,688,21.0
-436,415,Tampere University,FI,Finland,L,FC,VH,1,A,23.0,391,20.0,463,24.0,595,32.0,422,32.0,473,6.0,701+,56.0,275,21.0,406,37.0,387,26.0
-284,284,Taylor's University,MY,Malaysia,S,FO,VH,2,C,24.0,358,83.0,67,63.0,225,9.0,701+,54.0,342,99.0,55,4.0,701+,11.0,701+,2.0,701+,36.0
-1401+,,Technical University of Crete,GR,Greece,,SP,,,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,3.0,701+,0.0,,0.0,,0.0
-246,275,Technical University of Darmstadt,DE,Germany,L,FO,VH,5,A,21.0,417,38.0,263,6.0,701+,79.0,117,63.0,310,75.0,188,33.0,439,34.0,229,20.0,545,40.0
-121,104,Technical University of Denmark,DK,Denmark,M,FO,VH,5,A,33.0,270,16.0,525,100.0,27,83.0,99,100.0,53,82.0,153,72.0,189,29.0,275,55.0,277,56.0
-37,49,Technical University of Munich,DE,Germany,XL,FO,VH,5,A,84.0,59,98.0,19,89.0,89,60.0,210,77.0,243,97.0,71,87.0,103,25.0,330,85.0,120,80.0
-392,408,Technion - Israel Institute of Technology,IL,Israel,L,FC,VH,5,A,25.0,345,28.0,347,44.0,358,25.0,479,65.0,296,5.0,701+,13.0,628,31.0,250,26.0,485,28.0
-1401+,,Technische Universität Bergakademie Freiberg,DE,Germany,,SP,,,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,5.0,701+,0.0,,0.0,,0.0
-154,158,Technische Universität Berlin (TU Berlin),DE,Germany,L,CO,VH,5,A,56.0,137,69.0,107,53.0,296,25.0,492,51.0,351,69.0,214,55.0,284,25.0,327,52.0,294,51.0
-246,200,Technische Universität Dresden,DE,Germany,L,FC,VH,5,A,38.0,231,38.0,258,91.0,79,15.0,639,46.0,373,35.0,379,87.0,98,11.0,701+,31.0,438,40.0
-1401+,,Technische Universität Hamburg-Harburg,DE,Germany,,SP,,,,9.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,3.0,701+,0.0,,0.0,,0.0
-1401+,,Technische Universität Kaiserslautern,DE,Germany,,CO,,,,7.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,11.0,655,0.0,,0.0,,0.0
-184,179,Technische Universität Wien,AT,Austria,M,FO,VH,5,A,33.0,266,44.0,201,13.0,701+,86.0,91,79.0,232,89.0,123,45.0,347,13.0,649,19.0,552,48.0
-184,170,Tecnológico de Monterrey,MX,Mexico,XL,FC,HI,4,B,51.0,157,97.0,28,64.0,222,2.0,701+,33.0,469,12.0,681,14.0,618,88.0,41,66.0,223,48.0
-215,260,Tel Aviv University,IL,Israel,L,FC,VH,4,A,33.0,264,24.0,407,4.0,701+,100.0,11,40.0,410,5.0,701+,40.0,382,73.0,62,38.0,373,44.0
-134,164,Texas A&M University,US,United States,XL,FC,VH,5,A,62.0,112,60.0,135,5.0,701+,68.0,152,23.0,564,13.0,656,88.0,93,30.0,259,61.0,246,53.0
-415,416,The American University in Cairo,EG,Egypt,M,CO,HI,5,B,30.0,287,24.0,405,43.0,368,5.0,701+,98.0,115,4.0,701+,1.0,701+,63.0,92,16.0,588,27.0
-34,30,The Australian National University,AU,Australia,L,FC,VH,4,A,93.0,37,70.0,102,35.0,455,93.0,65,100.0,38,93.0,97,79.0,156,44.0,164,87.0,108,82.0
-47,38,The Chinese University of Hong Kong (CUHK),HK,Hong Kong SAR,L,FC,VH,4,A,88.0,50,46.0,190,60.0,236,92.0,67,100.0,57,77.0,174,33.0,438,79.0,53,61.0,246,76.0
-251,222,The Hebrew University of Jerusalem,IL,Israel,L,FC,VH,5,A,34.0,252,29.0,334,81.0,135,23.0,521,55.0,338,16.0,600,37.0,400,78.0,54,51.0,301,39.0
-65,65,The Hong Kong Polytechnic University,HK,Hong Kong SAR,L,CO,VH,3,A,68.0,97,30.0,323,68.0,192,89.0,77,100.0,40,87.0,133,42.0,362,49.0,138,93.0,73,69.0
-60,40,The Hong Kong University of Science and Technology,HK,Hong Kong SAR,M,CO,VH,3,A,83.0,63,43.0,216,54.0,289,99.0,20,100.0,19,91.0,111,5.0,701+,50.0,131,31.0,432,71.0
-45,56,The London School of Economics and Political Science (LSE),UK,United Kingdom,M,SP,VH,5,A,68.0,98,96.0,32,40.0,401,80.0,110,100.0,35,100.0,10,32.0,440,99.0,16,98.0,28,77.0
-151,140,The Ohio State University,US,United States,XL,FC,VH,5,A,59.0,125,56.0,148,54.0,287,31.0,429,50.0,359,17.0,590,85.0,116,35.0,216,78.0,158,51.0
-89,109,The University of Adelaide,AU,Australia,L,FC,VH,5,A,54.0,144,37.0,267,16.0,701+,87.0,83,100.0,69,100.0,40,79.0,154,38.0,191,96.0,42,62.0
-285,262,The University of Arizona,US,United States,XL,FC,VH,5,A,39.0,226,18.0,476,73.0,175,20.0,562,11.0,701+,9.0,701+,88.0,96,31.0,245,72.0,196,36.0
-68,87,The University of Auckland,NZ,New Zealand,L,FC,VH,5,A,82.0,65,41.0,231,19.0,687,62.0,198,100.0,68,92.0,108,64.0,220,94.0,28,100.0,9,68.0
-22,15,The University of Edinburgh,UK,United Kingdom,XL,FC,VH,5,A,98.0,25,97.0,26,72.0,176,59.0,216,99.0,100,100.0,33,100.0,12,48.0,141,100.0,6,86.0
-153,163,The University of Exeter,UK,United Kingdom,L,FC,VH,4,A,43.0,199,51.0,161,27.0,555,43.0,308,92.0,174,76.0,180,90.0,85,20.0,424,95.0,57,51.0
-26,21,The University of Hong Kong,HK,Hong Kong SAR,L,FC,VH,5,A,98.0,27,51.0,159,83.0,121,82.0,102,100.0,28,99.0,52,43.0,355,100.0,14,97.0,32,85.0
-32,28,The University of Manchester,UK,United Kingdom,XL,FC,VH,5,A,95.0,33,98.0,21,54.0,288,49.0,274,94.0,160,99.0,44,100.0,10,72.0,66,92.0,75,82.0
-14,33,The University of Melbourne,AU,Australia,XL,FC,VH,5,A,98.0,21,92.0,45,15.0,701+,92.0,69,93.0,166,100.0,36,97.0,30,93.0,31,90.0,92,88.0
-19,45,The University of New South Wales (UNSW Sydney),AU,Australia,XL,FC,VH,4,A,90.0,45,88.0,55,18.0,701+,96.0,47,100.0,55,99.0,50,99.0,15,96.0,25,100.0,10,87.0
-173,192,"The University of Newcastle, Australia (UON)",AU,Australia,M,FC,VH,4,A,29.0,296,27.0,361,37.0,436,91.0,71,100.0,73,17.0,584,49.0,319,13.0,696,93.0,70,49.0
-43,50,The University of Queensland,AU,Australia,XL,FC,VH,5,A,87.0,52,74.0,89,22.0,635,87.0,84,100.0,41,100.0,22,95.0,53,44.0,163,73.0,187,78.0
-104,96,The University of Sheffield,UK,United Kingdom,L,FC,VH,5,A,59.0,130,52.0,153,55.0,278,47.0,289,84.0,218,98.0,69,96.0,38,25.0,332,76.0,169,60.0
-19,41,The University of Sydney,AU,Australia,XL,FC,VH,5,A,96.0,31,88.0,57,12.0,701+,94.0,63,100.0,89,100.0,13,92.0,70,88.0,42,100.0,7,87.0
-28,23,The University of Tokyo,JP,Japan,L,FC,VH,5,A,100.0,7,100.0,9,90.0,84,70.0,148,10.0,701+,29.0,427,70.0,196,100.0,11,100.0,5,84.0
-67,64,The University of Warwick,UK,United Kingdom,L,FC,VH,4,A,71.0,86,88.0,56,37.0,420,49.0,275,98.0,109,99.0,47,90.0,87,47.0,148,63.0,239,69.0
-72,90,The University of Western Australia,AU,Australia,L,FC,VH,5,A,56.0,138,45.0,200,17.0,701+,99.0,23,100.0,29,100.0,34,90.0,83,66.0,82,70.0,204,67.0
-285,307,Tianjin University,CN,China (Mainland),L,CO,VH,4,A,19.0,477,9.0,601+,35.0,461,98.0,31,24.0,544,27.0,446,19.0,555,24.0,351,26.0,488,36.0
-371,398,Tilburg University,NL,Netherlands,L,FO,VH,4,A,15.0,573,33.0,294,10.0,701+,44.0,302,97.0,131,58.0,259,9.0,683,14.0,602,31.0,432,30.0
-113,79,Tohoku University,JP,Japan,L,FC,VH,5,A,72.0,85,84.0,61,99.0,41,30.0,436,14.0,683,14.0,647,28.0,474,17.0,486,75.0,177,58.0
-91,55,Tokyo Institute of Technology (Tokyo Tech),JP,Japan,M,CO,VH,4,A,74.0,79,95.0,39,84.0,109,53.0,244,32.0,475,32.0,404,9.0,701+,20.0,425,18.0,567,62.0
-418,264,Tomsk State University,RU,Russia,M,CO,VH,5,A,23.0,376,11.0,601+,99.0,32,5.0,701+,24.0,555,92.0,109,23.0,514,7.0,701+,3.0,701+,27.0
-216,212,Tongji University,CN,China (Mainland),XL,FC,VH,5,A,34.0,251,13.0,601+,29.0,534,92.0,70,57.0,327,33.0,396,21.0,534,18.0,464,65.0,225,44.0
-446,,Toyota Technological Institute in Japan,JP,Japan,S,FO,VH,3,C,5.0,601+,2.0,601+,38.0,419,96.0,45,8.0,701+,2.0,701+,1.0,701+,8.0,701+,0.0,,26.0
-81,98,"Trinity College Dublin, The University of Dublin",IE,Ireland,L,FC,VH,5,A,69.0,92,40.0,238,24.0,601,64.0,184,100.0,79,93.0,104,82.0,132,71.0,70,76.0,173,64.0
-25,14,Tsinghua University,CN,China (Mainland),XL,FC,VH,4,A,99.0,16,97.0,27,94.0,67,99.0,22,9.0,701+,16.0,603,48.0,328,82.0,47,56.0,271,85.0
-379,312,Tufts University,US,United States,L,FC,VH,5,B,18.0,497,5.0,601+,56.0,263,43.0,312,25.0,532,36.0,374,19.0,552,48.0,143,51.0,301,29.0
-600,471,Tulane University,US,United States,L,FC,HI,5,B,10.0,601+,5.0,601+,82.0,134,10.0,701+,17.0,631,15.0,630,46.0,339,23.0,367,21.0,531,20.0
-9,8,UCL,UK,United Kingdom,XL,FC,VH,5,A,100.0,13,98.0,22,98.0,43,74.0,131,99.0,96,100.0,15,100.0,2,52.0,126,93.0,74,92.0
-300,284,UCSI University,MY,Malaysia,M,CO,HI,2,C,23.0,392,58.0,140,73.0,174,3.0,701+,84.0,219,98.0,63,1.0,701+,16.0,528,25.0,495,35.0
-1401+,,Udayana University,ID,Indonesia,L,FC,MD,4,A,6.0,601+,4.0,601+,7.0,701+,1.0,701+,4.0,701+,10.0,701+,1.0,701+,5.0,701+,1.0,701+,0.0
-266,197,Ulsan National Institute of Science and Technology (UNIST),KR,South Korea,S,FO,VH,2,A,15.0,579,12.0,601+,84.0,114,99.0,25,42.0,399,11.0,692,1.0,701+,8.0,701+,2.0,701+,38.0
-465,369,Umea University,SE,Sweden,L,FC,VH,4,A,20.0,449,14.0,583,68.0,191,15.0,637,24.0,554,10.0,701+,45.0,349,13.0,681,48.0,318,25.0
-419,477,UNESP,BR,Brazil,XL,FC,VH,3,A,39.0,219,35.0,282,15.0,701+,16.0,614,6.0,701+,3.0,701+,35.0,422,6.0,701+,54.0,287,27.0
-290,296,United Arab Emirates University,AE,United Arab Emirates,M,FC,VH,3,A,28.0,310,38.0,257,53.0,299,14.0,659,100.0,16,39.0,356,57.0,273,61.0,96,16.0,588,36.0
-520,432,Universidad Austral,AR,Argentina,S,FO,VH,3,B,19.0,460,53.0,152,75.0,165,2.0,701+,2.0,701+,9.0,701+,1.0,701+,9.0,701+,1.0,701+,23.0
-199,215,Universidad Autónoma de Madrid,ES,Spain,L,FC,VH,4,A,60.0,117,58.0,145,35.0,464,25.0,485,8.0,701+,12.0,678,80.0,143,20.0,428,89.0,97,46.0
-319,320,Universidad Carlos III de Madrid (UC3M),ES,Spain,L,FO,VH,3,A,33.0,265,49.0,177,53.0,290,5.0,701+,57.0,328,41.0,337,19.0,556,13.0,668,63.0,239,33.0
-1401+,1401+,"Universidad Católica Boliviana """"San Pablo""""",BO,Bolivia,L,FO,MD,4,B,5.0,601+,3.0,601+,4.0,701+,1.0,701+,3.0,701+,3.0,701+,1.0,701+,16.0,521,0.0,,0.0
-1401+,1401+,Universidad Católica de Santiago de Guayaquil,EC,Ecuador,L,FO,MD,4,B,4.0,601+,4.0,601+,3.0,701+,1.0,701+,7.0,701+,1.0,701+,1.0,701+,14.0,585,1.0,701+,0.0
-95,67,Universidad de Buenos Aires (UBA),AR,Argentina,XL,FC,VH,5,A,93.0,36,98.0,20,74.0,170,2.0,701+,63.0,309,67.0,224,28.0,470,26.0,311,19.0,555,61.0
-159,167,Universidad de Chile,CL,Chile,XL,FC,VH,5,A,82.0,66,97.0,30,10.0,701+,13.0,687,9.0,701+,5.0,701+,49.0,322,50.0,130,36.0,389,50.0
-198,220,Universidad de los Andes,CO,Colombia,L,FC,HI,4,B,65.0,103,96.0,35,18.0,701+,6.0,701+,26.0,517,2.0,701+,11.0,649,96.0,23,40.0,362,46.0
-530,390,Universidad de Palermo (UP),AR,Argentina,S,FO,MD,3,B,9.0,601+,18.0,493,91.0,83,1.0,701+,40.0,411,97.0,79,1.0,701+,10.0,701+,1.0,701+,22.0
-410,465,Universidad de Santiago de Chile (USACH),CL,Chile,L,FC,HI,5,A,43.0,197,73.0,92,9.0,701+,4.0,701+,7.0,701+,2.0,701+,7.0,701+,4.0,701+,13.0,635,27.0
-1401+,1401+,Universidad de Tarapaca,CL,Chile,M,FO,VH,3,A,4.0,601+,2.0,601+,2.0,701+,8.0,701+,0.0,,0.0,,3.0,701+,4.0,701+,1.0,701+,0.0
-1401+,1401+,Universidad Mayor de San Simón Cochabamba,BO,Bolivia,XL,CO,LO,5,A,5.0,601+,3.0,601+,1.0,701+,1.0,701+,0.0,,1.0,701+,1.0,701+,17.0,491,1.0,701+,0.0
-1401+,1401+,Universidad Michoacana de San Nicolás de Hidalgo,MX,Mexico,XL,FC,MD,5,A,4.0,601+,2.0,601+,3.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,4.0,701+,1.0,701+,0.0
-1401+,1401+,Universidad Nacional Autónoma de Honduras (UNAH),HN,Honduras,XL,FC,LO,5,A,4.0,601+,5.0,601+,3.0,701+,1.0,701+,2.0,701+,0.0,,1.0,701+,22.0,369,1.0,701+,0.0
-93,104,Universidad Nacional Autónoma de México (UNAM),MX,Mexico,XL,FC,VH,5,A,97.0,28,98.0,18,40.0,397,3.0,701+,8.0,701+,3.0,701+,85.0,120,68.0,78,89.0,101,61.0
-226,243,Universidad Nacional de Colombia,CO,Colombia,XL,FC,HI,5,A,70.0,91,97.0,29,6.0,701+,4.0,701+,6.0,701+,2.0,701+,13.0,620,30.0,263,50.0,309,42.0
-1401+,,UNIVERSIDAD POLITECNICA SALESIANA,EC,Ecuador,L,CO,MD,3,B,6.0,601+,3.0,601+,4.0,701+,2.0,701+,7.0,701+,2.0,701+,1.0,701+,6.0,701+,1.0,701+,0.0
-349,488,Universidad Politécnica de Madrid (UPM),ES,Spain,XL,SP,,4,A,31.0,280,49.0,176,15.0,701+,11.0,701+,3.0,701+,31.0,416,60.0,243,37.0,196,84.0,128,31.0
-1401+,1401+,Universidad Tecnológica de Bolívar,CO,Colombia,M,FO,HI,4,B,3.0,601+,5.0,601+,3.0,701+,3.0,701+,8.0,701+,7.0,701+,1.0,701+,9.0,701+,1.0,701+,0.0
-85,115,Universidade de São Paulo,BR,Brazil,XL,FC,VH,4,A,92.0,41,83.0,66,19.0,688,30.0,434,6.0,701+,2.0,701+,91.0,76,90.0,36,96.0,44,63.0
-220,210,Universidade Estadual de Campinas (Unicamp),BR,Brazil,XL,FC,VH,4,A,70.0,90,50.0,169,13.0,701+,25.0,489,12.0,701+,3.0,701+,54.0,294,10.0,701+,75.0,177,43.0
-371,333,Universidade Federal do Rio de Janeiro,BR,Brazil,XL,FC,VH,5,A,60.0,119,17.0,509,15.0,701+,8.0,701+,8.0,701+,2.0,701+,52.0,302,37.0,203,23.0,514,30.0
-400,369,Universidade Nova de Lisboa,PT,Portugal,L,FC,VH,4,A,28.0,313,20.0,452,20.0,679,24.0,498,24.0,548,47.0,309,64.0,224,19.0,444,40.0,362,28.0
-237,248,Universitas Indonesia,ID,Indonesia,XL,FC,VH,4,A,51.0,161,73.0,91,50.0,309,2.0,701+,76.0,249,5.0,701+,2.0,701+,59.0,103,42.0,351,41.0
-1401+,,Universitas Kristen Petra,ID,Indonesia,M,FO,HI,4,C,6.0,601+,4.0,601+,7.0,701+,2.0,701+,3.0,701+,1.0,701+,1.0,701+,8.0,701+,0.0,,0.0
-149,178,Universitat Autònoma de Barcelona,ES,Spain,XL,FC,VH,4,A,63.0,109,39.0,246,11.0,701+,71.0,145,18.0,615,17.0,582,84.0,123,14.0,623,95.0,60,52.0
-164,184,Universitat de Barcelona,ES,Spain,XL,FC,VH,5,A,73.0,83,23.0,412,13.0,701+,42.0,325,22.0,574,29.0,437,98.0,23,40.0,180,98.0,23,50.0
-354,343,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),ES,Spain,L,FO,VH,4,A,32.0,274,22.0,426,41.0,380,22.0,524,8.0,701+,21.0,532,73.0,183,15.0,556,73.0,186,31.0
-476,400,Universitat Politècnica de València,ES,Spain,L,CO,VH,4,A,26.0,338,12.0,601+,47.0,332,20.0,561,4.0,701+,24.0,489,57.0,271,8.0,701+,28.0,467,24.0
-310,233,Universitat Pompeu Fabra (Barcelona),ES,Spain,M,FO,VH,3,A,31.0,282,23.0,417,13.0,701+,56.0,232,78.0,238,27.0,455,38.0,389,15.0,551,13.0,633,34.0
-189,210,Universite libre de Bruxelles,BE,Belgium,L,FC,VH,5,A,34.0,249,39.0,247,3.0,701+,63.0,186,97.0,126,85.0,144,69.0,201,36.0,207,60.0,249,47.0
-387,256,Universiti Brunei Darussalam (UBD),BN,Brunei,S,CO,VH,3,A,21.0,420,6.0,601+,96.0,54,8.0,701+,100.0,47,65.0,231,2.0,701+,27.0,296,4.0,701+,28.0
-159,129,Universiti Kebangsaan Malaysia (UKM),MY,Malaysia,L,FC,VH,4,A,60.0,121,70.0,103,88.0,95,12.0,701+,53.0,347,61.0,242,57.0,272,11.0,701+,24.0,497,50.0
-65,70,Universiti Malaya (UM),MY,Malaysia,L,FC,VH,4,A,81.0,68,96.0,34,72.0,178,33.0,416,53.0,346,59.0,254,79.0,148,28.0,286,93.0,68,69.0
-158,123,Universiti Putra Malaysia (UPM),MY,Malaysia,L,FC,VH,4,A,59.0,129,68.0,113,68.0,194,23.0,519,44.0,381,97.0,72,45.0,341,10.0,701+,23.0,511,50.0
-137,143,Universiti Sains Malaysia (USM),MY,Malaysia,L,FC,VH,4,A,61.0,115,75.0,86,55.0,273,16.0,613,25.0,538,89.0,124,60.0,246,18.0,462,86.0,116,53.0
-525,340,Universiti Teknologi Brunei,BN,Brunei,S,FO,VH,3,A,14.0,601+,4.0,601+,90.0,86,9.0,701+,100.0,46,6.0,701+,1.0,701+,34.0,226,1.0,701+,22.0
-188,203,Universiti Teknologi Malaysia,MY,Malaysia,L,CO,VH,3,A,47.0,175,64.0,124,43.0,371,34.0,403,16.0,651,85.0,141,59.0,257,14.0,631,67.0,217,47.0
-307,361,Universiti Teknologi PETRONAS (UTP),MY,Malaysia,S,SP,,3,B,18.0,491,32.0,313,35.0,463,66.0,167,85.0,207,19.0,567,24.0,505,10.0,701+,3.0,701+,34.0
-538,481,Universiti Utara Malaysia (UUM),MY,Malaysia,L,SP,,3,A,21.0,423,28.0,345,40.0,389,7.0,701+,19.0,603,80.0,164,3.0,701+,10.0,701+,11.0,661,22.0
-491,425,University at Buffalo SUNY,US,United States,L,FC,VH,5,A,18.0,499,8.0,601+,8.0,701+,37.0,378,43.0,389,33.0,390,23.0,516,25.0,340,51.0,305,24.0
-292,303,University College Cork,IE,Ireland,L,FC,VH,5,A,28.0,309,36.0,270,29.0,528,22.0,534,95.0,152,47.0,308,25.0,496,24.0,360,96.0,46,36.0
-171,181,University College Dublin,IE,Ireland,L,FC,VH,5,A,50.0,162,41.0,226,21.0,652,39.0,354,99.0,101,61.0,245,51.0,309,69.0,75,70.0,204,49.0
-208,220,University of Aberdeen,UK,United Kingdom,L,FC,VH,5,A,30.0,292,33.0,302,30.0,525,42.0,322,96.0,144,97.0,77,73.0,180,21.0,408,98.0,21,45.0
-111,110,University of Alberta,CA,Canada,XL,FC,VH,5,A,57.0,135,37.0,266,43.0,370,59.0,213,98.0,116,73.0,193,92.0,68,46.0,152,76.0,170,58.0
-53,58,University of Amsterdam,NL,Netherlands,XL,FC,VH,5,A,84.0,62,44.0,203,21.0,641,98.0,33,92.0,168,80.0,163,97.0,28,50.0,133,65.0,226,73.0
-248,280,University of Antwerp,BE,Belgium,L,FC,VH,2,A,24.0,362,12.0,601+,45.0,349,49.0,272,91.0,177,32.0,397,90.0,81,30.0,268,80.0,146,40.0
-124,136,University of Basel,CH,Switzerland,M,FC,VH,5,A,28.0,314,18.0,494,57.0,253,97.0,44,100.0,34,85.0,143,74.0,175,41.0,179,70.0,201,55.0
-148,179,University of Bath,UK,United Kingdom,L,CO,VH,4,A,36.0,244,74.0,88,16.0,701+,62.0,196,96.0,136,82.0,155,59.0,251,27.0,310,48.0,316,52.0
-281,207,University of Bergen,NO,Norway,L,FC,VH,3,A,33.0,269,5.0,601+,67.0,197,31.0,426,92.0,171,14.0,635,69.0,200,24.0,358,58.0,259,37.0
-126,120,University of Bern,CH,Switzerland,M,FO,VH,5,A,31.0,284,24.0,396,55.0,280,99.0,17,100.0,42,37.0,369,89.0,89,26.0,313,74.0,182,55.0
-84,91,University of Birmingham,UK,United Kingdom,XL,FC,VH,5,A,68.0,99,76.0,81,41.0,379,38.0,364,92.0,169,84.0,148,96.0,41,30.0,270,80.0,146,63.0
-55,61,University of Bristol,UK,United Kingdom,L,FC,VH,5,A,75.0,78,85.0,60,47.0,331,65.0,179,86.0,205,87.0,136,84.0,122,40.0,181,81.0,141,72.0
-34,47,University of British Columbia,CA,Canada,XL,FC,VH,5,A,98.0,24,94.0,43,44.0,354,57.0,227,96.0,134,74.0,189,96.0,37,60.0,99,100.0,3,82.0
-182,242,University of Calgary,CA,Canada,XL,FC,VH,4,A,38.0,229,61.0,129,20.0,668,42.0,330,83.0,222,62.0,241,62.0,232,39.0,188,92.0,82,48.0
-10,27,"University of California, Berkeley (UCB)",US,United States,XL,FC,VH,5,A,100.0,6,100.0,6,21.0,656,100.0,7,92.0,172,64.0,235,92.0,66,99.0,15,100.0,1,90.0
-132,102,"University of California, Davis",US,United States,XL,FC,VH,5,A,64.0,107,45.0,199,30.0,518,41.0,338,70.0,276,49.0,301,78.0,159,19.0,439,99.0,16,53.0
-268,235,"University of California, Irvine",US,United States,XL,FC,VH,4,A,38.0,230,17.0,517,15.0,701+,50.0,263,57.0,325,50.0,299,65.0,214,11.0,701+,59.0,255,38.0
-29,44,"University of California, Los Angeles (UCLA)",US,United States,XL,FC,VH,5,A,100.0,8,100.0,8,37.0,435,85.0,96,43.0,386,25.0,477,90.0,86,97.0,20,91.0,86,84.0
-404,453,"University of California, Riverside",US,United States,L,FC,VH,4,A,18.0,505,7.0,601+,7.0,701+,60.0,207,63.0,307,9.0,701+,45.0,346,10.0,701+,47.0,327,28.0
-62,53,"University of California, San Diego (UCSD)",US,United States,XL,FC,VH,4,A,89.0,47,50.0,167,50.0,313,74.0,130,68.0,285,51.0,282,95.0,55,18.0,471,73.0,189,70.0
-163,149,"University of California, Santa Barbara (UCSB)",US,United States,L,CO,VH,5,A,55.0,142,19.0,470,10.0,701+,97.0,41,70.0,274,22.0,522,44.0,352,10.0,701+,56.0,271,50.0
-332,375,"University of California, Santa Cruz",US,United States,L,CO,VH,4,A,18.0,487,5.0,601+,7.0,701+,80.0,111,64.0,304,9.0,701+,19.0,547,11.0,701+,89.0,95,33.0
-2,2,University of Cambridge,UK,United Kingdom,L,FC,VH,5,A,100.0,3,100.0,4,100.0,14,92.0,68,100.0,64,96.0,85,100.0,7,100.0,6,97.0,33,99.0
-256,284,University of Canterbury | Te Whare Wānanga o Waitaha,NZ,New Zealand,L,CO,VH,4,A,34.0,257,33.0,299,11.0,701+,33.0,414,100.0,81,35.0,378,22.0,529,63.0,93,97.0,36,39.0
-173,237,University of Cape Town,ZA,South Africa,L,FC,VH,5,A,44.0,190,51.0,164,13.0,701+,46.0,295,60.0,317,21.0,527,95.0,49,89.0,38,75.0,175,49.0
-556,358,"University of Chemistry and Technology, Prague",CZ,Czech Republic,S,FO,VH,4,A,6.0,601+,8.0,601+,99.0,35,13.0,680,28.0,502,72.0,201,3.0,701+,10.0,701+,1.0,701+,21.0
-11,10,University of Chicago,US,United States,L,FC,VH,5,B,99.0,17,95.0,38,93.0,72,79.0,122,81.0,225,84.0,145,61.0,236,98.0,17,82.0,137,90.0
-351,438,University of Coimbra,PT,Portugal,L,FC,VH,5,A,29.0,304,13.0,601+,11.0,701+,42.0,329,11.0,701+,38.0,364,79.0,153,16.0,537,80.0,154,31.0
-268,335,University of Cologne,DE,Germany,L,FO,VH,5,A,37.0,235,39.0,253,19.0,686,31.0,427,41.0,406,31.0,413,81.0,141,37.0,199,57.0,263,38.0
-264,317,University of Colorado Boulder,US,United States,XL,CO,VH,5,A,37.0,237,14.0,596,33.0,480,49.0,269,27.0,508,6.0,701+,69.0,204,31.0,247,96.0,40,38.0
-444,350,University of Connecticut,US,United States,L,FC,VH,5,A,15.0,576,7.0,601+,15.0,701+,42.0,327,47.0,368,19.0,560,61.0,237,22.0,383,62.0,243,26.0
-107,82,University of Copenhagen,DK,Denmark,XL,FC,VH,5,A,74.0,80,26.0,371,100.0,19,21.0,543,91.0,175,23.0,506,98.0,19,60.0,98,87.0,108,59.0
-1401+,1401+,University of Craiova,RO,Romania,L,CO,HI,4,A,4.0,601+,2.0,601+,3.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,8.0,701+,1.0,701+,0.0
-368,473,University of Cyprus (UCY),CY,Cyprus,M,CO,VH,3,A,9.0,601+,3.0,601+,5.0,701+,78.0,123,93.0,165,25.0,471,56.0,279,19.0,448,24.0,497,30.0
-441,354,University of Dundee,UK,United Kingdom,L,FC,HI,4,A,18.0,488,14.0,595,38.0,418,14.0,654,96.0,142,80.0,162,27.0,475,11.0,701+,22.0,524,26.0
-295,342,University of East Anglia (UEA),UK,United Kingdom,L,FC,VH,4,A,19.0,466,9.0,601+,17.0,701+,66.0,164,68.0,287,38.0,360,65.0,218,13.0,678,84.0,123,35.0
-358,460,University of Florence,IT,Italy,XL,FC,VH,5,A,34.0,259,6.0,601+,4.0,701+,50.0,266,8.0,701+,11.0,701+,73.0,181,17.0,476,81.0,142,31.0
-168,188,University of Florida,US,United States,XL,FC,VH,5,A,48.0,171,59.0,137,71.0,180,27.0,467,19.0,604,11.0,699,98.0,24,39.0,184,96.0,48,49.0
-289,270,University of Galway,IE,Ireland,L,FC,HI,5,A,26.0,335,28.0,341,61.0,230,14.0,666,92.0,170,39.0,348,46.0,338,31.0,249,91.0,89,36.0
-128,125,University of Geneva,CH,Switzerland,L,FC,VH,5,A,45.0,184,14.0,579,42.0,374,75.0,127,100.0,45,96.0,81,87.0,99,31.0,246,63.0,232,54.0
-76,81,University of Glasgow,UK,United Kingdom,XL,FC,VH,5,A,76.0,77,71.0,101,42.0,377,32.0,423,96.0,143,100.0,41,90.0,80,27.0,306,100.0,11,65.0
-187,185,University of Gothenburg,SE,Sweden,L,FC,VH,4,A,36.0,239,17.0,511,56.0,261,39.0,349,91.0,179,81.0,160,86.0,104,46.0,151,98.0,30,47.0
-403,494,University of Granada,ES,Spain,XL,FC,VH,5,A,44.0,192,10.0,601+,6.0,701+,23.0,509,3.0,701+,16.0,598,97.0,34,5.0,701+,36.0,391,28.0
-139,145,University of Groningen,NL,Netherlands,XL,FC,VH,5,A,53.0,148,30.0,326,51.0,304,43.0,311,94.0,159,86.0,140,92.0,67,22.0,372,68.0,214,53.0
-232,215,University of Göttingen,DE,Germany,L,FC,VH,5,A,47.0,172,29.0,338,70.0,183,18.0,587,50.0,361,23.0,505,92.0,71,22.0,379,56.0,274,41.0
-386,380,University of Hawaiʻi at Mānoa,US,United States,L,FC,VH,5,A,16.0,543,9.0,601+,37.0,429,49.0,279,53.0,345,13.0,664,54.0,293,11.0,701+,48.0,320,28.0
-115,106,University of Helsinki,FI,Finland,L,CO,VH,5,A,65.0,105,32.0,304,63.0,223,50.0,265,72.0,268,5.0,701+,96.0,40,66.0,86,83.0,133,57.0
-1401+,,University of Ibadan,NG,Nigeria,,CO,,4,,9.0,601+,7.0,601+,0.0,,0.0,,0.0,,0.0,,8.0,701+,0.0,,0.0,,0.0
-323,317,University of Illinois at Chicago (UIC),US,United States,XL,FC,VH,5,A,41.0,206,24.0,408,32.0,497,26.0,469,9.0,701+,17.0,586,50.0,312,32.0,242,63.0,235,33.0
-64,85,University of Illinois at Urbana-Champaign,US,United States,XL,FC,VH,5,A,85.0,54,71.0,100,8.0,701+,87.0,86,11.0,701+,49.0,303,76.0,164,66.0,84,84.0,128,69.0
-491,467,University of Iowa,US,United States,L,FC,VH,5,A,20.0,444,11.0,601+,48.0,325,21.0,548,22.0,569,5.0,701+,51.0,304,22.0,374,38.0,373,24.0
-306,412,University of Johannesburg,ZA,South Africa,L,CO,VH,2,A,16.0,540,21.0,434,37.0,430,21.0,549,96.0,135,51.0,286,97.0,32,44.0,165,74.0,182,34.0
-446,347,University of Jyväskylä,FI,Finland,M,FO,VH,4,A,17.0,518,13.0,601+,86.0,100,15.0,626,41.0,404,3.0,701+,55.0,287,11.0,701+,30.0,447,26.0
-410,369,University of Kansas,US,United States,L,FC,VH,5,A,15.0,577,13.0,601+,84.0,116,9.0,701+,73.0,263,8.0,701+,36.0,414,24.0,359,72.0,194,27.0
-336,375,University of Kent,UK,United Kingdom,L,CO,VH,4,A,17.0,522,7.0,601+,13.0,701+,44.0,306,97.0,133,73.0,195,43.0,354,20.0,413,85.0,118,32.0
-580,486,University of Klagenfurt,AT,Austria,S,FO,VH,4,A,6.0,601+,4.0,601+,60.0,235,11.0,701+,95.0,148,87.0,137,3.0,701+,12.0,701+,2.0,701+,20.0
-1401+,,University of Lagos,NG,Nigeria,,CO,,,,7.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
-1401+,,University of Lampung,ID,Indonesia,L,FC,MD,4,,3.0,601+,2.0,601+,5.0,701+,1.0,701+,1.0,701+,1.0,701+,1.0,701+,6.0,701+,0.0,,0.0
-220,203,University of Lausanne,CH,Switzerland,L,FO,VH,5,A,29.0,294,15.0,545,37.0,434,65.0,173,100.0,77,57.0,263,48.0,327,28.0,290,62.0,245,43.0
-75,86,University of Leeds,UK,United Kingdom,XL,FC,VH,5,A,70.0,89,77.0,77,37.0,421,42.0,320,85.0,208,90.0,118,99.0,16,38.0,193,91.0,88,66.0
-272,279,University of Leicester,UK,United Kingdom,L,FC,VH,5,A,21.0,412,14.0,576,36.0,441,45.0,298,81.0,226,94.0,91,76.0,167,18.0,468,51.0,301,37.0
-266,335,University of Lisbon,PT,Portugal,XL,FC,VH,5,A,42.0,201,21.0,442,13.0,701+,35.0,387,9.0,701+,31.0,415,97.0,27,66.0,85,67.0,220,38.0
-176,190,University of Liverpool,UK,United Kingdom,L,FC,VH,5,A,44.0,191,35.0,277,40.0,401,38.0,371,88.0,194,79.0,168,97.0,29,26.0,324,72.0,193,49.0
-381,,University of Luxembourg,LU,Luxembourg,M,CO,VH,2,,9.0,601+,5.0,601+,77.0,152,29.0,447,100.0,14,100.0,24,18.0,557,26.0,323,0.0,,29.0
-254,304,University of Macau,MO,Macau SAR,M,FO,VH,3,A,11.0,601+,14.0,575,12.0,701+,97.0,43,100.0,18,99.0,49,11.0,646,42.0,177,4.0,701+,39.0
-169,164,"University of Maryland, College Park",US,United States,XL,FC,VH,5,A,49.0,165,26.0,369,35.0,451,68.0,154,32.0,477,14.0,639,86.0,113,42.0,176,82.0,137,49.0
-245,253,University of Massachusetts Amherst,US,United States,L,CO,VH,5,A,40.0,218,12.0,601+,11.0,701+,58.0,225,71.0,271,24.0,490,52.0,301,28.0,292,94.0,67,40.0
-1401+,,University of Mataram,ID,Indonesia,L,FO,MD,4,A,5.0,601+,2.0,601+,4.0,701+,1.0,701+,1.0,701+,1.0,701+,1.0,701+,5.0,701+,0.0,,0.0
-278,296,University of Miami,US,United States,L,FC,VH,4,B,20.0,435,45.0,198,77.0,155,19.0,565,84.0,215,23.0,502,55.0,283,37.0,198,51.0,305,37.0
-33,25,University of Michigan-Ann Arbor,US,United States,XL,FC,VH,5,A,98.0,22,90.0,48,82.0,127,56.0,231,67.0,292,28.0,445,95.0,48,94.0,29,84.0,126,82.0
-276,324,University of Milan,IT,Italy,XL,FC,VH,4,A,51.0,159,13.0,601+,6.0,701+,48.0,284,8.0,701+,7.0,701+,59.0,255,24.0,345,92.0,77,37.0
-195,185,University of Minnesota Twin Cities,US,United States,XL,FC,VH,5,A,59.0,127,30.0,324,31.0,510,46.0,291,6.0,701+,9.0,701+,86.0,109,42.0,172,89.0,101,46.0
-335,416,University of Naples - Federico II,IT,Italy,XL,FC,VH,5,A,35.0,245,17.0,508,4.0,701+,62.0,197,2.0,701+,1.0,701+,82.0,137,7.0,701+,35.0,403,32.0
-280,253,University of Navarra,ES,Spain,L,FC,HI,4,B,29.0,300,61.0,130,57.0,260,15.0,635,25.0,531,75.0,186,29.0,464,28.0,282,46.0,333,37.0
-132,102,"University of North Carolina, Chapel Hill",US,United States,XL,FC,VH,5,A,63.0,110,34.0,290,73.0,171,43.0,316,25.0,541,10.0,701+,82.0,133,48.0,142,97.0,38,53.0
-304,243,University of Notre Dame,US,United States,L,CO,VH,5,B,27.0,331,32.0,306,60.0,238,39.0,350,23.0,561,18.0,578,32.0,449,45.0,155,35.0,403,34.0
-100,114,University of Nottingham,UK,United Kingdom,XL,FC,VH,5,A,61.0,116,72.0,96,32.0,492,47.0,290,90.0,183,75.0,185,98.0,18,24.0,342,80.0,150,60.0
-1401+,1401+,University of Oradea,RO,Romania,L,FC,MD,4,A,5.0,601+,2.0,601+,4.0,701+,2.0,701+,2.0,701+,7.0,701+,2.0,701+,6.0,701+,2.0,701+,0.0
-117,101,University of Oslo,NO,Norway,L,FC,VH,5,A,56.0,139,11.0,601+,82.0,132,64.0,183,86.0,202,25.0,472,96.0,43,42.0,173,92.0,80,57.0
-206,217,University of Otago,NZ,New Zealand,L,FC,VH,5,A,46.0,178,27.0,359,11.0,701+,51.0,256,100.0,44,29.0,428,38.0,391,45.0,159,98.0,22,45.0
-203,237,University of Ottawa,CA,Canada,XL,FC,VH,5,A,27.0,329,30.0,328,4.0,701+,79.0,116,86.0,203,76.0,182,86.0,111,24.0,344,55.0,279,45.0
-313,392,University of Oulu,FI,Finland,M,FC,VH,4,A,16.0,553,17.0,502,26.0,564,57.0,228,53.0,348,9.0,701+,75.0,168,17.0,511,88.0,103,34.0
-3,4,University of Oxford,UK,United Kingdom,L,FC,VH,5,A,100.0,2,100.0,5,100.0,8,91.0,73,98.0,110,98.0,60,100.0,1,100.0,3,98.0,26,99.0
-12,13,University of Pennsylvania,US,United States,L,FC,VH,5,B,96.0,29,89.0,52,100.0,24,68.0,153,96.0,140,70.0,208,83.0,129,100.0,5,100.0,3,89.0
-349,404,University of Pisa,IT,Italy,L,FC,VH,5,A,40.0,211,13.0,601+,8.0,701+,41.0,333,6.0,701+,4.0,701+,68.0,209,13.0,642,74.0,182,31.0
-222,181,University of Pittsburgh,US,United States,L,FC,VH,5,A,38.0,228,15.0,541,96.0,56,39.0,357,7.0,701+,15.0,621,81.0,140,33.0,232,91.0,91,43.0
-253,274,University of Porto,PT,Portugal,XL,FC,VH,5,A,40.0,214,23.0,414,11.0,701+,58.0,219,7.0,701+,19.0,564,94.0,60,18.0,473,77.0,167,39.0
-169,229,University of Reading,UK,United Kingdom,L,CO,VH,5,A,33.0,263,39.0,241,16.0,701+,67.0,161,88.0,189,81.0,158,78.0,158,32.0,237,73.0,189,49.0
-224,147,University of Rochester,US,United States,M,FC,VH,5,B,22.0,398,18.0,477,98.0,48,52.0,252,71.0,269,92.0,106,31.0,451,27.0,308,33.0,416,42.0
-489,499,"University of Rome """"Tor Vergata""""",IT,Italy,L,CO,VH,3,A,32.0,277,13.0,601+,8.0,701+,38.0,367,7.0,701+,16.0,596,33.0,435,8.0,701+,15.0,608,24.0
-345,473,University of Saskatchewan,CA,Canada,L,FC,VH,5,A,12.0,601+,7.0,601+,17.0,701+,54.0,237,70.0,279,52.0,280,47.0,331,21.0,396,95.0,56,32.0
-436,428,University of Science and Technology Beijing,CN,China (Mainland),L,CO,VH,3,A,13.0,601+,3.0,601+,11.0,701+,97.0,39,3.0,701+,3.0,701+,9.0,691,6.0,701+,3.0,701+,26.0
-137,94,University of Science and Technology of China,CN,China (Mainland),L,CO,VH,4,A,53.0,149,18.0,500,91.0,80,99.0,26,17.0,639,5.0,701+,32.0,444,25.0,335,22.0,528,53.0
-326,363,University of South Australia,AU,Australia,L,CO,VH,3,A,23.0,390,14.0,580,22.0,625,33.0,415,100.0,80,45.0,322,59.0,256,15.0,544,82.0,137,33.0
-81,78,University of Southampton,UK,United Kingdom,L,FC,VH,5,A,52.0,154,51.0,160,53.0,298,71.0,140,96.0,138,97.0,70,97.0,31,33.0,235,83.0,133,64.0
-116,134,University of Southern California,US,United States,XL,FC,VH,5,B,53.0,150,48.0,183,22.0,634,68.0,157,32.0,474,74.0,191,63.0,228,93.0,32,99.0,15,57.0
-326,347,University of Southern Denmark (SDU),DK,Denmark,L,CO,VH,4,A,20.0,441,18.0,485,27.0,558,41.0,337,83.0,220,23.0,503,50.0,315,18.0,469,89.0,100,33.0
-95,96,University of St Andrews,UK,United Kingdom,M,FO,VH,5,A,47.0,173,67.0,114,65.0,212,58.0,223,99.0,103,100.0,29,51.0,306,22.0,370,92.0,77,61.0
-1401+,,University of Stavanger,NO,Norway,,CO,,2,,7.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,26.0,489,0.0,,0.0,,0.0
-276,325,University of Strathclyde,UK,United Kingdom,L,CO,VH,4,A,26.0,334,35.0,281,18.0,701+,34.0,405,93.0,161,67.0,222,62.0,235,24.0,353,59.0,252,37.0
-244,305,University of Surrey,UK,United Kingdom,L,CO,VH,4,A,20.0,428,23.0,409,23.0,613,56.0,230,97.0,129,88.0,127,71.0,192,17.0,503,58.0,259,40.0
-218,240,University of Sussex,UK,United Kingdom,L,FC,VH,4,A,23.0,380,9.0,601+,15.0,701+,71.0,142,96.0,137,93.0,100,63.0,226,31.0,251,97.0,35,43.0
-358,296,University of Tartu,EE,Estonia,M,FC,VH,5,A,24.0,355,9.0,601+,92.0,78,12.0,701+,47.0,372,22.0,513,74.0,177,42.0,171,28.0,471,31.0
-307,293,University of Tasmania,AU,Australia,M,CO,VH,5,A,17.0,520,8.0,601+,18.0,701+,58.0,220,75.0,254,96.0,84,49.0,320,15.0,562,47.0,323,34.0
-90,137,University of Technology Sydney,AU,Australia,L,CO,VH,3,A,43.0,195,58.0,143,9.0,701+,95.0,52,97.0,132,94.0,95,80.0,146,30.0,260,93.0,72,62.0
-58,72,University of Texas at Austin,US,United States,XL,FC,VH,5,A,94.0,35,83.0,65,9.0,701+,87.0,85,9.0,701+,11.0,691,79.0,147,70.0,73,78.0,163,72.0
-404,412,University of the Philippines,PH,Philippines,XL,FC,HI,5,A,34.0,250,59.0,136,38.0,415,2.0,701+,2.0,701+,1.0,701+,9.0,685,35.0,213,39.0,370,28.0
-21,34,University of Toronto,CA,Canada,XL,FC,VH,5,A,100.0,11,96.0,33,54.0,283,57.0,226,96.0,145,96.0,80,96.0,46,96.0,22,100.0,2,86.0
-429,457,University of Trento,IT,Italy,L,CO,VH,4,A,25.0,352,9.0,601+,19.0,685,44.0,305,27.0,509,6.0,701+,61.0,238,9.0,701+,35.0,400,26.0
-577,454,University of Tromsø The Arctic University of Norway,NO,Norway,L,FC,HI,4,A,12.0,601+,4.0,601+,71.0,182,9.0,701+,70.0,273,8.0,701+,43.0,360,10.0,701+,22.0,524,21.0
-355,312,University of Tsukuba,JP,Japan,L,FC,VH,4,A,36.0,242,24.0,402,59.0,243,19.0,569,14.0,691,21.0,529,32.0,450,12.0,701+,58.0,259,31.0
-364,475,University of Turin,IT,Italy,XL,FC,VH,5,A,40.0,213,6.0,601+,3.0,701+,37.0,380,5.0,701+,5.0,701+,69.0,199,33.0,236,84.0,123,30.0
-315,291,University of Turku,FI,Finland,L,FC,VH,5,A,28.0,311,21.0,440,52.0,302,32.0,417,27.0,505,4.0,701+,63.0,227,28.0,291,78.0,163,33.0
-210,212,University of Twente,NL,Netherlands,M,FO,VH,4,A,21.0,422,38.0,254,39.0,404,65.0,171,99.0,94,91.0,112,68.0,208,13.0,687,33.0,416,44.0
-441,392,University of Utah,US,United States,L,FC,VH,5,A,16.0,548,6.0,601+,53.0,295,37.0,383,25.0,530,10.0,701+,54.0,289,15.0,560,49.0,315,26.0
-322,359,University of Victoria (UVic),CA,Canada,L,CO,VH,4,A,17.0,514,8.0,601+,4.0,701+,65.0,174,95.0,149,49.0,304,19.0,551,12.0,701+,90.0,94,33.0
-130,151,University of Vienna,AT,Austria,XL,FC,VH,5,A,71.0,88,43.0,217,22.0,629,15.0,646,99.0,92,88.0,129,94.0,62,57.0,109,74.0,180,54.0
-260,253,University of Virginia,US,United States,L,FC,VH,5,A,36.0,243,32.0,307,57.0,257,34.0,401,8.0,701+,11.0,700,58.0,262,69.0,77,63.0,232,39.0
-250,331,University of Waikato,NZ,New Zealand,M,CO,VH,4,A,18.0,484,13.0,601+,11.0,701+,75.0,128,99.0,91,73.0,192,18.0,568,45.0,162,80.0,152,40.0
-262,284,University of Warsaw,PL,Poland,XL,CO,VH,5,A,49.0,169,53.0,150,42.0,375,6.0,701+,10.0,701+,9.0,701+,62.0,233,37.0,204,80.0,150,38.0
-63,80,University of Washington,US,United States,XL,FC,VH,5,A,84.0,58,50.0,168,19.0,692,94.0,62,19.0,600,33.0,392,94.0,59,70.0,74,88.0,106,69.0
-112,154,University of Waterloo,CA,Canada,XL,CO,VH,4,A,41.0,208,67.0,117,7.0,701+,83.0,100,77.0,241,78.0,172,55.0,281,56.0,112,97.0,36,58.0
-102,83,University of Wisconsin-Madison,US,United States,XL,FC,VH,5,A,80.0,71,48.0,182,61.0,229,37.0,376,31.0,483,23.0,501,84.0,126,73.0,61,84.0,126,60.0
-264,428,University of Witwatersrand,ZA,South Africa,L,FC,VH,5,A,26.0,341,43.0,214,11.0,701+,28.0,453,80.0,229,8.0,701+,92.0,65,97.0,21,63.0,239,38.0
-162,185,University of Wollongong,AU,Australia,L,FC,VH,3,A,30.0,290,25.0,382,16.0,701+,94.0,60,96.0,146,56.0,265,73.0,186,17.0,492,92.0,75,50.0
-167,162,University of York,UK,United Kingdom,L,FC,VH,4,A,44.0,194,35.0,275,45.0,351,40.0,342,88.0,192,78.0,171,79.0,150,20.0,421,98.0,26,49.0
-91,83,University of Zurich,CH,Switzerland,L,FC,VH,5,A,59.0,126,28.0,352,90.0,88,52.0,248,100.0,60,53.0,274,87.0,100,75.0,58,80.0,149,62.0
-542,375,University Ulm,DE,Germany,M,FO,VH,4,A,8.0,601+,4.0,601+,78.0,144,34.0,404,41.0,403,21.0,533,15.0,603,7.0,701+,3.0,701+,22.0
-595,436,Università Vita-Salute San Raffaele,IT,Italy,S,SP,,3,B,3.0,601+,2.0,601+,99.0,40,39.0,352,8.0,701+,3.0,701+,4.0,701+,8.0,701+,1.0,701+,20.0
-219,243,Università di Padova,IT,Italy,XL,FC,VH,5,A,57.0,133,22.0,428,8.0,701+,52.0,250,13.0,701+,9.0,701+,91.0,73,14.0,620,95.0,55,43.0
-600,441,Universität des Saarlandes,DE,Germany,L,FC,VH,4,A,11.0,601+,5.0,601+,90.0,87,8.0,701+,5.0,701+,39.0,350,39.0,384,20.0,416,2.0,701+,20.0
-205,228,Universität Hamburg,DE,Germany,L,FC,VH,5,A,51.0,160,29.0,340,17.0,701+,60.0,205,42.0,395,22.0,512,87.0,101,27.0,305,53.0,292,45.0
-362,308,Universität Innsbruck,AT,Austria,L,FC,HI,5,A,20.0,433,7.0,601+,69.0,187,11.0,701+,100.0,65,100.0,27,33.0,434,36.0,208,17.0,586,31.0
-461,352,Universität Jena,DE,Germany,L,FC,VH,5,A,19.0,482,6.0,601+,100.0,20,10.0,701+,0.0,,22.0,509,84.0,125,8.0,701+,16.0,592,25.0
-479,420,Universität Leipzig,DE,Germany,L,FC,VH,5,A,25.0,344,10.0,601+,71.0,181,10.0,701+,0.0,,16.0,602,59.0,249,10.0,701+,35.0,403,24.0
-312,355,Universität Stuttgart,DE,Germany,L,CO,VH,5,A,24.0,361,27.0,357,6.0,701+,65.0,177,37.0,430,50.0,296,37.0,405,19.0,430,34.0,411,34.0
-180,195,Université catholique de Louvain (UCLouvain),BE,Belgium,L,FC,VH,5,B,49.0,166,31.0,317,4.0,701+,60.0,203,89.0,186,39.0,347,83.0,130,52.0,125,55.0,279,48.0
-141,116,Université de Montréal,CA,Canada,XL,FC,VH,5,A,57.0,136,35.0,283,77.0,154,25.0,491,88.0,191,52.0,277,65.0,216,36.0,205,96.0,50,52.0
-236,248,Université de Paris-Cité,FR,France,XL,FO,VH,1,A,32.0,275,6.0,601+,9.0,701+,94.0,61,19.0,598,42.0,336,100.0,11,12.0,701+,46.0,331,41.0
-421,434,Université de Strasbourg,FR,France,XL,FC,VH,5,A,40.0,216,8.0,601+,5.0,701+,23.0,512,36.0,449,39.0,357,70.0,194,11.0,701+,15.0,614,27.0
-294,317,Université Grenoble Alpes,FR,France,XL,FC,VH,1,A,45.0,188,10.0,601+,8.0,701+,49.0,276,18.0,611,35.0,380,93.0,64,14.0,596,41.0,360,36.0
-441,433,Université Laval,CA,Canada,L,FC,VH,5,A,20.0,443,11.0,601+,26.0,577,25.0,484,67.0,290,36.0,372,55.0,280,24.0,343,31.0,432,26.0
-328,300,Université Paris 1 Panthéon-Sorbonne,FR,France,XL,FO,VH,5,A,65.0,104,25.0,385,4.0,701+,3.0,701+,38.0,421,46.0,314,30.0,458,32.0,238,16.0,588,33.0
-71,69,Université Paris-Saclay,FR,France,XL,CO,VH,1,A,59.0,128,99.0,13,100.0,25,46.0,294,39.0,416,61.0,244,99.0,17,34.0,224,74.0,182,68.0
-24,26,Université PSL,FR,France,L,CO,VH,1,A,74.0,82,97.0,25,99.0,33,96.0,49,69.0,280,73.0,196,100.0,3,61.0,97,80.0,146,86.0
-1401+,,Université Sorbonne Paris Nord,FR,France,,CO,,,,10.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,14.0,611,0.0,,0.0,,0.0
-105,128,Uppsala University,SE,Sweden,L,FC,VH,5,A,63.0,111,31.0,320,48.0,330,46.0,296,98.0,108,82.0,152,96.0,47,58.0,105,99.0,12,59.0
-473,335,Ural Federal University - UrFU,RU,Russia,XL,CO,VH,5,A,21.0,410,13.0,601+,93.0,70,2.0,701+,6.0,701+,26.0,465,63.0,225,7.0,701+,25.0,490,24.0
-328,240,USI - Università della Svizzera italiana,CH,Switzerland,S,FO,VH,3,A,6.0,601+,4.0,601+,83.0,120,56.0,229,100.0,23,100.0,11,4.0,701+,8.0,701+,1.0,701+,33.0
-107,112,Utrecht University,NL,Netherlands,XL,FC,VH,5,A,67.0,102,32.0,311,33.0,487,81.0,108,57.0,323,21.0,531,95.0,54,27.0,309,84.0,128,59.0
-261,199,Vanderbilt University,US,United States,L,FC,VH,5,B,25.0,348,20.0,459,100.0,9,37.0,377,36.0,442,35.0,383,47.0,332,36.0,206,51.0,299,38.0
-241,275,Victoria University of Wellington,NZ,New Zealand,L,CO,VH,4,A,45.0,186,26.0,375,9.0,701+,32.0,418,100.0,88,35.0,382,38.0,393,47.0,149,94.0,66,41.0
-473,400,Vilnius University,LT,Lithuania,L,FC,HI,5,A,20.0,447,28.0,346,83.0,119,3.0,701+,13.0,701+,15.0,622,44.0,351,26.0,325,12.0,647,24.0
-302,363,Virginia Polytechnic Institute and State University,US,United States,XL,FC,VH,5,A,26.0,337,40.0,232,19.0,701+,35.0,389,72.0,267,18.0,577,70.0,197,21.0,402,53.0,292,35.0
-207,214,Vrije Universiteit Amsterdam,NL,Netherlands,XL,FC,VH,5,A,40.0,217,16.0,531,24.0,607,68.0,156,69.0,284,40.0,340,70.0,195,20.0,414,89.0,95,45.0
-259,251,Vrije Universiteit Brussel (VUB),BE,Belgium,L,FC,VH,4,A,23.0,373,17.0,512,76.0,160,22.0,527,94.0,158,59.0,252,88.0,94,31.0,244,67.0,215,39.0
-151,124,Wageningen University & Research,NL,Netherlands,L,FO,VH,5,A,43.0,196,19.0,472,98.0,47,46.0,292,55.0,336,79.0,170,98.0,22,19.0,438,72.0,196,51.0
-199,205,Waseda University,JP,Japan,XL,CO,VH,5,B,60.0,118,97.0,24,24.0,602,4.0,701+,28.0,503,29.0,436,18.0,569,66.0,87,57.0,268,46.0
-419,443,Washington State University,US,United States,L,FC,VH,5,A,24.0,354,18.0,489,16.0,701+,35.0,386,50.0,358,6.0,701+,47.0,335,11.0,701+,50.0,309,27.0
-154,118,Washington University in St. Louis,US,United States,L,FC,VH,5,B,39.0,224,10.0,601+,100.0,28,51.0,259,84.0,214,68.0,219,61.0,241,34.0,228,91.0,83,51.0
-114,172,Western University,CA,Canada,XL,FC,VH,5,A,32.0,273,47.0,186,4.0,701+,98.0,30,100.0,86,55.0,268,56.0,274,93.0,30,100.0,8,57.0
-384,384,Westfälische Wilhelms-Universität Münster,DE,Germany,L,FC,VH,5,A,32.0,278,25.0,389,55.0,271,13.0,688,30.0,489,5.0,701+,59.0,252,26.0,314,28.0,471,29.0
-194,194,Wuhan University,CN,China (Mainland),XL,FC,VH,4,A,41.0,204,44.0,205,13.0,701+,87.0,82,41.0,405,5.0,701+,48.0,324,35.0,218,44.0,336,47.0
-392,422,Xiamen University,CN,China (Mainland),XL,FC,VH,4,A,26.0,340,12.0,601+,20.0,664,65.0,170,5.0,701+,3.0,701+,25.0,494,22.0,387,17.0,579,28.0
-291,302,Xi’an Jiaotong University,CN,China (Mainland),XL,FC,VH,4,A,21.0,406,42.0,222,17.0,701+,81.0,106,4.0,701+,4.0,701+,37.0,403,21.0,397,35.0,403,36.0
-16,18,Yale University,US,United States,M,FC,VH,5,B,100.0,9,100.0,7,100.0,3,46.0,293,90.0,184,79.0,169,86.0,112,100.0,9,99.0,13,88.0
-369,246,Yeshiva University,US,United States,M,FC,VH,5,B,3.0,601+,3.0,601+,75.0,167,100.0,14,0.0,,9.0,701+,4.0,701+,10.0,701+,1.0,701+,30.0
-76,73,Yonsei University,KR,South Korea,L,FC,VH,4,B,80.0,72,96.0,31,87.0,97,36.0,385,20.0,594,50.0,298,25.0,498,71.0,69,38.0,377,65.0
-353,456,York University,CA,Canada,XL,CO,VH,4,A,23.0,377,21.0,441,5.0,701+,29.0,440,51.0,356,81.0,157,28.0,471,53.0,119,81.0,144,31.0
-44,42,Zhejiang University,CN,China (Mainland),XL,FC,VH,4,A,74.0,81,96.0,36,67.0,198,98.0,37,98.0,120,27.0,456,75.0,174,38.0,194,52.0,297,78.0
-1401+,,Zürcher Hochschule Winterthur,CH,Switzerland,,CO,,,,6.0,601+,7.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
-184,111,École Normale Supérieure de Lyon,FR,France,S,CO,VH,5,A,31.0,285,14.0,570,96.0,59,98.0,27,71.0,272,15.0,628,34.0,425,10.0,701+,6.0,701+,48.0
+336,330,aalborg university,dk,denmark,l,fc,vh,3,a,20.0,442,22.0,424,32.0,500,42.0,317,76.0,244,18.0,570,79.0,151,15.0,569,36.0,393,32.0
+109,116,aalto university,fi,finland,l,fo,vh,2,a,45.0,187,42.0,223,40.0,391,79.0,112,96.0,147,38.0,363,56.0,277,89.0,39,95.0,53,59.0
+143,161,aarhus university,dk,denmark,l,fc,vh,4,a,56.0,140,25.0,387,33.0,490,54.0,238,90.0,181,13.0,661,95.0,56,45.0,156,98.0,18,52.0
+345,369,airlangga university,id,indonesia,l,fc,hi,4,a,34.0,254,73.0,95,52.0,301,1.0,701+,45.0,379,6.0,701+,1.0,701+,14.0,582,31.0,444,32.0
+387,490,aix-marseille university,fr,france,xl,fc,vh,5,a,36.0,241,5.0,601+,8.0,701+,27.0,468,19.0,609,20.0,549,99.0,13,11.0,701+,65.0,228,28.0
+230,150,al-farabi kazakh national university,kz,kazakhstan,l,fc,hi,4,a,51.0,155,75.0,85,99.0,38,1.0,701+,29.0,497,34.0,386,12.0,634,12.0,701+,5.0,701+,42.0
+192,189,albert-ludwigs-universitaet freiburg,de,germany,l,fc,vh,5,a,46.0,179,20.0,460,29.0,531,63.0,187,69.0,281,36.0,371,83.0,131,25.0,328,68.0,213,47.0
+154,167,alma mater studiorum - university of bologna,it,italy,xl,fc,vh,5,a,80.0,73,40.0,237,3.0,701+,50.0,267,8.0,701+,11.0,695,91.0,75,35.0,219,57.0,268,51.0
+226,252,american university of beirut (aub),lb,lebanon,m,fc,vh,5,b,28.0,316,42.0,225,57.0,254,24.0,499,68.0,288,47.0,310,36.0,415,89.0,40,93.0,70,42.0
+364,369,american university of sharjah,ae,united arab emirates,s,co,vh,3,b,20.0,438,39.0,243,21.0,653,20.0,559,100.0,2,100.0,6,6.0,701+,37.0,202,3.0,701+,30.0
+375,443,amirkabir university of technology,ir,"iran, islamic republic of",m,fo,vh,4,a,4.0,601+,33.0,295,5.0,701+,100.0,13,16.0,652,3.0,701+,10.0,681,10.0,701+,17.0,586,30.0
+179,219,arizona state university,us,united states,xl,co,vh,5,a,47.0,174,37.0,265,7.0,701+,62.0,199,65.0,299,30.0,422,88.0,97,27.0,307,97.0,33,48.0
+1401+,1401+,ataturk university,tr,turkey,xl,co,hi,4,a,5.0,601+,2.0,601+,3.0,701+,4.0,701+,3.0,701+,4.0,701+,2.0,701+,9.0,701+,4.0,701+,0.0
+407,486,auckland university of technology (aut),nz,new zealand,l,co,vh,2,a,19.0,464,12.0,601+,10.0,701+,19.0,575,100.0,59,99.0,48,12.0,635,19.0,433,72.0,196,27.0
+281,235,bandung institute of technology (itb),id,indonesia,l,co,vh,5,a,41.0,203,66.0,122,66.0,208,3.0,701+,84.0,213,2.0,701+,1.0,701+,36.0,209,21.0,533,37.0
+319,230,bauman moscow state technical university,ru,russia,l,co,vh,5,a,31.0,279,44.0,202,100.0,18,1.0,701+,54.0,343,59.0,256,1.0,701+,12.0,701+,11.0,663,33.0
+473,443,beihang university (former buaa),cn,china (mainland),l,co,vh,2,a,13.0,601+,6.0,601+,36.0,440,69.0,150,8.0,701+,5.0,701+,7.0,701+,13.0,656,15.0,608,24.0
+340,355,beijing institute of technology,cn,china (mainland),l,fo,vh,4,a,23.0,385,18.0,484,41.0,381,76.0,125,3.0,701+,4.0,701+,17.0,572,14.0,599,24.0,506,32.0
+272,262,beijing normal university,cn,china (mainland),l,co,vh,5,a,38.0,227,7.0,601+,26.0,576,86.0,87,7.0,701+,23.0,496,23.0,520,12.0,701+,31.0,444,37.0
+387,288,belarusian state university,by,belarus,l,fo,vh,5,a,27.0,327,43.0,219,95.0,61,1.0,701+,4.0,701+,50.0,294,3.0,701+,25.0,341,1.0,701+,28.0
+469,490,ben-gurion university of the negev,il,israel,l,fc,vh,4,a,15.0,592,14.0,577,12.0,701+,53.0,245,65.0,294,16.0,607,20.0,544,11.0,701+,18.0,564,25.0
+374,343,"birkbeck, university of london",uk,united kingdom,m,fo,vh,5,a,11.0,601+,4.0,601+,14.0,701+,65.0,172,98.0,123,98.0,62,9.0,692,12.0,701+,12.0,642,30.0
+567,481,bond university,au,australia,s,fo,vh,3,b,5.0,601+,5.0,601+,44.0,356,23.0,518,88.0,195,94.0,96,1.0,701+,12.0,701+,1.0,701+,21.0
+93,108,boston university,us,united states,l,fc,vh,5,b,62.0,113,68.0,109,33.0,485,60.0,204,22.0,576,88.0,132,73.0,187,69.0,76,86.0,113,61.0
+73,63,brown university,us,united states,m,fc,vh,5,b,58.0,131,42.0,221,78.0,145,86.0,89,85.0,212,52.0,279,58.0,258,75.0,59,70.0,201,66.0
+343,412,brunel university london,uk,united kingdom,l,co,vh,4,a,11.0,601+,13.0,601+,8.0,701+,44.0,303,100.0,84,100.0,39,57.0,269,19.0,450,63.0,235,32.0
+15,6,california institute of technology (caltech),us,united states,s,co,vh,5,b,96.0,30,94.0,41,100.0,5,100.0,3,100.0,63,81.0,159,23.0,521,34.0,225,41.0,357,88.0
+1401+,1401+,california state university long beach,us,united states,xl,co,vh,4,a,4.0,601+,3.0,601+,8.0,701+,0.0,,0.0,,0.0,,0.0,,10.0,701+,0.0,,0.0
+154,166,cardiff university,uk,united kingdom,l,fc,vh,5,a,47.0,176,48.0,181,34.0,474,40.0,347,84.0,217,71.0,206,82.0,138,19.0,442,98.0,25,51.0
+52,52,carnegie mellon university,us,united states,l,fc,vh,5,b,71.0,87,75.0,83,49.0,319,100.0,10,47.0,371,98.0,59,57.0,264,60.0,100,47.0,323,74.0
+255,176,case western reserve university,us,united states,m,fc,vh,4,b,18.0,486,17.0,507,83.0,118,64.0,185,38.0,420,68.0,216,21.0,537,27.0,301,35.0,403,39.0
+452,499,central south university,cn,china (mainland),xl,fc,vh,2,a,9.0,601+,3.0,601+,6.0,701+,98.0,28,7.0,701+,4.0,701+,14.0,616,10.0,701+,9.0,689,26.0
+129,125,chalmers university of technology,se,sweden,m,fo,vh,5,b,27.0,326,52.0,158,51.0,306,81.0,107,100.0,49,67.0,220,52.0,299,29.0,278,83.0,132,54.0
+248,288,charles university,cz,czech republic,xl,fc,vh,5,a,46.0,183,44.0,210,35.0,456,9.0,701+,25.0,539,51.0,283,91.0,77,28.0,294,84.0,125,40.0
+211,224,chulalongkorn university,th,thailand,xl,fc,vh,5,a,67.0,101,50.0,170,32.0,498,7.0,701+,15.0,668,3.0,701+,49.0,318,87.0,44,86.0,113,44.0
+494,392,chung-ang university (cau),kr,south korea,l,fc,vh,4,b,20.0,445,36.0,271,70.0,186,9.0,701+,14.0,690,36.0,373,2.0,701+,13.0,672,3.0,701+,23.0
+70,54,city university of hong kong,hk,hong kong sar,m,co,vh,3,a,60.0,122,27.0,356,87.0,99,100.0,9,100.0,17,100.0,2,17.0,570,30.0,269,82.0,136,68.0
+328,355,"city, university of london",uk,united kingdom,l,co,vh,5,a,21.0,405,18.0,483,7.0,701+,42.0,321,95.0,151,99.0,46,22.0,527,28.0,284,42.0,356,33.0
+409,408,colorado state university,us,united states,l,co,vh,5,a,19.0,475,18.0,482,57.0,258,20.0,553,12.0,701+,4.0,701+,55.0,285,15.0,559,98.0,29,27.0
+23,22,columbia university,us,united states,xl,fc,vh,5,b,100.0,12,98.0,16,100.0,15,41.0,339,56.0,332,97.0,76,98.0,25,100.0,10,94.0,64,86.0
+171,226,complutense university of madrid,es,spain,xl,fc,vh,4,a,68.0,96,69.0,105,26.0,573,7.0,701+,9.0,701+,26.0,469,83.0,127,58.0,106,96.0,41,49.0
+13,20,cornell university,us,united states,l,fc,vh,5,b,98.0,26,91.0,47,53.0,297,99.0,18,69.0,283,64.0,234,80.0,144,98.0,18,95.0,58,89.0
+1401+,1401+,cukurova university,tr,turkey,xl,fc,hi,4,a,4.0,601+,3.0,601+,5.0,701+,3.0,701+,2.0,701+,5.0,701+,4.0,701+,7.0,701+,14.0,625,0.0
+183,193,curtin university,au,australia,l,co,vh,3,a,32.0,271,32.0,309,14.0,701+,86.0,88,100.0,43,26.0,459,85.0,119,26.0,320,51.0,305,48.0
+454,378,czech technical university in prague,cz,czech republic,l,sp,,5,a,22.0,403,38.0,259,76.0,161,4.0,701+,26.0,526,39.0,349,15.0,592,14.0,618,2.0,701+,25.0
+307,,daegu gyeongbuk institute of science and technology (dgist),kr,south korea,s,fo,vh,2,a,10.0,601+,8.0,601+,89.0,90,100.0,7,5.0,701+,4.0,701+,1.0,701+,5.0,701+,0.0,,34.0
+298,308,dalhousie university,ca,canada,l,fc,vh,5,a,19.0,465,18.0,488,16.0,701+,42.0,323,99.0,97,75.0,187,37.0,399,22.0,385,94.0,61,35.0
+237,205,dartmouth college,us,united states,m,fc,vh,5,b,21.0,415,24.0,398,58.0,248,79.0,121,5.0,701+,34.0,388,7.0,701+,72.0,65,67.0,217,41.0
+233,266,deakin university,au,australia,xl,fc,vh,3,a,30.0,291,26.0,373,5.0,701+,67.0,160,97.0,130,60.0,249,51.0,303,26.0,312,54.0,283,41.0
+47,61,delft university of technology,nl,netherlands,l,co,vh,5,a,73.0,84,79.0,73,37.0,428,85.0,95,100.0,66,89.0,121,91.0,72,42.0,170,98.0,18,76.0
+436,471,dublin city university,ie,ireland,l,fc,hi,3,a,20.0,452,27.0,360,26.0,575,12.0,690,76.0,248,19.0,557,19.0,548,25.0,334,82.0,137,26.0
+57,50,duke university,us,united states,l,fc,vh,5,b,86.0,53,69.0,106,100.0,7,40.0,344,17.0,634,52.0,278,90.0,82,89.0,37,95.0,53,72.0
+78,92,durham university,uk,united kingdom,l,fc,vh,5,a,60.0,124,89.0,50,28.0,548,53.0,241,98.0,125,87.0,135,86.0,108,29.0,274,98.0,30,65.0
+213,169,eberhard karls universität tübingen,de,germany,l,fc,vh,5,a,46.0,180,30.0,325,93.0,71,20.0,560,68.0,289,27.0,454,90.0,84,21.0,393,42.0,351,44.0
+192,174,ecole des ponts paristech,fr,france,s,fo,vh,5,a,8.0,601+,58.0,142,98.0,45,81.0,109,35.0,458,97.0,75,6.0,701+,30.0,261,19.0,549,47.0
+124,138,eindhoven university of technology,nl,netherlands,m,fo,vh,4,a,29.0,295,76.0,78,40.0,390,90.0,75,100.0,30,71.0,205,40.0,377,20.0,426,18.0,567,55.0
+199,155,emory university,us,united states,l,fc,vh,5,b,26.0,342,16.0,522,98.0,50,70.0,149,37.0,431,31.0,409,57.0,268,24.0,357,86.0,115,46.0
+36,16,epfl,ch,switzerland,m,fo,vh,5,a,85.0,57,60.0,133,92.0,73,98.0,34,100.0,25,100.0,12,66.0,213,19.0,431,42.0,351,80.0
+176,208,erasmus university rotterdam,nl,netherlands,xl,fo,vh,5,a,37.0,232,51.0,165,23.0,624,53.0,240,83.0,221,60.0,247,72.0,190,64.0,91,49.0,312,49.0
+459,465,"essex, university of",uk,united kingdom,l,co,vh,4,a,16.0,535,5.0,601+,13.0,701+,26.0,475,100.0,82,99.0,53,40.0,380,13.0,638,10.0,678,25.0
+7,9,eth zurich - swiss federal institute of technology,ch,switzerland,l,fo,vh,5,a,99.0,19,84.0,62,72.0,177,99.0,21,100.0,22,99.0,56,96.0,42,79.0,52,88.0,103,93.0
+498,346,ewha womans university,kr,south korea,l,fc,hi,4,b,27.0,325,23.0,413,77.0,150,8.0,701+,8.0,701+,20.0,551,2.0,701+,15.0,552,7.0,701+,23.0
+380,425,flinders university,au,australia,l,fc,vh,4,a,13.0,601+,7.0,601+,7.0,701+,43.0,313,97.0,127,90.0,119,39.0,385,11.0,701+,65.0,226,29.0
+98,118,freie universitaet berlin,de,germany,l,fc,vh,4,a,81.0,70,51.0,163,4.0,701+,71.0,141,63.0,308,44.0,332,85.0,118,22.0,378,60.0,251,61.0
+229,340,friedrich-alexander-universität erlangen-nürnberg,de,germany,l,fc,vh,5,a,25.0,347,21.0,446,3.0,701+,96.0,48,27.0,511,40.0,342,75.0,172,16.0,541,70.0,207,42.0
+50,34,fudan university,cn,china (mainland),xl,fc,vh,4,a,85.0,55,90.0,49,85.0,108,72.0,136,88.0,193,33.0,393,23.0,522,50.0,134,44.0,341,74.0
+263,231,gadjah mada university,id,indonesia,xl,fc,hi,4,a,52.0,152,67.0,118,54.0,282,2.0,701+,39.0,419,2.0,701+,2.0,701+,43.0,169,47.0,323,38.0
+340,362,george washington university,us,united states,l,fc,vh,5,b,27.0,323,25.0,393,28.0,541,29.0,439,32.0,478,28.0,444,61.0,239,50.0,135,63.0,235,32.0
+297,281,georgetown university,us,united states,l,fc,vh,5,b,30.0,288,34.0,285,59.0,242,19.0,574,17.0,629,40.0,344,14.0,606,88.0,43,67.0,217,35.0
+97,88,georgia institute of technology,us,united states,l,co,vh,5,a,67.0,100,85.0,59,15.0,701+,67.0,163,39.0,417,65.0,230,33.0,432,42.0,175,70.0,201,61.0
+1401+,,georgian technical university,ge,georgia,,fo,,5,a,6.0,601+,4.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+159,143,ghent university,be,belgium,xl,fc,vh,5,a,53.0,146,25.0,379,79.0,141,25.0,486,80.0,231,21.0,528,100.0,8,52.0,124,91.0,84,50.0
+302,328,goethe-university frankfurt am main,de,germany,xl,fc,vh,5,a,44.0,189,29.0,335,21.0,638,21.0,539,41.0,402,26.0,468,82.0,134,12.0,701+,47.0,327,35.0
+421,284,graz university of technology,at,austria,m,fo,vh,5,a,15.0,595,11.0,601+,100.0,31,14.0,664,75.0,255,59.0,258,10.0,664,14.0,629,4.0,701+,27.0
+243,300,griffith university,au,australia,xl,fc,vh,4,a,27.0,332,16.0,526,8.0,701+,66.0,166,100.0,70,32.0,403,73.0,185,16.0,539,93.0,69,40.0
+1401+,,guru gobind singh indraprastha university,in,india,,co,,3,a,3.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+328,288,gwangju institute of science and technology (gist),kr,south korea,s,fo,vh,3,a,17.0,513,9.0,601+,38.0,411,100.0,5,22.0,577,10.0,701+,1.0,701+,8.0,701+,2.0,701+,33.0
+310,,hamad bin khalifa university,qa,qatar,s,fo,vh,3,a,12.0,601+,4.0,601+,100.0,4,89.0,79,0.0,,0.0,,28.0,469,10.0,701+,0.0,,34.0
+164,157,hanyang university,kr,south korea,l,fc,vh,4,b,49.0,167,81.0,70,84.0,117,23.0,510,17.0,632,54.0,269,16.0,587,25.0,336,78.0,163,50.0
+256,217,harbin institute of technology,cn,china (mainland),l,fo,vh,4,a,29.0,306,15.0,552,42.0,378,99.0,24,9.0,701+,8.0,701+,23.0,517,20.0,412,15.0,603,39.0
+4,5,harvard university,us,united states,l,fc,vh,5,b,100.0,1,100.0,1,98.0,44,100.0,1,85.0,210,67.0,223,100.0,5,100.0,1,97.0,39,98.0
+551,449,hasselt university,be,belgium,m,fo,vh,4,a,6.0,601+,3.0,601+,79.0,143,18.0,579,76.0,247,24.0,488,27.0,478,10.0,701+,16.0,596,21.0
+235,281,heriot-watt university,uk,united kingdom,m,co,vh,4,a,16.0,537,21.0,438,19.0,701+,79.0,113,100.0,67,98.0,66,40.0,375,21.0,392,44.0,342,41.0
+472,338,hiroshima university,jp,japan,l,fc,vh,4,a,24.0,366,14.0,581,81.0,136,10.0,701+,17.0,624,13.0,663,30.0,457,10.0,701+,38.0,382,25.0
+196,141,hokkaido university,jp,japan,l,fc,vh,5,a,57.0,134,66.0,119,76.0,162,28.0,451,18.0,621,14.0,633,38.0,392,13.0,665,31.0,438,46.0
+295,281,hong kong baptist university,hk,hong kong sar,m,co,vh,3,a,19.0,458,13.0,601+,56.0,265,52.0,249,98.0,118,100.0,20,3.0,701+,15.0,557,17.0,574,35.0
+399,308,hse university,ru,russia,xl,fo,vh,3,a,27.0,318,32.0,308,91.0,82,2.0,701+,6.0,701+,16.0,597,71.0,191,13.0,639,5.0,701+,28.0
+275,306,huazhong university of science and technology,cn,china (mainland),xl,fc,vh,4,a,23.0,384,29.0,332,10.0,701+,99.0,16,6.0,701+,3.0,701+,45.0,340,17.0,504,27.0,480,37.0
+575,410,hufs - hankuk (korea) university of foreign studies,kr,south korea,l,co,hi,3,b,13.0,601+,24.0,404,85.0,104,2.0,701+,32.0,471,45.0,320,1.0,701+,6.0,701+,1.0,701+,21.0
+120,131,humboldt-universität zu berlin,de,germany,xl,fc,vh,5,a,90.0,43,66.0,120,8.0,701+,31.0,425,68.0,286,32.0,406,86.0,110,14.0,586,38.0,382,56.0
+428,347,ie university,es,spain,m,fo,hi,2,c,7.0,601+,41.0,230,56.0,262,3.0,701+,95.0,154,100.0,4,1.0,701+,39.0,183,6.0,701+,26.0
+469,443,illinois institute of technology,us,united states,m,co,vh,5,b,14.0,601+,16.0,532,13.0,701+,49.0,280,30.0,490,94.0,93,2.0,701+,14.0,632,3.0,701+,25.0
+595,477,imam abdulrahman bin faisal university (iau) (formerly university of dammam),sa,saudi arabia,l,fc,hi,3,a,8.0,601+,7.0,601+,86.0,101,2.0,701+,99.0,105,17.0,589,12.0,640,8.0,701+,19.0,552,20.0
+6,6,imperial college london,uk,united kingdom,l,fc,vh,5,a,98.0,23,99.0,12,99.0,42,94.0,58,100.0,61,100.0,14,97.0,35,83.0,45,94.0,61,98.0
+225,155,indian institute of science,in,india,s,sp,,5,a,42.0,202,20.0,454,46.0,340,100.0,6,5.0,701+,2.0,701+,4.0,701+,14.0,621,11.0,660,42.0
+149,172,indian institute of technology bombay (iitb),in,india,l,co,vh,4,a,56.0,141,82.0,69,19.0,697,73.0,133,5.0,701+,1.0,701+,9.0,701+,47.0,146,55.0,277,52.0
+197,174,indian institute of technology delhi (iitd),in,india,m,co,vh,4,a,51.0,158,76.0,80,22.0,630,64.0,182,2.0,701+,1.0,701+,7.0,701+,33.0,234,38.0,382,46.0
+364,384,indian institute of technology guwahati (iitg),in,india,m,co,vh,3,a,17.0,523,25.0,381,8.0,701+,98.0,32,3.0,701+,1.0,701+,6.0,701+,6.0,701+,4.0,701+,30.0
+454,396,indian institute of technology indore (iit indore),in,india,s,fo,vh,2,a,6.0,601+,4.0,601+,33.0,478,94.0,57,2.0,701+,1.0,701+,1.0,701+,8.0,701+,2.0,701+,25.0
+278,264,indian institute of technology kanpur (iitk),in,india,m,co,vh,4,a,35.0,247,49.0,175,14.0,701+,76.0,126,2.0,701+,1.0,701+,3.0,701+,21.0,404,22.0,524,37.0
+271,270,indian institute of technology kharagpur (iit-kgp),in,india,l,fo,vh,4,a,32.0,272,44.0,211,12.0,701+,86.0,90,3.0,701+,1.0,701+,11.0,659,22.0,388,18.0,567,37.0
+285,250,indian institute of technology madras (iitm),in,india,m,co,vh,4,a,40.0,212,56.0,147,27.0,563,55.0,235,3.0,701+,1.0,701+,3.0,701+,26.0,317,7.0,701+,36.0
+369,369,indian institute of technology roorkee (iitr),in,india,m,fo,vh,5,a,18.0,500,23.0,421,8.0,701+,91.0,72,1.0,701+,2.0,701+,4.0,701+,11.0,701+,28.0,471,30.0
+1401+,,indian statistical institute,in,india,,fo,,4,,8.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
+313,339,indiana university bloomington,us,united states,xl,fc,vh,5,a,35.0,246,24.0,397,31.0,514,22.0,533,41.0,409,13.0,667,69.0,205,52.0,122,63.0,239,34.0
+392,457,institut national des sciences appliquées de lyon (insa),fr,france,m,fo,vh,4,a,8.0,601+,29.0,331,37.0,425,51.0,258,29.0,492,69.0,213,19.0,553,13.0,674,21.0,540,28.0
+38,48,institut polytechnique de paris,fr,france,m,co,vh,1,a,45.0,185,100.0,10,97.0,51,94.0,59,99.0,106,98.0,58,77.0,163,90.0,35,73.0,189,80.0
+rank display,rank display2,institution,location code,location,size,focus,research,age band,status,0.0,ar rank,0.0,er rank,0.0,fsr rank,0.0,cpf rank,0.0,ifr rank,0.0,isr rank,0.0,irn rank,0.0,ger rank,0.0,sus rank,0.0
+1401+,,"international university of business, agriculture and technology (iubat)",bd,bangladesh,,co,,3,,6.0,601+,4.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+556,,inti international university,my,malaysia,s,fo,hi,2,c,5.0,601+,15.0,556,84.0,112,2.0,701+,75.0,252,88.0,126,1.0,701+,9.0,701+,1.0,701+,21.0
+400,481,iowa state university,us,united states,l,co,vh,5,a,20.0,440,14.0,597,8.0,701+,59.0,217,5.0,701+,11.0,690,51.0,307,27.0,300,52.0,295,28.0
+489,449,ipb university (a.k.a. bogor agricultural university),id,indonesia,l,co,vh,4,a,22.0,399,39.0,244,66.0,203,2.0,701+,55.0,339,4.0,701+,1.0,701+,24.0,347,3.0,701+,24.0
+542,359,itmo university,ru,russia,m,fo,vh,5,a,12.0,601+,12.0,601+,96.0,55,7.0,701+,21.0,579,39.0,354,27.0,476,7.0,701+,15.0,612,22.0
+304,293,jagiellonian university,pl,poland,xl,fc,vh,5,a,37.0,233,47.0,188,65.0,210,6.0,701+,5.0,701+,13.0,655,59.0,248,28.0,289,58.0,259,34.0
+415,461,james cook university,au,australia,m,fc,vh,4,a,15.0,567,9.0,601+,14.0,701+,51.0,255,42.0,393,14.0,650,43.0,359,9.0,701+,83.0,131,27.0
+502,497,jilin university,cn,china (mainland),xl,fc,vh,4,a,14.0,601+,47.0,189,39.0,405,24.0,506,12.0,701+,2.0,701+,18.0,563,18.0,458,14.0,627,23.0
+464,420,johannes gutenberg universität mainz,de,germany,xl,fc,vh,5,a,23.0,389,13.0,601+,55.0,281,15.0,641,39.0,418,16.0,594,70.0,193,10.0,701+,19.0,552,25.0
+446,350,johannes kepler university linz,at,austria,m,co,vh,4,a,13.0,601+,14.0,598,83.0,122,16.0,617,86.0,201,27.0,447,27.0,487,11.0,701+,18.0,560,26.0
+28,24,johns hopkins university,us,united states,l,fc,vh,5,b,87.0,51,60.0,134,100.0,8,89.0,77,64.0,300,91.0,111,98.0,21,75.0,60,85.0,122,85.0
+440,410,julius-maximilians-universität würzburg,de,germany,l,fc,vh,5,a,17.0,511,6.0,601+,5.0,701+,68.0,154,36.0,449,16.0,591,42.0,363,10.0,701+,12.0,647,26.0
+396,490,justus-liebig-university giessen,de,germany,l,fc,vh,5,a,14.0,601+,6.0,601+,2.0,701+,86.0,92,12.0,701+,19.0,561,64.0,221,10.0,701+,11.0,655,28.0
+56,42,kaist - korea advanced institute of science & technology,kr,south korea,m,co,vh,4,a,90.0,44,89.0,53,66.0,202,98.0,35,22.0,570,12.0,682,11.0,662,42.0,174,14.0,621,72.0
+396,322,kazan (volga region) federal university,ru,russia,l,fc,vh,5,a,23.0,387,8.0,601+,94.0,68,3.0,701+,11.0,701+,96.0,82,62.0,234,11.0,701+,24.0,497,28.0
+214,197,keio university,jp,japan,xl,fc,vh,5,b,51.0,156,94.0,42,58.0,246,6.0,701+,10.0,701+,9.0,701+,9.0,689,80.0,50,39.0,366,44.0
+230,181,khalifa university of science and technology,ae,united arab emirates,s,sp,,2,a,20.0,448,20.0,451,87.0,98,48.0,281,100.0,10,75.0,184,30.0,459,9.0,701+,67.0,220,42.0
+1401+,,khulna university,bd,bangladesh,,sp,,3,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+143,106,king abdulaziz university (kau),sa,saudi arabia,xl,fc,vh,4,a,55.0,143,62.0,127,53.0,300,38.0,374,98.0,124,23.0,500,84.0,121,17.0,483,44.0,342,52.0
+180,160,king fahd university of petroleum & minerals,sa,saudi arabia,m,fc,vh,4,a,33.0,267,37.0,268,83.0,124,66.0,165,100.0,24,32.0,402,26.0,492,39.0,185,21.0,536,48.0
+203,237,king saud university,sa,saudi arabia,xl,fc,vh,4,a,37.0,236,21.0,435,64.0,218,32.0,419,100.0,83,21.0,525,89.0,92,72.0,67,76.0,171,45.0
+40,37,king's college london,uk,united kingdom,xl,fc,vh,5,a,90.0,46,82.0,68,65.0,215,61.0,201,99.0,99,100.0,23,99.0,14,34.0,223,81.0,142,79.0
+119,141,"kit, karlsruhe institute of technology",de,germany,l,co,vh,4,a,46.0,182,77.0,76,36.0,443,72.0,139,70.0,275,47.0,312,76.0,166,39.0,187,24.0,504,56.0
+476,363,kobe university,jp,japan,l,fc,vh,4,a,29.0,308,39.0,248,53.0,292,12.0,701+,7.0,701+,8.0,701+,9.0,701+,12.0,701+,11.0,658,24.0
+79,74,korea university,kr,south korea,l,fc,vh,4,b,82.0,64,94.0,40,81.0,137,37.0,382,14.0,694,36.0,370,20.0,546,71.0,71,59.0,255,65.0
+431,477,koç university,tr,turkey,m,fc,hi,3,b,22.0,393,47.0,187,24.0,591,29.0,448,27.0,504,11.0,687,6.0,701+,11.0,701+,30.0,449,26.0
+73,89,kth royal institute of technology,se,sweden,l,co,vh,5,a,46.0,181,51.0,162,66.0,201,90.0,74,93.0,162,68.0,217,81.0,142,57.0,108,96.0,44,66.0
+61,76,ku leuven,be,belgium,xl,fc,vh,5,a,85.0,56,42.0,220,7.0,701+,93.0,66,93.0,163,46.0,318,100.0,6,56.0,111,76.0,173,70.0
+1401+,,kwame nkrumah university of science and technology,gh,ghana,,co,,,,6.0,601+,8.0,601+,0.0,,0.0,,0.0,,0.0,,11.0,656,0.0,,0.0,,0.0
+46,36,kyoto university,jp,japan,l,fc,vh,5,a,99.0,20,99.0,14,95.0,63,49.0,270,15.0,670,21.0,538,57.0,266,53.0,118,88.0,103,76.0
+332,270,kyung hee university,kr,south korea,l,fc,vh,4,b,28.0,312,42.0,224,85.0,106,14.0,657,14.0,684,54.0,272,17.0,577,12.0,701+,34.0,413,33.0
+164,135,kyushu university,jp,japan,l,fc,vh,5,a,57.0,132,70.0,104,86.0,103,24.0,503,15.0,671,26.0,467,33.0,436,15.0,547,78.0,163,50.0
+355,277,l.n. gumilyov eurasian national university (enu),kz,kazakhstan,l,fo,vh,3,a,30.0,293,52.0,157,97.0,53,1.0,701+,59.0,319,6.0,701+,1.0,701+,11.0,701+,10.0,678,31.0
+242,316,la trobe university,au,australia,l,co,vh,4,a,23.0,388,20.0,453,7.0,701+,78.0,124,94.0,156,98.0,57,46.0,337,14.0,591,29.0,460,40.0
+122,146,lancaster university,uk,united kingdom,l,fc,vh,4,a,40.0,215,40.0,236,25.0,581,79.0,115,94.0,157,91.0,116,75.0,171,21.0,400,98.0,24,56.0
+351,388,lappeenranta-lahti university of technology lut,fi,finland,s,sp,,4,a,7.0,601+,13.0,601+,11.0,701+,98.0,36,45.0,378,18.0,573,15.0,599,11.0,701+,39.0,367,31.0
+126,131,leiden university,nl,netherlands,xl,fc,vh,5,a,69.0,95,27.0,362,20.0,659,63.0,190,86.0,204,50.0,292,94.0,61,27.0,303,46.0,331,55.0
+362,368,lincoln university,nz,new zealand,s,co,vh,3,a,8.0,601+,5.0,601+,40.0,393,52.0,253,100.0,62,91.0,113,1.0,701+,32.0,241,38.0,379,31.0
+268,320,linköping university,se,sweden,l,co,vh,3,a,19.0,470,27.0,363,35.0,457,49.0,277,78.0,239,30.0,420,58.0,260,35.0,221,87.0,108,38.0
+87,75,lomonosov moscow state university,ru,russia,xl,fc,vh,5,a,81.0,69,78.0,74,100.0,26,5.0,701+,20.0,587,92.0,105,85.0,115,82.0,48,13.0,631,62.0
+212,256,loughborough university,uk,united kingdom,l,co,vh,4,a,31.0,283,67.0,116,24.0,604,35.0,392,87.0,198,64.0,237,77.0,162,19.0,446,63.0,231,44.0
+54,59,ludwig-maximilians-universität münchen,de,germany,xl,fc,vh,5,a,93.0,40,84.0,63,47.0,335,51.0,254,73.0,260,38.0,362,94.0,57,49.0,140,77.0,167,73.0
+85,95,lund university,se,sweden,l,fc,vh,5,a,69.0,93,48.0,185,50.0,310,38.0,373,99.0,102,77.0,173,95.0,52,66.0,83,99.0,14,63.0
+256,278,maastricht university,nl,netherlands,l,fo,vh,3,a,23.0,369,22.0,422,13.0,701+,63.0,193,100.0,90,100.0,17,47.0,333,27.0,302,14.0,627,39.0
+130,195,macquarie university,au,australia,l,fc,vh,4,a,32.0,276,41.0,228,10.0,701+,81.0,105,99.0,104,94.0,94,81.0,139,43.0,167,92.0,80,54.0
+382,256,mahidol university,th,thailand,l,fc,vh,4,a,42.0,200,30.0,322,78.0,147,5.0,701+,6.0,701+,5.0,701+,10.0,666,11.0,701+,28.0,471,29.0
+1,1,massachusetts institute of technology (mit),us,united states,m,co,vh,5,b,100.0,4,100.0,2,100.0,16,100.0,4,100.0,56,88.0,128,94.0,58,100.0,4,95.0,51,100.0
+239,292,massey university,nz,new zealand,m,co,vh,4,a,30.0,286,16.0,528,43.0,364,23.0,520,98.0,111,98.0,64,65.0,215,45.0,157,95.0,58,41.0
+30,31,mcgill university,ca,canada,xl,fc,vh,5,a,94.0,34,88.0,58,64.0,219,62.0,195,89.0,188,93.0,98,86.0,107,93.0,33,94.0,64,84.0
+189,152,mcmaster university,ca,canada,l,fc,vh,5,a,41.0,210,38.0,255,75.0,166,29.0,444,99.0,93,60.0,250,40.0,376,37.0,197,70.0,204,47.0
+526,345,mgimo university,ru,russia,m,sp,,4,a,12.0,601+,21.0,436,100.0,17,1.0,701+,13.0,701+,46.0,315,1.0,701+,48.0,144,1.0,701+,22.0
+136,159,michigan state university,us,united states,xl,fc,vh,5,a,60.0,120,49.0,174,11.0,701+,58.0,221,59.0,320,13.0,665,96.0,45,46.0,153,71.0,199,53.0
+42,57,monash university,au,australia,xl,fc,vh,4,a,88.0,49,75.0,84,10.0,701+,88.0,81,100.0,50,100.0,19,87.0,102,61.0,95,72.0,194,78.0
+415,267,moscow institute of physics and technology (mipt / moscow phystech),ru,russia,m,fo,vh,4,a,20.0,446,20.0,455,96.0,57,16.0,620,31.0,480,53.0,273,5.0,701+,16.0,534,1.0,701+,27.0
+176,112,nagoya university,jp,japan,l,fc,vh,4,a,62.0,114,65.0,123,88.0,96,33.0,412,15.0,661,19.0,558,18.0,565,17.0,509,24.0,502,49.0
+141,133,nanjing university,cn,china (mainland),xl,fc,vh,5,a,60.0,123,25.0,378,31.0,504,97.0,42,55.0,334,7.0,701+,26.0,488,24.0,356,39.0,367,52.0
+384,378,nankai university,cn,china (mainland),xl,fc,vh,4,a,21.0,414,9.0,601+,30.0,526,74.0,132,11.0,701+,4.0,701+,8.0,701+,19.0,440,23.0,521,29.0
+26,19,"nanyang technological university, singapore (ntu)",sg,singapore,l,fc,vh,3,a,91.0,42,67.0,115,78.0,149,94.0,56,100.0,35,80.0,161,66.0,212,68.0,79,78.0,160,85.0
+1401+,,nara institute of science and technology,jp,japan,,fo,,3,,6.0,601+,2.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
+228,224,national cheng kung university (ncku),tw,taiwan,l,fc,vh,4,a,49.0,164,76.0,82,33.0,482,21.0,544,24.0,557,16.0,605,11.0,653,30.0,257,78.0,160,42.0
+461,308,national research nuclear university mephi (moscow engineering physics institute),ru,russia,s,fo,vh,2,a,10.0,601+,10.0,601+,99.0,36,11.0,701+,54.0,341,91.0,115,2.0,701+,18.0,466,1.0,701+,25.0
+586,398,national research tomsk polytechnic university,ru,russia,m,fo,vh,5,a,10.0,601+,8.0,601+,94.0,66,4.0,701+,8.0,701+,77.0,177,21.0,535,8.0,701+,8.0,701+,20.0
+505,428,national sun yat-sen university,tw,taiwan,m,co,vh,3,a,27.0,330,24.0,395,30.0,527,25.0,483,24.0,552,10.0,701+,3.0,701+,12.0,701+,21.0,536,23.0
+431,436,national taipei university of technology,tw,taiwan,m,fo,vh,3,a,15.0,584,58.0,144,27.0,560,34.0,398,21.0,582,18.0,571,1.0,701+,17.0,485,13.0,638,26.0
+431,332,national taiwan normal university,tw,taiwan,m,co,vh,4,a,35.0,248,21.0,448,65.0,209,6.0,701+,15.0,674,27.0,452,2.0,701+,15.0,571,43.0,344,26.0
+69,77,national taiwan university (ntu),tw,taiwan,xl,fc,vh,4,a,93.0,39,91.0,46,31.0,508,47.0,288,18.0,619,20.0,547,33.0,431,100.0,12,96.0,49,68.0
+387,327,national taiwan university of science and technology (taiwan tech),tw,taiwan,m,fo,vh,3,a,27.0,321,38.0,256,44.0,360,27.0,463,18.0,622,31.0,410,2.0,701+,19.0,451,27.0,481,28.0
+347,422,national technical university of athens,gr,greece,l,fo,vh,5,a,21.0,425,43.0,215,5.0,701+,72.0,137,1.0,701+,4.0,701+,32.0,447,32.0,240,8.0,701+,31.0
+233,177,national tsing hua university,tw,taiwan,l,co,vh,4,a,53.0,147,68.0,111,28.0,542,38.0,363,17.0,635,20.0,546,7.0,701+,16.0,525,31.0,444,41.0
+367,334,national university of sciences and technology (nust) islamabad,pk,pakistan,m,co,vh,3,a,19.0,472,73.0,93,77.0,151,12.0,701+,3.0,701+,4.0,701+,24.0,512,9.0,701+,31.0,438,30.0
+8,11,national university of singapore (nus),sg,singapore,xl,fc,vh,3,a,99.0,15,89.0,54,77.0,157,93.0,64,100.0,33,82.0,154,76.0,165,100.0,7,88.0,106,93.0
+217,202,national yang ming chiao tung university,tw,taiwan,l,fc,vh,1,a,33.0,262,68.0,110,54.0,286,52.0,247,19.0,601,19.0,566,4.0,701+,45.0,160,54.0,283,43.0
+38,39,new york university (nyu),us,united states,xl,fc,vh,5,b,96.0,32,99.0,15,96.0,60,27.0,465,26.0,518,95.0,87,85.0,114,100.0,13,98.0,20,80.0
+110,122,newcastle university,uk,united kingdom,l,fc,vh,4,a,48.0,170,75.0,87,36.0,445,50.0,264,90.0,182,71.0,203,96.0,39,24.0,349,99.0,17,59.0
+274,312,north carolina state university,us,united states,xl,co,vh,5,a,28.0,315,25.0,384,9.0,701+,67.0,162,63.0,306,15.0,613,50.0,317,21.0,398,65.0,228,37.0
+375,388,northeastern university,us,united states,l,co,vh,5,b,19.0,463,10.0,601+,19.0,691,24.0,497,60.0,316,94.0,90,33.0,433,35.0,211,87.0,112,30.0
+47,32,northwestern university,us,united states,l,fc,vh,5,b,84.0,60,60.0,132,99.0,39,70.0,147,48.0,364,44.0,327,79.0,152,98.0,19,78.0,162,76.0
+292,352,norwegian university of science and technology,no,norway,xl,fc,vh,5,a,34.0,253,19.0,465,24.0,609,28.0,456,76.0,246,10.0,701+,89.0,91,51.0,129,66.0,223,36.0
+421,260,novosibirsk state university,ru,russia,m,co,vh,4,a,28.0,317,14.0,572,94.0,69,13.0,685,7.0,701+,56.0,264,5.0,701+,13.0,667,7.0,701+,27.0
+80,68,osaka university,jp,japan,l,fc,vh,4,a,81.0,67,89.0,51,55.0,272,63.0,191,29.0,498,13.0,658,27.0,486,23.0,361,59.0,255,64.0
+413,438,oxford brookes university,uk,united kingdom,l,co,hi,3,a,29.0,301,30.0,329,14.0,701+,8.0,701+,69.0,282,70.0,209,27.0,481,18.0,454,34.0,409,27.0
+17,12,peking university,cn,china (mainland),xl,fc,vh,5,a,99.0,14,95.0,37,90.0,85,98.0,38,51.0,354,24.0,492,43.0,353,83.0,46,69.0,212,87.0
+83,93,pennsylvania state university,us,united states,xl,fc,vh,5,a,78.0,76,63.0,126,28.0,540,63.0,189,23.0,560,27.0,449,97.0,36,48.0,145,95.0,52,63.0
+534,382,peter the great st. petersburg polytechnic university,ru,russia,l,fo,vh,5,a,17.0,529,9.0,601+,78.0,148,3.0,701+,15.0,669,88.0,131,22.0,528,4.0,701+,18.0,564,22.0
+100,71,pohang university of science and technology (postech),kr,south korea,s,fo,vh,3,b,52.0,153,76.0,79,100.0,21,98.0,29,34.0,464,3.0,701+,1.0,701+,13.0,637,17.0,581,60.0
+123,139,politecnico di milano,it,italy,xl,fo,vh,5,a,69.0,94,71.0,99,5.0,701+,48.0,282,64.0,302,57.0,262,75.0,173,37.0,201,29.0,453,55.0
+252,325,politecnico di torino,it,italy,xl,fo,vh,5,a,39.0,225,45.0,194,2.0,701+,58.0,222,4.0,701+,47.0,313,50.0,313,21.0,391,57.0,263,39.0
+514,323,pontificia universidad católica argentina,ar,argentina,l,fc,md,4,b,20.0,431,32.0,303,100.0,22,1.0,701+,2.0,701+,9.0,701+,1.0,701+,20.0,420,1.0,701+,23.0
+103,121,pontificia universidad católica de chile (uc),cl,chile,l,fc,vh,5,b,93.0,38,100.0,11,21.0,654,12.0,701+,16.0,645,4.0,701+,57.0,270,76.0,56,91.0,84,60.0
+336,363,pontificia universidad católica del perú,pe,peru,l,fo,vh,5,b,46.0,177,77.0,75,26.0,572,2.0,701+,4.0,701+,1.0,701+,3.0,701+,35.0,214,31.0,428,32.0
+347,382,pontificia universidad javeriana,co,colombia,l,fc,hi,5,b,43.0,198,73.0,94,23.0,619,2.0,701+,4.0,701+,3.0,701+,4.0,701+,57.0,107,29.0,456,31.0
+1401+,1401+,pontificia universidade católica do minas gerais - puc minas,br,brazil,xl,fo,hi,4,c,5.0,601+,4.0,601+,2.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,6.0,701+,1.0,701+,0.0
+17,16,princeton university,us,united states,m,co,vh,5,b,100.0,10,98.0,23,65.0,216,100.0,2,17.0,640,58.0,261,53.0,298,95.0,27,79.0,155,87.0
+99,129,purdue university,us,united states,xl,fc,vh,5,a,64.0,108,81.0,71,10.0,701+,68.0,155,42.0,398,46.0,317,75.0,170,53.0,117,67.0,215,61.0
+173,208,qatar university,qa,qatar,m,fc,vh,3,a,27.0,320,44.0,206,65.0,213,39.0,356,100.0,20,97.0,74,60.0,244,96.0,24,36.0,397,49.0
+315,363,quaid-i-azam university,pk,pakistan,m,co,vh,4,a,16.0,552,40.0,234,3.0,701+,97.0,40,3.0,701+,1.0,701+,23.0,519,6.0,701+,23.0,514,33.0
+145,125,queen mary university of london,uk,united kingdom,l,fc,vh,5,a,49.0,168,33.0,300,39.0,409,51.0,260,100.0,85,99.0,43,73.0,184,17.0,506,70.0,207,52.0
+209,246,queen's university at kingston,ca,canada,l,fc,vh,5,a,41.0,209,57.0,146,5.0,701+,45.0,300,70.0,278,31.0,417,23.0,523,72.0,68,85.0,117,45.0
+202,233,queen's university belfast,uk,united kingdom,l,fc,vh,5,a,34.0,258,30.0,321,28.0,554,44.0,307,100.0,75,99.0,54,84.0,124,14.0,589,91.0,87,46.0
+189,222,queensland university of technology (qut),au,australia,xl,co,vh,3,a,41.0,205,38.0,261,7.0,701+,65.0,176,96.0,141,26.0,458,69.0,202,17.0,502,91.0,89,47.0
+222,232,radboud university,nl,netherlands,l,fc,vh,5,a,29.0,302,14.0,585,28.0,551,75.0,129,78.0,236,20.0,544,79.0,155,16.0,533,83.0,133,43.0
+1401+,,rajshahi university,bd,bangladesh,,co,,4,,9.0,601+,10.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+494,461,rensselaer polytechnic institute,us,united states,m,co,vh,5,b,8.0,601+,7.0,601+,20.0,682,71.0,144,4.0,701+,44.0,326,2.0,701+,24.0,350,3.0,701+,23.0
+239,201,rheinische friedrich-wilhelms-universität bonn,de,germany,l,fc,vh,5,a,52.0,151,20.0,458,58.0,247,22.0,526,42.0,397,38.0,365,91.0,79,26.0,319,35.0,399,41.0
+145,100,rice university,us,united states,m,fc,vh,5,b,39.0,222,23.0,415,66.0,205,83.0,101,91.0,176,95.0,89,10.0,671,30.0,262,43.0,345,52.0
+140,190,rmit university,au,australia,xl,co,vh,3,a,39.0,223,50.0,173,5.0,701+,69.0,151,100.0,37,93.0,102,57.0,267,29.0,277,96.0,43,52.0
+413,402,royal holloway university of london,uk,united kingdom,m,co,vh,5,a,16.0,546,6.0,601+,14.0,701+,36.0,384,94.0,155,89.0,125,24.0,511,11.0,701+,38.0,377,27.0
+342,295,rudn university,ru,russia,l,fc,vh,4,a,22.0,395,45.0,192,92.0,74,2.0,701+,8.0,701+,93.0,103,60.0,242,12.0,701+,4.0,701+,32.0
+375,416,ruhr-universität bochum,de,germany,xl,fc,vh,4,a,21.0,411,11.0,601+,2.0,701+,60.0,208,61.0,314,30.0,425,62.0,231,15.0,570,18.0,567,30.0
+87,65,ruprecht-karls-universität heidelberg,de,germany,l,fo,vh,5,a,78.0,75,52.0,156,100.0,29,38.0,365,53.0,349,50.0,290,90.0,88,20.0,423,43.0,345,62.0
+299,267,rutgers university–new brunswick,us,united states,xl,co,vh,5,a,37.0,234,25.0,386,49.0,324,18.0,583,19.0,602,33.0,395,60.0,245,21.0,403,96.0,47,35.0
+106,147,rwth aachen university,de,germany,xl,fc,vh,5,a,50.0,163,93.0,44,6.0,701+,79.0,120,49.0,362,83.0,151,64.0,223,24.0,354,53.0,288,59.0
+315,270,saint petersburg state university,ru,russia,l,fc,vh,5,a,41.0,207,24.0,403,62.0,228,5.0,701+,5.0,701+,42.0,335,70.0,198,53.0,120,36.0,391,33.0
+1401+,1401+,sakarya university,tr,turkey,xl,fc,md,3,a,4.0,601+,3.0,601+,3.0,701+,3.0,701+,2.0,701+,13.0,669,1.0,701+,8.0,701+,1.0,701+,0.0
+134,171,sapienza university of rome,it,italy,xl,fc,vh,5,a,79.0,74,41.0,229,5.0,701+,45.0,301,3.0,701+,11.0,697,97.0,33,60.0,101,92.0,79,53.0
+481,405,satbayev university,kz,kazakhstan,m,fo,vh,4,a,23.0,370,36.0,272,84.0,111,1.0,701+,41.0,407,4.0,701+,1.0,701+,11.0,701+,1.0,701+,24.0
+319,259,sciences po,fr,france,l,sp,,5,a,18.0,502,28.0,353,88.0,94,3.0,701+,55.0,337,97.0,73,1.0,701+,76.0,55,55.0,279,33.0
+41,29,seoul national university,kr,south korea,l,fc,vh,4,a,99.0,18,98.0,17,85.0,105,65.0,175,12.0,701+,15.0,631,37.0,401,100.0,8,74.0,181,79.0
+1401+,,shahjalal university of science and technology,bd,bangladesh,,fo,,3,,7.0,601+,9.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+360,396,shandong university,cn,china (mainland),xl,fc,vh,4,a,16.0,558,32.0,310,18.0,701+,79.0,118,9.0,701+,3.0,701+,16.0,580,17.0,480,28.0,463,31.0
+51,46,shanghai jiao tong university,cn,china (mainland),xl,fc,vh,4,a,84.0,61,83.0,64,55.0,279,99.0,15,39.0,415,36.0,377,38.0,390,56.0,113,44.0,339,74.0
+514,422,shanghai university,cn,china (mainland),xl,co,vh,3,a,22.0,397,9.0,601+,53.0,291,25.0,476,44.0,383,6.0,701+,12.0,643,11.0,701+,16.0,598,23.0
+334,380,sharif university of technology,ir,"iran, islamic republic of",m,fo,vh,4,a,10.0,601+,44.0,207,6.0,701+,99.0,19,7.0,701+,1.0,701+,10.0,675,26.0,321,2.0,701+,32.0
+355,406,sichuan university,cn,china (mainland),xl,fc,vh,3,a,20.0,436,8.0,601+,11.0,701+,95.0,55,7.0,701+,5.0,701+,26.0,490,15.0,564,19.0,555,31.0
+318,328,simon fraser university,ca,canada,l,co,vh,4,a,26.0,343,14.0,600,6.0,701+,43.0,315,97.0,128,86.0,139,35.0,423,18.0,474,54.0,283,33.0
+429,,singapore university of technology and design,sg,singapore,s,sp,,2,,7.0,601+,6.0,601+,99.0,34,65.0,180,0.0,,0.0,,3.0,701+,8.0,701+,0.0,,26.0
+511,443,soas university of london,uk,united kingdom,m,sp,,5,a,18.0,494,10.0,601+,18.0,701+,15.0,629,100.0,51,99.0,51,1.0,701+,20.0,427,4.0,701+,23.0
+509,457,sogang university,kr,south korea,m,co,vh,4,b,22.0,401,49.0,178,56.0,269,6.0,701+,7.0,701+,24.0,483,1.0,701+,17.0,513,1.0,701+,23.0
+59,60,sorbonne university,fr,france,xl,fc,vh,1,a,89.0,48,53.0,151,43.0,361,85.0,93,35.0,451,50.0,297,100.0,4,40.0,182,76.0,171,72.0
+392,406,south china university of technology,cn,china (mainland),xl,co,vh,3,a,13.0,601+,4.0,601+,19.0,694,95.0,50,10.0,701+,5.0,701+,10.0,674,22.0,380,10.0,667,28.0
+454,461,southeast university,cn,china (mainland),xl,fc,vh,3,a,13.0,601+,7.0,601+,24.0,593,73.0,134,15.0,664,4.0,701+,21.0,536,9.0,701+,17.0,581,25.0
+301,226,southern university of science and technology,cn,china (mainland),m,fo,vh,2,a,9.0,601+,2.0,601+,95.0,64,95.0,53,37.0,434,2.0,701+,7.0,701+,7.0,701+,7.0,701+,35.0
+1401+,,stamford university bangladesh,bd,bangladesh,,fo,,2,,10.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,1.0,701+,0.0,,0.0,,0.0
+5,3,stanford university,us,united states,l,fc,vh,5,b,100.0,5,100.0,3,100.0,11,100.0,8,100.0,78,51.0,284,96.0,44,100.0,2,94.0,63,98.0
+1401+,,state university of malang,id,indonesia,l,fo,vh,4,a,5.0,601+,2.0,601+,8.0,701+,2.0,701+,10.0,701+,1.0,701+,1.0,701+,8.0,701+,1.0,701+,0.0
+283,454,stellenbosch university,za,south africa,l,fc,vh,5,a,25.0,351,39.0,240,3.0,701+,60.0,206,20.0,591,8.0,701+,92.0,69,50.0,132,44.0,339,37.0
+118,153,stockholm university,se,sweden,l,co,vh,4,a,54.0,145,15.0,543,28.0,543,72.0,138,82.0,223,84.0,147,95.0,51,76.0,57,75.0,175,57.0
+396,416,"stony brook university, state university of new york",us,united states,l,fc,vh,4,a,19.0,473,8.0,601+,30.0,517,32.0,424,45.0,376,51.0,285,34.0,424,19.0,449,89.0,97,28.0
+1401+,1401+,sudan university of science and technology,sd,sudan,xl,co,md,3,a,4.0,601+,3.0,601+,3.0,701+,1.0,701+,2.0,701+,2.0,701+,1.0,701+,9.0,701+,1.0,701+,0.0
+454,384,sultan qaboos university,om,oman,m,fc,vh,3,a,17.0,528,14.0,593,57.0,259,18.0,577,100.0,58,3.0,701+,48.0,325,17.0,478,8.0,701+,25.0
+323,267,sun yat-sen university,cn,china (mainland),xl,fc,vh,4,a,36.0,238,22.0,423,49.0,321,44.0,304,2.0,701+,4.0,701+,33.0,429,17.0,508,38.0,373,33.0
+145,99,sungkyunkwan university(skku),kr,south korea,l,fc,vh,5,b,64.0,106,72.0,98,82.0,129,38.0,369,18.0,618,34.0,387,10.0,672,27.0,304,28.0,471,52.0
+307,425,swansea university,uk,united kingdom,l,fc,hi,5,a,21.0,418,45.0,193,24.0,608,27.0,460,73.0,261,54.0,271,59.0,254,11.0,701+,61.0,248,34.0
+285,296,swinburne university of technology,au,australia,l,co,vh,3,a,13.0,601+,12.0,601+,11.0,701+,90.0,76,98.0,114,66.0,229,24.0,507,11.0,701+,26.0,487,36.0
+577,384,taipei medical university (tmu),tw,taiwan,m,sp,,2,b,10.0,601+,15.0,536,91.0,81,18.0,585,15.0,667,16.0,609,1.0,701+,10.0,701+,9.0,688,21.0
+436,415,tampere university,fi,finland,l,fc,vh,1,a,23.0,391,20.0,463,24.0,595,32.0,422,32.0,473,6.0,701+,56.0,275,21.0,406,37.0,387,26.0
+284,284,taylor's university,my,malaysia,s,fo,vh,2,c,24.0,358,83.0,67,63.0,225,9.0,701+,54.0,342,99.0,55,4.0,701+,11.0,701+,2.0,701+,36.0
+1401+,,technical university of crete,gr,greece,,sp,,,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,3.0,701+,0.0,,0.0,,0.0
+246,275,technical university of darmstadt,de,germany,l,fo,vh,5,a,21.0,417,38.0,263,6.0,701+,79.0,117,63.0,310,75.0,188,33.0,439,34.0,229,20.0,545,40.0
+121,104,technical university of denmark,dk,denmark,m,fo,vh,5,a,33.0,270,16.0,525,100.0,27,83.0,99,100.0,53,82.0,153,72.0,189,29.0,275,55.0,277,56.0
+37,49,technical university of munich,de,germany,xl,fo,vh,5,a,84.0,59,98.0,19,89.0,89,60.0,210,77.0,243,97.0,71,87.0,103,25.0,330,85.0,120,80.0
+392,408,technion - israel institute of technology,il,israel,l,fc,vh,5,a,25.0,345,28.0,347,44.0,358,25.0,479,65.0,296,5.0,701+,13.0,628,31.0,250,26.0,485,28.0
+1401+,,technische universität bergakademie freiberg,de,germany,,sp,,,,6.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,5.0,701+,0.0,,0.0,,0.0
+154,158,technische universität berlin (tu berlin),de,germany,l,co,vh,5,a,56.0,137,69.0,107,53.0,296,25.0,492,51.0,351,69.0,214,55.0,284,25.0,327,52.0,294,51.0
+246,200,technische universität dresden,de,germany,l,fc,vh,5,a,38.0,231,38.0,258,91.0,79,15.0,639,46.0,373,35.0,379,87.0,98,11.0,701+,31.0,438,40.0
+1401+,,technische universität hamburg-harburg,de,germany,,sp,,,,9.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,3.0,701+,0.0,,0.0,,0.0
+1401+,,technische universität kaiserslautern,de,germany,,co,,,,7.0,601+,3.0,601+,0.0,,0.0,,0.0,,0.0,,11.0,655,0.0,,0.0,,0.0
+184,179,technische universität wien,at,austria,m,fo,vh,5,a,33.0,266,44.0,201,13.0,701+,86.0,91,79.0,232,89.0,123,45.0,347,13.0,649,19.0,552,48.0
+184,170,tecnológico de monterrey,mx,mexico,xl,fc,hi,4,b,51.0,157,97.0,28,64.0,222,2.0,701+,33.0,469,12.0,681,14.0,618,88.0,41,66.0,223,48.0
+215,260,tel aviv university,il,israel,l,fc,vh,4,a,33.0,264,24.0,407,4.0,701+,100.0,11,40.0,410,5.0,701+,40.0,382,73.0,62,38.0,373,44.0
+134,164,texas a&m university,us,united states,xl,fc,vh,5,a,62.0,112,60.0,135,5.0,701+,68.0,152,23.0,564,13.0,656,88.0,93,30.0,259,61.0,246,53.0
+415,416,the american university in cairo,eg,egypt,m,co,hi,5,b,30.0,287,24.0,405,43.0,368,5.0,701+,98.0,115,4.0,701+,1.0,701+,63.0,92,16.0,588,27.0
+34,30,the australian national university,au,australia,l,fc,vh,4,a,93.0,37,70.0,102,35.0,455,93.0,65,100.0,38,93.0,97,79.0,156,44.0,164,87.0,108,82.0
+47,38,the chinese university of hong kong (cuhk),hk,hong kong sar,l,fc,vh,4,a,88.0,50,46.0,190,60.0,236,92.0,67,100.0,57,77.0,174,33.0,438,79.0,53,61.0,246,76.0
+251,222,the hebrew university of jerusalem,il,israel,l,fc,vh,5,a,34.0,252,29.0,334,81.0,135,23.0,521,55.0,338,16.0,600,37.0,400,78.0,54,51.0,301,39.0
+65,65,the hong kong polytechnic university,hk,hong kong sar,l,co,vh,3,a,68.0,97,30.0,323,68.0,192,89.0,77,100.0,40,87.0,133,42.0,362,49.0,138,93.0,73,69.0
+60,40,the hong kong university of science and technology,hk,hong kong sar,m,co,vh,3,a,83.0,63,43.0,216,54.0,289,99.0,20,100.0,19,91.0,111,5.0,701+,50.0,131,31.0,432,71.0
+45,56,the london school of economics and political science (lse),uk,united kingdom,m,sp,vh,5,a,68.0,98,96.0,32,40.0,401,80.0,110,100.0,35,100.0,10,32.0,440,99.0,16,98.0,28,77.0
+151,140,the ohio state university,us,united states,xl,fc,vh,5,a,59.0,125,56.0,148,54.0,287,31.0,429,50.0,359,17.0,590,85.0,116,35.0,216,78.0,158,51.0
+89,109,the university of adelaide,au,australia,l,fc,vh,5,a,54.0,144,37.0,267,16.0,701+,87.0,83,100.0,69,100.0,40,79.0,154,38.0,191,96.0,42,62.0
+285,262,the university of arizona,us,united states,xl,fc,vh,5,a,39.0,226,18.0,476,73.0,175,20.0,562,11.0,701+,9.0,701+,88.0,96,31.0,245,72.0,196,36.0
+68,87,the university of auckland,nz,new zealand,l,fc,vh,5,a,82.0,65,41.0,231,19.0,687,62.0,198,100.0,68,92.0,108,64.0,220,94.0,28,100.0,9,68.0
+22,15,the university of edinburgh,uk,united kingdom,xl,fc,vh,5,a,98.0,25,97.0,26,72.0,176,59.0,216,99.0,100,100.0,33,100.0,12,48.0,141,100.0,6,86.0
+153,163,the university of exeter,uk,united kingdom,l,fc,vh,4,a,43.0,199,51.0,161,27.0,555,43.0,308,92.0,174,76.0,180,90.0,85,20.0,424,95.0,57,51.0
+26,21,the university of hong kong,hk,hong kong sar,l,fc,vh,5,a,98.0,27,51.0,159,83.0,121,82.0,102,100.0,28,99.0,52,43.0,355,100.0,14,97.0,32,85.0
+32,28,the university of manchester,uk,united kingdom,xl,fc,vh,5,a,95.0,33,98.0,21,54.0,288,49.0,274,94.0,160,99.0,44,100.0,10,72.0,66,92.0,75,82.0
+14,33,the university of melbourne,au,australia,xl,fc,vh,5,a,98.0,21,92.0,45,15.0,701+,92.0,69,93.0,166,100.0,36,97.0,30,93.0,31,90.0,92,88.0
+19,45,the university of new south wales (unsw sydney),au,australia,xl,fc,vh,4,a,90.0,45,88.0,55,18.0,701+,96.0,47,100.0,55,99.0,50,99.0,15,96.0,25,100.0,10,87.0
+173,192,"the university of newcastle, australia (uon)",au,australia,m,fc,vh,4,a,29.0,296,27.0,361,37.0,436,91.0,71,100.0,73,17.0,584,49.0,319,13.0,696,93.0,70,49.0
+43,50,the university of queensland,au,australia,xl,fc,vh,5,a,87.0,52,74.0,89,22.0,635,87.0,84,100.0,41,100.0,22,95.0,53,44.0,163,73.0,187,78.0
+104,96,the university of sheffield,uk,united kingdom,l,fc,vh,5,a,59.0,130,52.0,153,55.0,278,47.0,289,84.0,218,98.0,69,96.0,38,25.0,332,76.0,169,60.0
+19,41,the university of sydney,au,australia,xl,fc,vh,5,a,96.0,31,88.0,57,12.0,701+,94.0,63,100.0,89,100.0,13,92.0,70,88.0,42,100.0,7,87.0
+28,23,the university of tokyo,jp,japan,l,fc,vh,5,a,100.0,7,100.0,9,90.0,84,70.0,148,10.0,701+,29.0,427,70.0,196,100.0,11,100.0,5,84.0
+67,64,the university of warwick,uk,united kingdom,l,fc,vh,4,a,71.0,86,88.0,56,37.0,420,49.0,275,98.0,109,99.0,47,90.0,87,47.0,148,63.0,239,69.0
+72,90,the university of western australia,au,australia,l,fc,vh,5,a,56.0,138,45.0,200,17.0,701+,99.0,23,100.0,29,100.0,34,90.0,83,66.0,82,70.0,204,67.0
+285,307,tianjin university,cn,china (mainland),l,co,vh,4,a,19.0,477,9.0,601+,35.0,461,98.0,31,24.0,544,27.0,446,19.0,555,24.0,351,26.0,488,36.0
+371,398,tilburg university,nl,netherlands,l,fo,vh,4,a,15.0,573,33.0,294,10.0,701+,44.0,302,97.0,131,58.0,259,9.0,683,14.0,602,31.0,432,30.0
+113,79,tohoku university,jp,japan,l,fc,vh,5,a,72.0,85,84.0,61,99.0,41,30.0,436,14.0,683,14.0,647,28.0,474,17.0,486,75.0,177,58.0
+91,55,tokyo institute of technology (tokyo tech),jp,japan,m,co,vh,4,a,74.0,79,95.0,39,84.0,109,53.0,244,32.0,475,32.0,404,9.0,701+,20.0,425,18.0,567,62.0
+418,264,tomsk state university,ru,russia,m,co,vh,5,a,23.0,376,11.0,601+,99.0,32,5.0,701+,24.0,555,92.0,109,23.0,514,7.0,701+,3.0,701+,27.0
+216,212,tongji university,cn,china (mainland),xl,fc,vh,5,a,34.0,251,13.0,601+,29.0,534,92.0,70,57.0,327,33.0,396,21.0,534,18.0,464,65.0,225,44.0
+446,,toyota technological institute in japan,jp,japan,s,fo,vh,3,c,5.0,601+,2.0,601+,38.0,419,96.0,45,8.0,701+,2.0,701+,1.0,701+,8.0,701+,0.0,,26.0
+81,98,"trinity college dublin, the university of dublin",ie,ireland,l,fc,vh,5,a,69.0,92,40.0,238,24.0,601,64.0,184,100.0,79,93.0,104,82.0,132,71.0,70,76.0,173,64.0
+25,14,tsinghua university,cn,china (mainland),xl,fc,vh,4,a,99.0,16,97.0,27,94.0,67,99.0,22,9.0,701+,16.0,603,48.0,328,82.0,47,56.0,271,85.0
+379,312,tufts university,us,united states,l,fc,vh,5,b,18.0,497,5.0,601+,56.0,263,43.0,312,25.0,532,36.0,374,19.0,552,48.0,143,51.0,301,29.0
+600,471,tulane university,us,united states,l,fc,hi,5,b,10.0,601+,5.0,601+,82.0,134,10.0,701+,17.0,631,15.0,630,46.0,339,23.0,367,21.0,531,20.0
+9,8,ucl,uk,united kingdom,xl,fc,vh,5,a,100.0,13,98.0,22,98.0,43,74.0,131,99.0,96,100.0,15,100.0,2,52.0,126,93.0,74,92.0
+300,284,ucsi university,my,malaysia,m,co,hi,2,c,23.0,392,58.0,140,73.0,174,3.0,701+,84.0,219,98.0,63,1.0,701+,16.0,528,25.0,495,35.0
+1401+,,udayana university,id,indonesia,l,fc,md,4,a,6.0,601+,4.0,601+,7.0,701+,1.0,701+,4.0,701+,10.0,701+,1.0,701+,5.0,701+,1.0,701+,0.0
+266,197,ulsan national institute of science and technology (unist),kr,south korea,s,fo,vh,2,a,15.0,579,12.0,601+,84.0,114,99.0,25,42.0,399,11.0,692,1.0,701+,8.0,701+,2.0,701+,38.0
+465,369,umea university,se,sweden,l,fc,vh,4,a,20.0,449,14.0,583,68.0,191,15.0,637,24.0,554,10.0,701+,45.0,349,13.0,681,48.0,318,25.0
+419,477,unesp,br,brazil,xl,fc,vh,3,a,39.0,219,35.0,282,15.0,701+,16.0,614,6.0,701+,3.0,701+,35.0,422,6.0,701+,54.0,287,27.0
+290,296,united arab emirates university,ae,united arab emirates,m,fc,vh,3,a,28.0,310,38.0,257,53.0,299,14.0,659,100.0,16,39.0,356,57.0,273,61.0,96,16.0,588,36.0
+520,432,universidad austral,ar,argentina,s,fo,vh,3,b,19.0,460,53.0,152,75.0,165,2.0,701+,2.0,701+,9.0,701+,1.0,701+,9.0,701+,1.0,701+,23.0
+199,215,universidad autónoma de madrid,es,spain,l,fc,vh,4,a,60.0,117,58.0,145,35.0,464,25.0,485,8.0,701+,12.0,678,80.0,143,20.0,428,89.0,97,46.0
+319,320,universidad carlos iii de madrid (uc3m),es,spain,l,fo,vh,3,a,33.0,265,49.0,177,53.0,290,5.0,701+,57.0,328,41.0,337,19.0,556,13.0,668,63.0,239,33.0
+1401+,1401+,"universidad católica boliviana """"san pablo""""",bo,bolivia,l,fo,md,4,b,5.0,601+,3.0,601+,4.0,701+,1.0,701+,3.0,701+,3.0,701+,1.0,701+,16.0,521,0.0,,0.0
+1401+,1401+,universidad católica de santiago de guayaquil,ec,ecuador,l,fo,md,4,b,4.0,601+,4.0,601+,3.0,701+,1.0,701+,7.0,701+,1.0,701+,1.0,701+,14.0,585,1.0,701+,0.0
+95,67,universidad de buenos aires (uba),ar,argentina,xl,fc,vh,5,a,93.0,36,98.0,20,74.0,170,2.0,701+,63.0,309,67.0,224,28.0,470,26.0,311,19.0,555,61.0
+159,167,universidad de chile,cl,chile,xl,fc,vh,5,a,82.0,66,97.0,30,10.0,701+,13.0,687,9.0,701+,5.0,701+,49.0,322,50.0,130,36.0,389,50.0
+198,220,universidad de los andes,co,colombia,l,fc,hi,4,b,65.0,103,96.0,35,18.0,701+,6.0,701+,26.0,517,2.0,701+,11.0,649,96.0,23,40.0,362,46.0
+530,390,universidad de palermo (up),ar,argentina,s,fo,md,3,b,9.0,601+,18.0,493,91.0,83,1.0,701+,40.0,411,97.0,79,1.0,701+,10.0,701+,1.0,701+,22.0
+410,465,universidad de santiago de chile (usach),cl,chile,l,fc,hi,5,a,43.0,197,73.0,92,9.0,701+,4.0,701+,7.0,701+,2.0,701+,7.0,701+,4.0,701+,13.0,635,27.0
+1401+,1401+,universidad de tarapaca,cl,chile,m,fo,vh,3,a,4.0,601+,2.0,601+,2.0,701+,8.0,701+,0.0,,0.0,,3.0,701+,4.0,701+,1.0,701+,0.0
+1401+,1401+,universidad mayor de san simón cochabamba,bo,bolivia,xl,co,lo,5,a,5.0,601+,3.0,601+,1.0,701+,1.0,701+,0.0,,1.0,701+,1.0,701+,17.0,491,1.0,701+,0.0
+1401+,1401+,universidad michoacana de san nicolás de hidalgo,mx,mexico,xl,fc,md,5,a,4.0,601+,2.0,601+,3.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,4.0,701+,1.0,701+,0.0
+1401+,1401+,universidad nacional autónoma de honduras (unah),hn,honduras,xl,fc,lo,5,a,4.0,601+,5.0,601+,3.0,701+,1.0,701+,2.0,701+,0.0,,1.0,701+,22.0,369,1.0,701+,0.0
+93,104,universidad nacional autónoma de méxico (unam),mx,mexico,xl,fc,vh,5,a,97.0,28,98.0,18,40.0,397,3.0,701+,8.0,701+,3.0,701+,85.0,120,68.0,78,89.0,101,61.0
+226,243,universidad nacional de colombia,co,colombia,xl,fc,hi,5,a,70.0,91,97.0,29,6.0,701+,4.0,701+,6.0,701+,2.0,701+,13.0,620,30.0,263,50.0,309,42.0
+1401+,,universidad politecnica salesiana,ec,ecuador,l,co,md,3,b,6.0,601+,3.0,601+,4.0,701+,2.0,701+,7.0,701+,2.0,701+,1.0,701+,6.0,701+,1.0,701+,0.0
+349,488,universidad politécnica de madrid (upm),es,spain,xl,sp,,4,a,31.0,280,49.0,176,15.0,701+,11.0,701+,3.0,701+,31.0,416,60.0,243,37.0,196,84.0,128,31.0
+1401+,1401+,universidad tecnológica de bolívar,co,colombia,m,fo,hi,4,b,3.0,601+,5.0,601+,3.0,701+,3.0,701+,8.0,701+,7.0,701+,1.0,701+,9.0,701+,1.0,701+,0.0
+85,115,universidade de são paulo,br,brazil,xl,fc,vh,4,a,92.0,41,83.0,66,19.0,688,30.0,434,6.0,701+,2.0,701+,91.0,76,90.0,36,96.0,44,63.0
+220,210,universidade estadual de campinas (unicamp),br,brazil,xl,fc,vh,4,a,70.0,90,50.0,169,13.0,701+,25.0,489,12.0,701+,3.0,701+,54.0,294,10.0,701+,75.0,177,43.0
+371,333,universidade federal do rio de janeiro,br,brazil,xl,fc,vh,5,a,60.0,119,17.0,509,15.0,701+,8.0,701+,8.0,701+,2.0,701+,52.0,302,37.0,203,23.0,514,30.0
+400,369,universidade nova de lisboa,pt,portugal,l,fc,vh,4,a,28.0,313,20.0,452,20.0,679,24.0,498,24.0,548,47.0,309,64.0,224,19.0,444,40.0,362,28.0
+237,248,universitas indonesia,id,indonesia,xl,fc,vh,4,a,51.0,161,73.0,91,50.0,309,2.0,701+,76.0,249,5.0,701+,2.0,701+,59.0,103,42.0,351,41.0
+1401+,,universitas kristen petra,id,indonesia,m,fo,hi,4,c,6.0,601+,4.0,601+,7.0,701+,2.0,701+,3.0,701+,1.0,701+,1.0,701+,8.0,701+,0.0,,0.0
+149,178,universitat autònoma de barcelona,es,spain,xl,fc,vh,4,a,63.0,109,39.0,246,11.0,701+,71.0,145,18.0,615,17.0,582,84.0,123,14.0,623,95.0,60,52.0
+164,184,universitat de barcelona,es,spain,xl,fc,vh,5,a,73.0,83,23.0,412,13.0,701+,42.0,325,22.0,574,29.0,437,98.0,23,40.0,180,98.0,23,50.0
+354,343,universitat politècnica de catalunya · barcelonatech (upc),es,spain,l,fo,vh,4,a,32.0,274,22.0,426,41.0,380,22.0,524,8.0,701+,21.0,532,73.0,183,15.0,556,73.0,186,31.0
+476,400,universitat politècnica de valència,es,spain,l,co,vh,4,a,26.0,338,12.0,601+,47.0,332,20.0,561,4.0,701+,24.0,489,57.0,271,8.0,701+,28.0,467,24.0
+310,233,universitat pompeu fabra (barcelona),es,spain,m,fo,vh,3,a,31.0,282,23.0,417,13.0,701+,56.0,232,78.0,238,27.0,455,38.0,389,15.0,551,13.0,633,34.0
+189,210,universite libre de bruxelles,be,belgium,l,fc,vh,5,a,34.0,249,39.0,247,3.0,701+,63.0,186,97.0,126,85.0,144,69.0,201,36.0,207,60.0,249,47.0
+387,256,universiti brunei darussalam (ubd),bn,brunei,s,co,vh,3,a,21.0,420,6.0,601+,96.0,54,8.0,701+,100.0,47,65.0,231,2.0,701+,27.0,296,4.0,701+,28.0
+159,129,universiti kebangsaan malaysia (ukm),my,malaysia,l,fc,vh,4,a,60.0,121,70.0,103,88.0,95,12.0,701+,53.0,347,61.0,242,57.0,272,11.0,701+,24.0,497,50.0
+65,70,universiti malaya (um),my,malaysia,l,fc,vh,4,a,81.0,68,96.0,34,72.0,178,33.0,416,53.0,346,59.0,254,79.0,148,28.0,286,93.0,68,69.0
+158,123,universiti putra malaysia (upm),my,malaysia,l,fc,vh,4,a,59.0,129,68.0,113,68.0,194,23.0,519,44.0,381,97.0,72,45.0,341,10.0,701+,23.0,511,50.0
+137,143,universiti sains malaysia (usm),my,malaysia,l,fc,vh,4,a,61.0,115,75.0,86,55.0,273,16.0,613,25.0,538,89.0,124,60.0,246,18.0,462,86.0,116,53.0
+525,340,universiti teknologi brunei,bn,brunei,s,fo,vh,3,a,14.0,601+,4.0,601+,90.0,86,9.0,701+,100.0,46,6.0,701+,1.0,701+,34.0,226,1.0,701+,22.0
+188,203,universiti teknologi malaysia,my,malaysia,l,co,vh,3,a,47.0,175,64.0,124,43.0,371,34.0,403,16.0,651,85.0,141,59.0,257,14.0,631,67.0,217,47.0
+307,361,universiti teknologi petronas (utp),my,malaysia,s,sp,,3,b,18.0,491,32.0,313,35.0,463,66.0,167,85.0,207,19.0,567,24.0,505,10.0,701+,3.0,701+,34.0
+538,481,universiti utara malaysia (uum),my,malaysia,l,sp,,3,a,21.0,423,28.0,345,40.0,389,7.0,701+,19.0,603,80.0,164,3.0,701+,10.0,701+,11.0,661,22.0
+491,425,university at buffalo suny,us,united states,l,fc,vh,5,a,18.0,499,8.0,601+,8.0,701+,37.0,378,43.0,389,33.0,390,23.0,516,25.0,340,51.0,305,24.0
+292,303,university college cork,ie,ireland,l,fc,vh,5,a,28.0,309,36.0,270,29.0,528,22.0,534,95.0,152,47.0,308,25.0,496,24.0,360,96.0,46,36.0
+171,181,university college dublin,ie,ireland,l,fc,vh,5,a,50.0,162,41.0,226,21.0,652,39.0,354,99.0,101,61.0,245,51.0,309,69.0,75,70.0,204,49.0
+208,220,university of aberdeen,uk,united kingdom,l,fc,vh,5,a,30.0,292,33.0,302,30.0,525,42.0,322,96.0,144,97.0,77,73.0,180,21.0,408,98.0,21,45.0
+111,110,university of alberta,ca,canada,xl,fc,vh,5,a,57.0,135,37.0,266,43.0,370,59.0,213,98.0,116,73.0,193,92.0,68,46.0,152,76.0,170,58.0
+53,58,university of amsterdam,nl,netherlands,xl,fc,vh,5,a,84.0,62,44.0,203,21.0,641,98.0,33,92.0,168,80.0,163,97.0,28,50.0,133,65.0,226,73.0
+248,280,university of antwerp,be,belgium,l,fc,vh,2,a,24.0,362,12.0,601+,45.0,349,49.0,272,91.0,177,32.0,397,90.0,81,30.0,268,80.0,146,40.0
+124,136,university of basel,ch,switzerland,m,fc,vh,5,a,28.0,314,18.0,494,57.0,253,97.0,44,100.0,34,85.0,143,74.0,175,41.0,179,70.0,201,55.0
+148,179,university of bath,uk,united kingdom,l,co,vh,4,a,36.0,244,74.0,88,16.0,701+,62.0,196,96.0,136,82.0,155,59.0,251,27.0,310,48.0,316,52.0
+281,207,university of bergen,no,norway,l,fc,vh,3,a,33.0,269,5.0,601+,67.0,197,31.0,426,92.0,171,14.0,635,69.0,200,24.0,358,58.0,259,37.0
+126,120,university of bern,ch,switzerland,m,fo,vh,5,a,31.0,284,24.0,396,55.0,280,99.0,17,100.0,42,37.0,369,89.0,89,26.0,313,74.0,182,55.0
+84,91,university of birmingham,uk,united kingdom,xl,fc,vh,5,a,68.0,99,76.0,81,41.0,379,38.0,364,92.0,169,84.0,148,96.0,41,30.0,270,80.0,146,63.0
+55,61,university of bristol,uk,united kingdom,l,fc,vh,5,a,75.0,78,85.0,60,47.0,331,65.0,179,86.0,205,87.0,136,84.0,122,40.0,181,81.0,141,72.0
+34,47,university of british columbia,ca,canada,xl,fc,vh,5,a,98.0,24,94.0,43,44.0,354,57.0,227,96.0,134,74.0,189,96.0,37,60.0,99,100.0,3,82.0
+182,242,university of calgary,ca,canada,xl,fc,vh,4,a,38.0,229,61.0,129,20.0,668,42.0,330,83.0,222,62.0,241,62.0,232,39.0,188,92.0,82,48.0
+10,27,"university of california, berkeley (ucb)",us,united states,xl,fc,vh,5,a,100.0,6,100.0,6,21.0,656,100.0,7,92.0,172,64.0,235,92.0,66,99.0,15,100.0,1,90.0
+132,102,"university of california, davis",us,united states,xl,fc,vh,5,a,64.0,107,45.0,199,30.0,518,41.0,338,70.0,276,49.0,301,78.0,159,19.0,439,99.0,16,53.0
+268,235,"university of california, irvine",us,united states,xl,fc,vh,4,a,38.0,230,17.0,517,15.0,701+,50.0,263,57.0,325,50.0,299,65.0,214,11.0,701+,59.0,255,38.0
+29,44,"university of california, los angeles (ucla)",us,united states,xl,fc,vh,5,a,100.0,8,100.0,8,37.0,435,85.0,96,43.0,386,25.0,477,90.0,86,97.0,20,91.0,86,84.0
+404,453,"university of california, riverside",us,united states,l,fc,vh,4,a,18.0,505,7.0,601+,7.0,701+,60.0,207,63.0,307,9.0,701+,45.0,346,10.0,701+,47.0,327,28.0
+62,53,"university of california, san diego (ucsd)",us,united states,xl,fc,vh,4,a,89.0,47,50.0,167,50.0,313,74.0,130,68.0,285,51.0,282,95.0,55,18.0,471,73.0,189,70.0
+163,149,"university of california, santa barbara (ucsb)",us,united states,l,co,vh,5,a,55.0,142,19.0,470,10.0,701+,97.0,41,70.0,274,22.0,522,44.0,352,10.0,701+,56.0,271,50.0
+332,375,"university of california, santa cruz",us,united states,l,co,vh,4,a,18.0,487,5.0,601+,7.0,701+,80.0,111,64.0,304,9.0,701+,19.0,547,11.0,701+,89.0,95,33.0
+2,2,university of cambridge,uk,united kingdom,l,fc,vh,5,a,100.0,3,100.0,4,100.0,14,92.0,68,100.0,64,96.0,85,100.0,7,100.0,6,97.0,33,99.0
+256,284,university of canterbury | te whare wānanga o waitaha,nz,new zealand,l,co,vh,4,a,34.0,257,33.0,299,11.0,701+,33.0,414,100.0,81,35.0,378,22.0,529,63.0,93,97.0,36,39.0
+173,237,university of cape town,za,south africa,l,fc,vh,5,a,44.0,190,51.0,164,13.0,701+,46.0,295,60.0,317,21.0,527,95.0,49,89.0,38,75.0,175,49.0
+556,358,"university of chemistry and technology, prague",cz,czech republic,s,fo,vh,4,a,6.0,601+,8.0,601+,99.0,35,13.0,680,28.0,502,72.0,201,3.0,701+,10.0,701+,1.0,701+,21.0
+11,10,university of chicago,us,united states,l,fc,vh,5,b,99.0,17,95.0,38,93.0,72,79.0,122,81.0,225,84.0,145,61.0,236,98.0,17,82.0,137,90.0
+351,438,university of coimbra,pt,portugal,l,fc,vh,5,a,29.0,304,13.0,601+,11.0,701+,42.0,329,11.0,701+,38.0,364,79.0,153,16.0,537,80.0,154,31.0
+268,335,university of cologne,de,germany,l,fo,vh,5,a,37.0,235,39.0,253,19.0,686,31.0,427,41.0,406,31.0,413,81.0,141,37.0,199,57.0,263,38.0
+264,317,university of colorado boulder,us,united states,xl,co,vh,5,a,37.0,237,14.0,596,33.0,480,49.0,269,27.0,508,6.0,701+,69.0,204,31.0,247,96.0,40,38.0
+444,350,university of connecticut,us,united states,l,fc,vh,5,a,15.0,576,7.0,601+,15.0,701+,42.0,327,47.0,368,19.0,560,61.0,237,22.0,383,62.0,243,26.0
+107,82,university of copenhagen,dk,denmark,xl,fc,vh,5,a,74.0,80,26.0,371,100.0,19,21.0,543,91.0,175,23.0,506,98.0,19,60.0,98,87.0,108,59.0
+1401+,1401+,university of craiova,ro,romania,l,co,hi,4,a,4.0,601+,2.0,601+,3.0,701+,2.0,701+,0.0,,0.0,,1.0,701+,8.0,701+,1.0,701+,0.0
+368,473,university of cyprus (ucy),cy,cyprus,m,co,vh,3,a,9.0,601+,3.0,601+,5.0,701+,78.0,123,93.0,165,25.0,471,56.0,279,19.0,448,24.0,497,30.0
+441,354,university of dundee,uk,united kingdom,l,fc,hi,4,a,18.0,488,14.0,595,38.0,418,14.0,654,96.0,142,80.0,162,27.0,475,11.0,701+,22.0,524,26.0
+295,342,university of east anglia (uea),uk,united kingdom,l,fc,vh,4,a,19.0,466,9.0,601+,17.0,701+,66.0,164,68.0,287,38.0,360,65.0,218,13.0,678,84.0,123,35.0
+358,460,university of florence,it,italy,xl,fc,vh,5,a,34.0,259,6.0,601+,4.0,701+,50.0,266,8.0,701+,11.0,701+,73.0,181,17.0,476,81.0,142,31.0
+168,188,university of florida,us,united states,xl,fc,vh,5,a,48.0,171,59.0,137,71.0,180,27.0,467,19.0,604,11.0,699,98.0,24,39.0,184,96.0,48,49.0
+289,270,university of galway,ie,ireland,l,fc,hi,5,a,26.0,335,28.0,341,61.0,230,14.0,666,92.0,170,39.0,348,46.0,338,31.0,249,91.0,89,36.0
+128,125,university of geneva,ch,switzerland,l,fc,vh,5,a,45.0,184,14.0,579,42.0,374,75.0,127,100.0,45,96.0,81,87.0,99,31.0,246,63.0,232,54.0
+76,81,university of glasgow,uk,united kingdom,xl,fc,vh,5,a,76.0,77,71.0,101,42.0,377,32.0,423,96.0,143,100.0,41,90.0,80,27.0,306,100.0,11,65.0
+187,185,university of gothenburg,se,sweden,l,fc,vh,4,a,36.0,239,17.0,511,56.0,261,39.0,349,91.0,179,81.0,160,86.0,104,46.0,151,98.0,30,47.0
+403,494,university of granada,es,spain,xl,fc,vh,5,a,44.0,192,10.0,601+,6.0,701+,23.0,509,3.0,701+,16.0,598,97.0,34,5.0,701+,36.0,391,28.0
+139,145,university of groningen,nl,netherlands,xl,fc,vh,5,a,53.0,148,30.0,326,51.0,304,43.0,311,94.0,159,86.0,140,92.0,67,22.0,372,68.0,214,53.0
+232,215,university of göttingen,de,germany,l,fc,vh,5,a,47.0,172,29.0,338,70.0,183,18.0,587,50.0,361,23.0,505,92.0,71,22.0,379,56.0,274,41.0
+386,380,university of hawaiʻi at mānoa,us,united states,l,fc,vh,5,a,16.0,543,9.0,601+,37.0,429,49.0,279,53.0,345,13.0,664,54.0,293,11.0,701+,48.0,320,28.0
+115,106,university of helsinki,fi,finland,l,co,vh,5,a,65.0,105,32.0,304,63.0,223,50.0,265,72.0,268,5.0,701+,96.0,40,66.0,86,83.0,133,57.0
+1401+,,university of ibadan,ng,nigeria,,co,,4,,9.0,601+,7.0,601+,0.0,,0.0,,0.0,,0.0,,8.0,701+,0.0,,0.0,,0.0
+323,317,university of illinois at chicago (uic),us,united states,xl,fc,vh,5,a,41.0,206,24.0,408,32.0,497,26.0,469,9.0,701+,17.0,586,50.0,312,32.0,242,63.0,235,33.0
+64,85,university of illinois at urbana-champaign,us,united states,xl,fc,vh,5,a,85.0,54,71.0,100,8.0,701+,87.0,86,11.0,701+,49.0,303,76.0,164,66.0,84,84.0,128,69.0
+491,467,university of iowa,us,united states,l,fc,vh,5,a,20.0,444,11.0,601+,48.0,325,21.0,548,22.0,569,5.0,701+,51.0,304,22.0,374,38.0,373,24.0
+306,412,university of johannesburg,za,south africa,l,co,vh,2,a,16.0,540,21.0,434,37.0,430,21.0,549,96.0,135,51.0,286,97.0,32,44.0,165,74.0,182,34.0
+446,347,university of jyväskylä,fi,finland,m,fo,vh,4,a,17.0,518,13.0,601+,86.0,100,15.0,626,41.0,404,3.0,701+,55.0,287,11.0,701+,30.0,447,26.0
+410,369,university of kansas,us,united states,l,fc,vh,5,a,15.0,577,13.0,601+,84.0,116,9.0,701+,73.0,263,8.0,701+,36.0,414,24.0,359,72.0,194,27.0
+336,375,university of kent,uk,united kingdom,l,co,vh,4,a,17.0,522,7.0,601+,13.0,701+,44.0,306,97.0,133,73.0,195,43.0,354,20.0,413,85.0,118,32.0
+580,486,university of klagenfurt,at,austria,s,fo,vh,4,a,6.0,601+,4.0,601+,60.0,235,11.0,701+,95.0,148,87.0,137,3.0,701+,12.0,701+,2.0,701+,20.0
+1401+,,university of lagos,ng,nigeria,,co,,,,7.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
+1401+,,university of lampung,id,indonesia,l,fc,md,4,,3.0,601+,2.0,601+,5.0,701+,1.0,701+,1.0,701+,1.0,701+,1.0,701+,6.0,701+,0.0,,0.0
+220,203,university of lausanne,ch,switzerland,l,fo,vh,5,a,29.0,294,15.0,545,37.0,434,65.0,173,100.0,77,57.0,263,48.0,327,28.0,290,62.0,245,43.0
+75,86,university of leeds,uk,united kingdom,xl,fc,vh,5,a,70.0,89,77.0,77,37.0,421,42.0,320,85.0,208,90.0,118,99.0,16,38.0,193,91.0,88,66.0
+272,279,university of leicester,uk,united kingdom,l,fc,vh,5,a,21.0,412,14.0,576,36.0,441,45.0,298,81.0,226,94.0,91,76.0,167,18.0,468,51.0,301,37.0
+266,335,university of lisbon,pt,portugal,xl,fc,vh,5,a,42.0,201,21.0,442,13.0,701+,35.0,387,9.0,701+,31.0,415,97.0,27,66.0,85,67.0,220,38.0
+176,190,university of liverpool,uk,united kingdom,l,fc,vh,5,a,44.0,191,35.0,277,40.0,401,38.0,371,88.0,194,79.0,168,97.0,29,26.0,324,72.0,193,49.0
+381,,university of luxembourg,lu,luxembourg,m,co,vh,2,,9.0,601+,5.0,601+,77.0,152,29.0,447,100.0,14,100.0,24,18.0,557,26.0,323,0.0,,29.0
+254,304,university of macau,mo,macau sar,m,fo,vh,3,a,11.0,601+,14.0,575,12.0,701+,97.0,43,100.0,18,99.0,49,11.0,646,42.0,177,4.0,701+,39.0
+169,164,"university of maryland, college park",us,united states,xl,fc,vh,5,a,49.0,165,26.0,369,35.0,451,68.0,154,32.0,477,14.0,639,86.0,113,42.0,176,82.0,137,49.0
+245,253,university of massachusetts amherst,us,united states,l,co,vh,5,a,40.0,218,12.0,601+,11.0,701+,58.0,225,71.0,271,24.0,490,52.0,301,28.0,292,94.0,67,40.0
+1401+,,university of mataram,id,indonesia,l,fo,md,4,a,5.0,601+,2.0,601+,4.0,701+,1.0,701+,1.0,701+,1.0,701+,1.0,701+,5.0,701+,0.0,,0.0
+278,296,university of miami,us,united states,l,fc,vh,4,b,20.0,435,45.0,198,77.0,155,19.0,565,84.0,215,23.0,502,55.0,283,37.0,198,51.0,305,37.0
+33,25,university of michigan-ann arbor,us,united states,xl,fc,vh,5,a,98.0,22,90.0,48,82.0,127,56.0,231,67.0,292,28.0,445,95.0,48,94.0,29,84.0,126,82.0
+276,324,university of milan,it,italy,xl,fc,vh,4,a,51.0,159,13.0,601+,6.0,701+,48.0,284,8.0,701+,7.0,701+,59.0,255,24.0,345,92.0,77,37.0
+195,185,university of minnesota twin cities,us,united states,xl,fc,vh,5,a,59.0,127,30.0,324,31.0,510,46.0,291,6.0,701+,9.0,701+,86.0,109,42.0,172,89.0,101,46.0
+335,416,university of naples - federico ii,it,italy,xl,fc,vh,5,a,35.0,245,17.0,508,4.0,701+,62.0,197,2.0,701+,1.0,701+,82.0,137,7.0,701+,35.0,403,32.0
+280,253,university of navarra,es,spain,l,fc,hi,4,b,29.0,300,61.0,130,57.0,260,15.0,635,25.0,531,75.0,186,29.0,464,28.0,282,46.0,333,37.0
+132,102,"university of north carolina, chapel hill",us,united states,xl,fc,vh,5,a,63.0,110,34.0,290,73.0,171,43.0,316,25.0,541,10.0,701+,82.0,133,48.0,142,97.0,38,53.0
+304,243,university of notre dame,us,united states,l,co,vh,5,b,27.0,331,32.0,306,60.0,238,39.0,350,23.0,561,18.0,578,32.0,449,45.0,155,35.0,403,34.0
+100,114,university of nottingham,uk,united kingdom,xl,fc,vh,5,a,61.0,116,72.0,96,32.0,492,47.0,290,90.0,183,75.0,185,98.0,18,24.0,342,80.0,150,60.0
+1401+,1401+,university of oradea,ro,romania,l,fc,md,4,a,5.0,601+,2.0,601+,4.0,701+,2.0,701+,2.0,701+,7.0,701+,2.0,701+,6.0,701+,2.0,701+,0.0
+117,101,university of oslo,no,norway,l,fc,vh,5,a,56.0,139,11.0,601+,82.0,132,64.0,183,86.0,202,25.0,472,96.0,43,42.0,173,92.0,80,57.0
+206,217,university of otago,nz,new zealand,l,fc,vh,5,a,46.0,178,27.0,359,11.0,701+,51.0,256,100.0,44,29.0,428,38.0,391,45.0,159,98.0,22,45.0
+203,237,university of ottawa,ca,canada,xl,fc,vh,5,a,27.0,329,30.0,328,4.0,701+,79.0,116,86.0,203,76.0,182,86.0,111,24.0,344,55.0,279,45.0
+313,392,university of oulu,fi,finland,m,fc,vh,4,a,16.0,553,17.0,502,26.0,564,57.0,228,53.0,348,9.0,701+,75.0,168,17.0,511,88.0,103,34.0
+3,4,university of oxford,uk,united kingdom,l,fc,vh,5,a,100.0,2,100.0,5,100.0,8,91.0,73,98.0,110,98.0,60,100.0,1,100.0,3,98.0,26,99.0
+12,13,university of pennsylvania,us,united states,l,fc,vh,5,b,96.0,29,89.0,52,100.0,24,68.0,153,96.0,140,70.0,208,83.0,129,100.0,5,100.0,3,89.0
+349,404,university of pisa,it,italy,l,fc,vh,5,a,40.0,211,13.0,601+,8.0,701+,41.0,333,6.0,701+,4.0,701+,68.0,209,13.0,642,74.0,182,31.0
+222,181,university of pittsburgh,us,united states,l,fc,vh,5,a,38.0,228,15.0,541,96.0,56,39.0,357,7.0,701+,15.0,621,81.0,140,33.0,232,91.0,91,43.0
+253,274,university of porto,pt,portugal,xl,fc,vh,5,a,40.0,214,23.0,414,11.0,701+,58.0,219,7.0,701+,19.0,564,94.0,60,18.0,473,77.0,167,39.0
+169,229,university of reading,uk,united kingdom,l,co,vh,5,a,33.0,263,39.0,241,16.0,701+,67.0,161,88.0,189,81.0,158,78.0,158,32.0,237,73.0,189,49.0
+224,147,university of rochester,us,united states,m,fc,vh,5,b,22.0,398,18.0,477,98.0,48,52.0,252,71.0,269,92.0,106,31.0,451,27.0,308,33.0,416,42.0
+489,499,"university of rome """"tor vergata""""",it,italy,l,co,vh,3,a,32.0,277,13.0,601+,8.0,701+,38.0,367,7.0,701+,16.0,596,33.0,435,8.0,701+,15.0,608,24.0
+345,473,university of saskatchewan,ca,canada,l,fc,vh,5,a,12.0,601+,7.0,601+,17.0,701+,54.0,237,70.0,279,52.0,280,47.0,331,21.0,396,95.0,56,32.0
+436,428,university of science and technology beijing,cn,china (mainland),l,co,vh,3,a,13.0,601+,3.0,601+,11.0,701+,97.0,39,3.0,701+,3.0,701+,9.0,691,6.0,701+,3.0,701+,26.0
+137,94,university of science and technology of china,cn,china (mainland),l,co,vh,4,a,53.0,149,18.0,500,91.0,80,99.0,26,17.0,639,5.0,701+,32.0,444,25.0,335,22.0,528,53.0
+326,363,university of south australia,au,australia,l,co,vh,3,a,23.0,390,14.0,580,22.0,625,33.0,415,100.0,80,45.0,322,59.0,256,15.0,544,82.0,137,33.0
+81,78,university of southampton,uk,united kingdom,l,fc,vh,5,a,52.0,154,51.0,160,53.0,298,71.0,140,96.0,138,97.0,70,97.0,31,33.0,235,83.0,133,64.0
+116,134,university of southern california,us,united states,xl,fc,vh,5,b,53.0,150,48.0,183,22.0,634,68.0,157,32.0,474,74.0,191,63.0,228,93.0,32,99.0,15,57.0
+326,347,university of southern denmark (sdu),dk,denmark,l,co,vh,4,a,20.0,441,18.0,485,27.0,558,41.0,337,83.0,220,23.0,503,50.0,315,18.0,469,89.0,100,33.0
+95,96,university of st andrews,uk,united kingdom,m,fo,vh,5,a,47.0,173,67.0,114,65.0,212,58.0,223,99.0,103,100.0,29,51.0,306,22.0,370,92.0,77,61.0
+1401+,,university of stavanger,no,norway,,co,,2,,7.0,601+,6.0,601+,0.0,,0.0,,0.0,,0.0,,26.0,489,0.0,,0.0,,0.0
+276,325,university of strathclyde,uk,united kingdom,l,co,vh,4,a,26.0,334,35.0,281,18.0,701+,34.0,405,93.0,161,67.0,222,62.0,235,24.0,353,59.0,252,37.0
+244,305,university of surrey,uk,united kingdom,l,co,vh,4,a,20.0,428,23.0,409,23.0,613,56.0,230,97.0,129,88.0,127,71.0,192,17.0,503,58.0,259,40.0
+218,240,university of sussex,uk,united kingdom,l,fc,vh,4,a,23.0,380,9.0,601+,15.0,701+,71.0,142,96.0,137,93.0,100,63.0,226,31.0,251,97.0,35,43.0
+358,296,university of tartu,ee,estonia,m,fc,vh,5,a,24.0,355,9.0,601+,92.0,78,12.0,701+,47.0,372,22.0,513,74.0,177,42.0,171,28.0,471,31.0
+307,293,university of tasmania,au,australia,m,co,vh,5,a,17.0,520,8.0,601+,18.0,701+,58.0,220,75.0,254,96.0,84,49.0,320,15.0,562,47.0,323,34.0
+90,137,university of technology sydney,au,australia,l,co,vh,3,a,43.0,195,58.0,143,9.0,701+,95.0,52,97.0,132,94.0,95,80.0,146,30.0,260,93.0,72,62.0
+58,72,university of texas at austin,us,united states,xl,fc,vh,5,a,94.0,35,83.0,65,9.0,701+,87.0,85,9.0,701+,11.0,691,79.0,147,70.0,73,78.0,163,72.0
+404,412,university of the philippines,ph,philippines,xl,fc,hi,5,a,34.0,250,59.0,136,38.0,415,2.0,701+,2.0,701+,1.0,701+,9.0,685,35.0,213,39.0,370,28.0
+21,34,university of toronto,ca,canada,xl,fc,vh,5,a,100.0,11,96.0,33,54.0,283,57.0,226,96.0,145,96.0,80,96.0,46,96.0,22,100.0,2,86.0
+429,457,university of trento,it,italy,l,co,vh,4,a,25.0,352,9.0,601+,19.0,685,44.0,305,27.0,509,6.0,701+,61.0,238,9.0,701+,35.0,400,26.0
+577,454,university of tromsø the arctic university of norway,no,norway,l,fc,hi,4,a,12.0,601+,4.0,601+,71.0,182,9.0,701+,70.0,273,8.0,701+,43.0,360,10.0,701+,22.0,524,21.0
+355,312,university of tsukuba,jp,japan,l,fc,vh,4,a,36.0,242,24.0,402,59.0,243,19.0,569,14.0,691,21.0,529,32.0,450,12.0,701+,58.0,259,31.0
+364,475,university of turin,it,italy,xl,fc,vh,5,a,40.0,213,6.0,601+,3.0,701+,37.0,380,5.0,701+,5.0,701+,69.0,199,33.0,236,84.0,123,30.0
+315,291,university of turku,fi,finland,l,fc,vh,5,a,28.0,311,21.0,440,52.0,302,32.0,417,27.0,505,4.0,701+,63.0,227,28.0,291,78.0,163,33.0
+210,212,university of twente,nl,netherlands,m,fo,vh,4,a,21.0,422,38.0,254,39.0,404,65.0,171,99.0,94,91.0,112,68.0,208,13.0,687,33.0,416,44.0
+441,392,university of utah,us,united states,l,fc,vh,5,a,16.0,548,6.0,601+,53.0,295,37.0,383,25.0,530,10.0,701+,54.0,289,15.0,560,49.0,315,26.0
+322,359,university of victoria (uvic),ca,canada,l,co,vh,4,a,17.0,514,8.0,601+,4.0,701+,65.0,174,95.0,149,49.0,304,19.0,551,12.0,701+,90.0,94,33.0
+130,151,university of vienna,at,austria,xl,fc,vh,5,a,71.0,88,43.0,217,22.0,629,15.0,646,99.0,92,88.0,129,94.0,62,57.0,109,74.0,180,54.0
+260,253,university of virginia,us,united states,l,fc,vh,5,a,36.0,243,32.0,307,57.0,257,34.0,401,8.0,701+,11.0,700,58.0,262,69.0,77,63.0,232,39.0
+250,331,university of waikato,nz,new zealand,m,co,vh,4,a,18.0,484,13.0,601+,11.0,701+,75.0,128,99.0,91,73.0,192,18.0,568,45.0,162,80.0,152,40.0
+262,284,university of warsaw,pl,poland,xl,co,vh,5,a,49.0,169,53.0,150,42.0,375,6.0,701+,10.0,701+,9.0,701+,62.0,233,37.0,204,80.0,150,38.0
+63,80,university of washington,us,united states,xl,fc,vh,5,a,84.0,58,50.0,168,19.0,692,94.0,62,19.0,600,33.0,392,94.0,59,70.0,74,88.0,106,69.0
+112,154,university of waterloo,ca,canada,xl,co,vh,4,a,41.0,208,67.0,117,7.0,701+,83.0,100,77.0,241,78.0,172,55.0,281,56.0,112,97.0,36,58.0
+102,83,university of wisconsin-madison,us,united states,xl,fc,vh,5,a,80.0,71,48.0,182,61.0,229,37.0,376,31.0,483,23.0,501,84.0,126,73.0,61,84.0,126,60.0
+264,428,university of witwatersrand,za,south africa,l,fc,vh,5,a,26.0,341,43.0,214,11.0,701+,28.0,453,80.0,229,8.0,701+,92.0,65,97.0,21,63.0,239,38.0
+162,185,university of wollongong,au,australia,l,fc,vh,3,a,30.0,290,25.0,382,16.0,701+,94.0,60,96.0,146,56.0,265,73.0,186,17.0,492,92.0,75,50.0
+167,162,university of york,uk,united kingdom,l,fc,vh,4,a,44.0,194,35.0,275,45.0,351,40.0,342,88.0,192,78.0,171,79.0,150,20.0,421,98.0,26,49.0
+91,83,university of zurich,ch,switzerland,l,fc,vh,5,a,59.0,126,28.0,352,90.0,88,52.0,248,100.0,60,53.0,274,87.0,100,75.0,58,80.0,149,62.0
+542,375,university ulm,de,germany,m,fo,vh,4,a,8.0,601+,4.0,601+,78.0,144,34.0,404,41.0,403,21.0,533,15.0,603,7.0,701+,3.0,701+,22.0
+595,436,università vita-salute san raffaele,it,italy,s,sp,,3,b,3.0,601+,2.0,601+,99.0,40,39.0,352,8.0,701+,3.0,701+,4.0,701+,8.0,701+,1.0,701+,20.0
+219,243,università di padova,it,italy,xl,fc,vh,5,a,57.0,133,22.0,428,8.0,701+,52.0,250,13.0,701+,9.0,701+,91.0,73,14.0,620,95.0,55,43.0
+600,441,universität des saarlandes,de,germany,l,fc,vh,4,a,11.0,601+,5.0,601+,90.0,87,8.0,701+,5.0,701+,39.0,350,39.0,384,20.0,416,2.0,701+,20.0
+205,228,universität hamburg,de,germany,l,fc,vh,5,a,51.0,160,29.0,340,17.0,701+,60.0,205,42.0,395,22.0,512,87.0,101,27.0,305,53.0,292,45.0
+362,308,universität innsbruck,at,austria,l,fc,hi,5,a,20.0,433,7.0,601+,69.0,187,11.0,701+,100.0,65,100.0,27,33.0,434,36.0,208,17.0,586,31.0
+461,352,universität jena,de,germany,l,fc,vh,5,a,19.0,482,6.0,601+,100.0,20,10.0,701+,0.0,,22.0,509,84.0,125,8.0,701+,16.0,592,25.0
+479,420,universität leipzig,de,germany,l,fc,vh,5,a,25.0,344,10.0,601+,71.0,181,10.0,701+,0.0,,16.0,602,59.0,249,10.0,701+,35.0,403,24.0
+312,355,universität stuttgart,de,germany,l,co,vh,5,a,24.0,361,27.0,357,6.0,701+,65.0,177,37.0,430,50.0,296,37.0,405,19.0,430,34.0,411,34.0
+180,195,université catholique de louvain (uclouvain),be,belgium,l,fc,vh,5,b,49.0,166,31.0,317,4.0,701+,60.0,203,89.0,186,39.0,347,83.0,130,52.0,125,55.0,279,48.0
+141,116,université de montréal,ca,canada,xl,fc,vh,5,a,57.0,136,35.0,283,77.0,154,25.0,491,88.0,191,52.0,277,65.0,216,36.0,205,96.0,50,52.0
+236,248,université de paris-cité,fr,france,xl,fo,vh,1,a,32.0,275,6.0,601+,9.0,701+,94.0,61,19.0,598,42.0,336,100.0,11,12.0,701+,46.0,331,41.0
+421,434,université de strasbourg,fr,france,xl,fc,vh,5,a,40.0,216,8.0,601+,5.0,701+,23.0,512,36.0,449,39.0,357,70.0,194,11.0,701+,15.0,614,27.0
+294,317,université grenoble alpes,fr,france,xl,fc,vh,1,a,45.0,188,10.0,601+,8.0,701+,49.0,276,18.0,611,35.0,380,93.0,64,14.0,596,41.0,360,36.0
+441,433,université laval,ca,canada,l,fc,vh,5,a,20.0,443,11.0,601+,26.0,577,25.0,484,67.0,290,36.0,372,55.0,280,24.0,343,31.0,432,26.0
+328,300,université paris 1 panthéon-sorbonne,fr,france,xl,fo,vh,5,a,65.0,104,25.0,385,4.0,701+,3.0,701+,38.0,421,46.0,314,30.0,458,32.0,238,16.0,588,33.0
+71,69,université paris-saclay,fr,france,xl,co,vh,1,a,59.0,128,99.0,13,100.0,25,46.0,294,39.0,416,61.0,244,99.0,17,34.0,224,74.0,182,68.0
+24,26,université psl,fr,france,l,co,vh,1,a,74.0,82,97.0,25,99.0,33,96.0,49,69.0,280,73.0,196,100.0,3,61.0,97,80.0,146,86.0
+1401+,,université sorbonne paris nord,fr,france,,co,,,,10.0,601+,5.0,601+,0.0,,0.0,,0.0,,0.0,,14.0,611,0.0,,0.0,,0.0
+105,128,uppsala university,se,sweden,l,fc,vh,5,a,63.0,111,31.0,320,48.0,330,46.0,296,98.0,108,82.0,152,96.0,47,58.0,105,99.0,12,59.0
+473,335,ural federal university - urfu,ru,russia,xl,co,vh,5,a,21.0,410,13.0,601+,93.0,70,2.0,701+,6.0,701+,26.0,465,63.0,225,7.0,701+,25.0,490,24.0
+328,240,usi - università della svizzera italiana,ch,switzerland,s,fo,vh,3,a,6.0,601+,4.0,601+,83.0,120,56.0,229,100.0,23,100.0,11,4.0,701+,8.0,701+,1.0,701+,33.0
+107,112,utrecht university,nl,netherlands,xl,fc,vh,5,a,67.0,102,32.0,311,33.0,487,81.0,108,57.0,323,21.0,531,95.0,54,27.0,309,84.0,128,59.0
+261,199,vanderbilt university,us,united states,l,fc,vh,5,b,25.0,348,20.0,459,100.0,9,37.0,377,36.0,442,35.0,383,47.0,332,36.0,206,51.0,299,38.0
+241,275,victoria university of wellington,nz,new zealand,l,co,vh,4,a,45.0,186,26.0,375,9.0,701+,32.0,418,100.0,88,35.0,382,38.0,393,47.0,149,94.0,66,41.0
+473,400,vilnius university,lt,lithuania,l,fc,hi,5,a,20.0,447,28.0,346,83.0,119,3.0,701+,13.0,701+,15.0,622,44.0,351,26.0,325,12.0,647,24.0
+302,363,virginia polytechnic institute and state university,us,united states,xl,fc,vh,5,a,26.0,337,40.0,232,19.0,701+,35.0,389,72.0,267,18.0,577,70.0,197,21.0,402,53.0,292,35.0
+207,214,vrije universiteit amsterdam,nl,netherlands,xl,fc,vh,5,a,40.0,217,16.0,531,24.0,607,68.0,156,69.0,284,40.0,340,70.0,195,20.0,414,89.0,95,45.0
+259,251,vrije universiteit brussel (vub),be,belgium,l,fc,vh,4,a,23.0,373,17.0,512,76.0,160,22.0,527,94.0,158,59.0,252,88.0,94,31.0,244,67.0,215,39.0
+151,124,wageningen university & research,nl,netherlands,l,fo,vh,5,a,43.0,196,19.0,472,98.0,47,46.0,292,55.0,336,79.0,170,98.0,22,19.0,438,72.0,196,51.0
+199,205,waseda university,jp,japan,xl,co,vh,5,b,60.0,118,97.0,24,24.0,602,4.0,701+,28.0,503,29.0,436,18.0,569,66.0,87,57.0,268,46.0
+419,443,washington state university,us,united states,l,fc,vh,5,a,24.0,354,18.0,489,16.0,701+,35.0,386,50.0,358,6.0,701+,47.0,335,11.0,701+,50.0,309,27.0
+154,118,washington university in st. louis,us,united states,l,fc,vh,5,b,39.0,224,10.0,601+,100.0,28,51.0,259,84.0,214,68.0,219,61.0,241,34.0,228,91.0,83,51.0
+114,172,western university,ca,canada,xl,fc,vh,5,a,32.0,273,47.0,186,4.0,701+,98.0,30,100.0,86,55.0,268,56.0,274,93.0,30,100.0,8,57.0
+384,384,westfälische wilhelms-universität münster,de,germany,l,fc,vh,5,a,32.0,278,25.0,389,55.0,271,13.0,688,30.0,489,5.0,701+,59.0,252,26.0,314,28.0,471,29.0
+194,194,wuhan university,cn,china (mainland),xl,fc,vh,4,a,41.0,204,44.0,205,13.0,701+,87.0,82,41.0,405,5.0,701+,48.0,324,35.0,218,44.0,336,47.0
+392,422,xiamen university,cn,china (mainland),xl,fc,vh,4,a,26.0,340,12.0,601+,20.0,664,65.0,170,5.0,701+,3.0,701+,25.0,494,22.0,387,17.0,579,28.0
+291,302,xi’an jiaotong university,cn,china (mainland),xl,fc,vh,4,a,21.0,406,42.0,222,17.0,701+,81.0,106,4.0,701+,4.0,701+,37.0,403,21.0,397,35.0,403,36.0
+16,18,yale university,us,united states,m,fc,vh,5,b,100.0,9,100.0,7,100.0,3,46.0,293,90.0,184,79.0,169,86.0,112,100.0,9,99.0,13,88.0
+369,246,yeshiva university,us,united states,m,fc,vh,5,b,3.0,601+,3.0,601+,75.0,167,100.0,14,0.0,,9.0,701+,4.0,701+,10.0,701+,1.0,701+,30.0
+76,73,yonsei university,kr,south korea,l,fc,vh,4,b,80.0,72,96.0,31,87.0,97,36.0,385,20.0,594,50.0,298,25.0,498,71.0,69,38.0,377,65.0
+353,456,york university,ca,canada,xl,co,vh,4,a,23.0,377,21.0,441,5.0,701+,29.0,440,51.0,356,81.0,157,28.0,471,53.0,119,81.0,144,31.0
+44,42,zhejiang university,cn,china (mainland),xl,fc,vh,4,a,74.0,81,96.0,36,67.0,198,98.0,37,98.0,120,27.0,456,75.0,174,38.0,194,52.0,297,78.0
+1401+,,zürcher hochschule winterthur,ch,switzerland,,co,,,,6.0,601+,7.0,601+,0.0,,0.0,,0.0,,0.0,,2.0,701+,0.0,,0.0,,0.0
+184,111,école normale supérieure de lyon,fr,france,s,co,vh,5,a,31.0,285,14.0,570,96.0,59,98.0,27,71.0,272,15.0,628,34.0,425,10.0,701+,6.0,701+,48.0
